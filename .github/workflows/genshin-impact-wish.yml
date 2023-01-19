@@ -23,5 +23,5 @@ jobs:
         GIT_NAME: ${{ secrets.GIT_NAME }}
         GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
       run: |
-        pip3 install -r requirements.txt
+        pip3 install -q -r requirements.txt
         python3 genshin_impact_wish.py
