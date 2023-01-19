@@ -1,0 +1,27 @@
+name: genshin-impact-wish
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 4 * * *"
+jobs:
+  genshin-impact-wish:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Shanghai
+    steps:
+    - name: Checkout source
+      uses: actions/checkout@v3
+      with:
+        submodules: true
+    - name: Setup Python 3.9
+      uses: actions/setup-python@v3.1.2
+      with:
+        python-version: 3.9
+    - name: Run genshin_impact_wish.py
+      env:
+        GIT_NAME: ${{ secrets.GIT_NAME }}
+        GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
+      run: |
+        pip3 install -r requirements.txt
+        python3 genshin_impact_wish.py
