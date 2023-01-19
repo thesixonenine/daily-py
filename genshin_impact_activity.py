@@ -12,7 +12,6 @@ new_content_list = []
 if not os.path.isfile(activity_txt):
     with open(activity_txt, mode='x') as f:
         pass
-    f.close()
 
 
 # 读取文件中的活动
@@ -21,7 +20,6 @@ with open(activity_txt, mode='r') as f:
     for line in f.readlines():
         j = json.loads(line)
         content_list[j['contentId']] = line.removesuffix('\n')
-f.close()
 
 
 # 下载活动
@@ -61,7 +59,6 @@ for i in sorted(content_list, key=lambda x: int(x), reverse=True):
     context.append(content_list[i])
 with open(activity_txt, mode='w') as f:
     f.writelines("\n".join(context))
-f.close()
 
 # 读取文件内容并打印
 # context = ''
