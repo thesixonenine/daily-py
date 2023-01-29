@@ -6,6 +6,7 @@
 
 | title | url |
 |:---:|:---:|
+| 【网页活动上线】剪彩映虹——参与可得原石等游戏内奖励 | https://ys.mihoyo.com/main/news/detail/26053 |
 | 《原神》「流光拾遗之旅」——仙闻篇·内画 | https://ys.mihoyo.com/main/news/detail/26049 |
 | 《原神》「流光拾遗之旅」——仙闻篇·木版年画 | https://ys.mihoyo.com/main/news/detail/26036 |
 | 《原神》海灯节CM短片：明霄幻梦 | https://ys.mihoyo.com/main/news/detail/26030 |
@@ -15,5 +16,4 @@
 | 除夕快乐｜啊，我的虾饺！你又吓我—— | https://ys.mihoyo.com/main/news/detail/25908 |
 | 原神｜你们俩牌技了得啊，一会让我也来试试！ | https://ys.mihoyo.com/main/news/detail/25907 |
 | 原神｜粗茶淡饭，招待不周，还请多担待。 | https://ys.mihoyo.com/main/news/detail/25906 |
-| 原神｜玉衡星大人又在工作呀，过节也该放松一下嘛~ | https://ys.mihoyo.com/main/news/detail/25905 |
 
