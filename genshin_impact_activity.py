@@ -30,7 +30,7 @@ def download_activity(page_num: int, page_size: int):
     try:
         return str(requests.get(
             "https://ys.mihoyo.com/content/ysCn/getContentList?pageSize=" + str(page_size) + "&pageNum=" + str(page_num) + "&channelId=10").content, encoding='utf-8')
-    finally:
+    except:
         return ""
     # return str(urlopen("https://ys.mihoyo.com/content/ysCn/getContentList?pageSize=" + str(page_size) + "&pageNum=" + str(page_num) + "&channelId=10").readlines()[0], encoding='utf-8')
 
