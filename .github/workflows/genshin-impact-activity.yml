@@ -45,5 +45,5 @@ jobs:
         EMAIL_TO: ${{ secrets.EMAIL_TO }}
       run: |
         pip3 install --use-pep517 -q -r requirements.txt >> $GITHUB_OUTPUT
-        python3 genshin_impact_activity.py >> $GITHUB_OUTPUT
-        python3 readme_generator.py >> $GITHUB_OUTPUT
+        python3 genshin_impact_activity.py
+        python3 readme_generator.py
