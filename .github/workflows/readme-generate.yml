@@ -21,13 +21,13 @@ jobs:
     steps:
     - name: Checkout source
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
       with:
         submodules: true
     - name: Setup Python 3.9
-      uses: actions/setup-python@v3.1.2
+      uses: actions/setup-python@v4
       with:
-        python-version: 3.9
+        python-version: '3.9'
     - name: Run readme_generator.py
       env:
         # Git信息
@@ -38,5 +38,5 @@ jobs:
         REPO: github.com/thesixonenine/thesixonenine.github.io
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
-        pip3 install --use-pep517 -q -r requirements.txt
-        python3 readme_generator.py
+        pip install --use-pep517 -q -r requirements.txt
+        python readme_generator.py

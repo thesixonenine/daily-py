@@ -15,13 +15,13 @@ jobs:
       with:
         submodules: true
     - name: Setup Python 3.9
-      uses: actions/setup-python@v3.1.2
+      uses: actions/setup-python@v4
       with:
-        python-version: 3.9
+        python-version: '3.9'
     - name: Run genshin_impact_wish.py
       env:
         GIT_NAME: ${{ secrets.GIT_NAME }}
         GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
       run: |
-        pip3 install --use-pep517 -q -r requirements.txt
-        python3 genshin_impact_wish.py
+        pip install --use-pep517 -q -r requirements.txt
+        python genshin_impact_wish.py

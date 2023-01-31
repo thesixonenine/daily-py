@@ -25,9 +25,9 @@ jobs:
       with:
         submodules: true
     - name: Setup Python 3.9
-      uses: actions/setup-python@v3.1.2
+      uses: actions/setup-python@v4
       with:
-        python-version: 3.9
+        python-version: '3.9'
     - name: Run genshin_impact_activity.py
       env:
         # Git信息
@@ -44,6 +44,6 @@ jobs:
         EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
         EMAIL_TO: ${{ secrets.EMAIL_TO }}
       run: |
-        pip3 install --use-pep517 -q -r requirements.txt
-        python3 genshin_impact_activity.py
-        python3 readme_generator.py
+        pip install --use-pep517 -q -r requirements.txt
+        python genshin_impact_activity.py
+        python readme_generator.py
