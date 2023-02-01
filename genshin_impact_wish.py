@@ -21,7 +21,7 @@ def print_list(l: list):
     s = ""
     for i in range(len(l)):
         s = s + "/" + to_zh(l[i])
-    return s.removesuffix(" ")
+    return s.strip().removeprefix("/").removesuffix("/")
 
 
 def main():
