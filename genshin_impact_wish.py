@@ -11,8 +11,6 @@ def load_eng_to_zh():
         for line in f:
             (key, val) = line.split('=')
             eng_to_zh[key] = val
-    eng_to_zh["hu_tao"] = "胡桃"
-    eng_to_zh["yelan"] = "夜兰"
 
 
 def to_zh(s: str):
