@@ -1,49 +1,136 @@
 ## 角色卡池历史
 | 版本 | 开始时间 | 结束时间 | 五星 | 四星 |
 | ---- | ---- | ---- | ---- | ---- |
-| 3.4 | 2023-02-07 18:00:00 | 2023-02-28 14:59:59 |  胡桃 夜兰 |  北斗 ningguang xingqiu |
-| 3.4 | 2023-01-18 06:00:00 | 2023-02-07 17:59:59 |  alhaitham xiao |  xinyan yun_jin yaoyao |
+| 3.4 | 2023-02-07 18:00:00 | 2023-02-28 14:59:59 |  胡桃
+ 夜兰
+ |  北斗
+ 凝光
+ 行秋
+ |
+| 3.4 | 2023-01-18 06:00:00 | 2023-02-07 17:59:59 |  艾尔海森
+ 魈
+ |  辛焱
+ 云堇
+ 瑶瑶
+ |
 | 3.3 | 2022-12-27 18:00:00 | 2023-01-17 14:59:59 |  raiden_shogun kamisato_ayato |  sayu rosaria kujou_sara |
 | 3.3 | 2022-12-07 06:00:00 | 2022-12-27 17:59:59 |  wanderer arataki_itto |  faruzan yanfei gorou |
-| 3.2 | 2022-11-18 18:00:00 | 2022-12-06 14:59:59 |  yae_miko tartaglia |  thoma shikanoin_heizou layla |
-| 3.2 | 2022-11-02 06:00:00 | 2022-11-18 17:59:59 |  nahida yoimiya |  bennett razor noelle |
-| 3.1 | 2022-10-14 18:00:00 | 2022-11-01 14:59:59 |  nilou albedo |  barbara xiangling 北斗 |
-| 3.1 | 2022-09-28 06:00:00 | 2022-10-14 17:59:59 |  cyno venti |  sayu candace kuki_shinobu |
-| 3.0 | 2022-09-09 18:00:00 | 2022-09-27 14:59:59 |  ganyu sangonomiya_kokomi |  xingqiu sucrose dori |
-| 3.0 | 2022-08-24 06:00:00 | 2022-09-09 17:59:59 |  tighnari zhongli |  collei fischl diona |
-| 2.8 | 2022-08-02 18:00:00 | 2022-08-23 14:59:59 |  yoimiya |  yun_jin xinyan bennett |
-| 2.8 | 2022-07-13 06:00:00 | 2022-08-02 17:59:59 |  kaedehara_kazuha klee |  ningguang thoma shikanoin_heizou |
-| 2.7 | 2022-06-21 18:00:00 | 2022-07-12 14:59:59 |  arataki_itto |  chongyun gorou kuki_shinobu |
-| 2.7 | 2022-05-31 09:00:00 | 2022-06-21 17:59:59 |  夜兰 xiao |  barbara noelle yanfei |
+| 3.2 | 2022-11-18 18:00:00 | 2022-12-06 14:59:59 |  八重神子
+ 达达利亚
+ |  托马
+ shikanoin_heizou layla |
+| 3.2 | 2022-11-02 06:00:00 | 2022-11-18 17:59:59 |  nahida yoimiya |  班尼特
+ razor noelle |
+| 3.1 | 2022-10-14 18:00:00 | 2022-11-01 14:59:59 |  nilou albedo |  barbara xiangling 北斗
+ |
+| 3.1 | 2022-09-28 06:00:00 | 2022-10-14 17:59:59 |  cyno 温迪
+ |  sayu candace kuki_shinobu |
+| 3.0 | 2022-09-09 18:00:00 | 2022-09-27 14:59:59 |  甘雨
+ sangonomiya_kokomi |  行秋
+ sucrose dori |
+| 3.0 | 2022-08-24 06:00:00 | 2022-09-09 17:59:59 |  tighnari 钟离
+ |  collei 菲谢尔 迪奥娜
+ |
+| 2.8 | 2022-08-02 18:00:00 | 2022-08-23 14:59:59 |  yoimiya |  云堇
+ 辛焱
+ 班尼特
+ |
+| 2.8 | 2022-07-13 06:00:00 | 2022-08-02 17:59:59 |  kaedehara_kazuha klee |  凝光
+ 托马
+ shikanoin_heizou |
+| 2.7 | 2022-06-21 18:00:00 | 2022-07-12 14:59:59 |  arataki_itto |  重云
+ gorou kuki_shinobu |
+| 2.7 | 2022-05-31 09:00:00 | 2022-06-21 17:59:59 |  夜兰
+ 魈
+ |  barbara noelle yanfei |
 | 2.6 | 2022-04-19 18:00:00 | 2022-05-31 05:59:59 |  kamisato_ayaka |  sayu razor rosaria |
-| 2.6 | 2022-03-30 06:00:00 | 2022-04-19 17:59:59 |  kamisato_ayato venti |  yun_jin xiangling sucrose |
-| 2.5 | 2022-03-08 18:00:00 | 2022-03-29 14:59:59 |  raiden_shogun sangonomiya_kokomi |  bennett xinyan kujou_sara |
-| 2.5 | 2022-02-16 06:00:00 | 2022-03-08 17:59:59 |  yae_miko |  thoma diona fischl |
-| 2.4 | 2022-01-25 18:00:00 | 2022-02-15 14:59:59 |  zhongli ganyu |  xingqiu 北斗 yanfei |
-| 2.4 | 2022-01-05 06:00:00 | 2022-01-25 17:59:59 |  shenhe xiao |  yun_jin ningguang chongyun |
+| 2.6 | 2022-03-30 06:00:00 | 2022-04-19 17:59:59 |  kamisato_ayato 温迪
+ |  云堇
+ xiangling sucrose |
+| 2.5 | 2022-03-08 18:00:00 | 2022-03-29 14:59:59 |  raiden_shogun sangonomiya_kokomi |  班尼特
+ 辛焱
+ kujou_sara |
+| 2.5 | 2022-02-16 06:00:00 | 2022-03-08 17:59:59 |  八重神子
+ |  托马
+ 迪奥娜
+ 菲谢尔 |
+| 2.4 | 2022-01-25 18:00:00 | 2022-02-15 14:59:59 |  钟离
+ 甘雨
+ |  行秋
+ 北斗
+ yanfei |
+| 2.4 | 2022-01-05 06:00:00 | 2022-01-25 17:59:59 |  申鹤
+ 魈
+ |  云堇
+ 凝光
+ 重云
+ |
 | 2.3 | 2021-12-14 18:00:00 | 2022-01-04 17:59:59 |  arataki_itto |  gorou xiangling barbara |
-| 2.3 | 2021-11-24 06:00:00 | 2021-12-14 17:59:59 |  albedo eula |  rosaria noelle bennett |
-| 2.2 | 2021-11-02 18:00:00 | 2021-11-23 14:59:59 |  胡桃 |  thoma diona sayu |
-| 2.2 | 2021-10-13 06:00:00 | 2021-11-02 17:59:59 |  tartaglia |  ningguang chongyun yanfei |
-| 2.1 | 2021-09-21 18:00:00 | 2021-10-12 14:59:59 |  sangonomiya_kokomi |  rosaria 北斗 xingqiu |
+| 2.3 | 2021-11-24 06:00:00 | 2021-12-14 17:59:59 |  albedo eula |  rosaria noelle 班尼特
+ |
+| 2.2 | 2021-11-02 18:00:00 | 2021-11-23 14:59:59 |  胡桃
+ |  托马
+ 迪奥娜
+ sayu |
+| 2.2 | 2021-10-13 06:00:00 | 2021-11-02 17:59:59 |  达达利亚
+ |  凝光
+ 重云
+ yanfei |
+| 2.1 | 2021-09-21 18:00:00 | 2021-10-12 14:59:59 |  sangonomiya_kokomi |  rosaria 北斗
+ 行秋
+ |
 | 2.1 | 2021-09-01 06:00:00 | 2021-09-21 17:59:59 |  raiden_shogun |  xiangling sucrose kujou_sara |
-| 2.0 | 2021-08-10 18:00:00 | 2021-08-31 14:59:59 |  yoimiya |  sayu diona xinyan |
-| 2.0 | 2021-07-21 06:00:00 | 2021-08-10 17:59:59 |  kamisato_ayaka |  chongyun ningguang yanfei |
-| 1.6 | 2021-06-29 18:00:00 | 2021-07-20 14:59:59 |  kaedehara_kazuha |  bennett razor rosaria |
-| 1.6 | 2021-06-09 06:00:00 | 2021-06-29 17:59:59 |  klee |  fischl sucrose barbara |
-| 1.5 | 2021-05-18 18:00:00 | 2021-06-08 15:00:00 |  eula |  xingqiu 北斗 xinyan |
-| 1.5 | 2021-04-28 06:00:00 | 2021-05-18 17:59:59 |  zhongli |  yanfei noelle diona |
-| 1.4 | 2021-04-06 18:00:00 | 2021-04-27 15:00:00 |  tartaglia |  rosaria fischl barbara |
-| 1.4 | 2021-03-17 06:00:00 | 2021-04-06 16:00:00 |  venti |  sucrose razor noelle |
-| 1.3 | 2021-03-02 18:00:00 | 2021-03-16 15:00:00 |  胡桃 |  xingqiu xiangling chongyun |
-| 1.3 | 2021-02-17 18:00:00 | 2021-03-02 16:00:00 |  keqing |  barbara bennett ningguang |
-| 1.3 | 2021-02-03 06:00:00 | 2021-02-17 16:00:00 |  xiao |  diona xinyan 北斗 |
-| 1.2 | 2021-01-12 18:00:00 | 2021-02-02 15:00:00 |  ganyu |  xingqiu xiangling noelle |
-| 1.2 | 2020-12-23 06:00:00 | 2021-01-12 16:00:00 |  albedo |  fischl bennett sucrose |
-| 1.1 | 2020-12-01 18:00:00 | 2020-12-22 15:00:00 |  zhongli |  xinyan razor chongyun |
-| 1.1 | 2020-11-11 06:00:00 | 2020-12-01 16:00:00 |  tartaglia |  ningguang 北斗 diona |
-| 1.0 | 2020-10-20 18:00:00 | 2020-11-10 16:00:00 |  klee |  xingqiu sucrose noelle |
-| 1.0 | 2020-09-28 00:00:00 | 2020-10-18 18:00:00 |  venti |  barbara fischl xiangling |
+| 2.0 | 2021-08-10 18:00:00 | 2021-08-31 14:59:59 |  yoimiya |  sayu 迪奥娜
+ 辛焱
+ |
+| 2.0 | 2021-07-21 06:00:00 | 2021-08-10 17:59:59 |  kamisato_ayaka |  重云
+ 凝光
+ yanfei |
+| 1.6 | 2021-06-29 18:00:00 | 2021-07-20 14:59:59 |  kaedehara_kazuha |  班尼特
+ razor rosaria |
+| 1.6 | 2021-06-09 06:00:00 | 2021-06-29 17:59:59 |  klee |  菲谢尔 sucrose barbara |
+| 1.5 | 2021-05-18 18:00:00 | 2021-06-08 15:00:00 |  eula |  行秋
+ 北斗
+ 辛焱
+ |
+| 1.5 | 2021-04-28 06:00:00 | 2021-05-18 17:59:59 |  钟离
+ |  yanfei noelle 迪奥娜
+ |
+| 1.4 | 2021-04-06 18:00:00 | 2021-04-27 15:00:00 |  达达利亚
+ |  rosaria 菲谢尔 barbara |
+| 1.4 | 2021-03-17 06:00:00 | 2021-04-06 16:00:00 |  温迪
+ |  sucrose razor noelle |
+| 1.3 | 2021-03-02 18:00:00 | 2021-03-16 15:00:00 |  胡桃
+ |  行秋
+ xiangling 重云
+ |
+| 1.3 | 2021-02-17 18:00:00 | 2021-03-02 16:00:00 |  刻晴
+ |  barbara 班尼特
+ 凝光
+ |
+| 1.3 | 2021-02-03 06:00:00 | 2021-02-17 16:00:00 |  魈
+ |  迪奥娜
+ 辛焱
+ 北斗
+ |
+| 1.2 | 2021-01-12 18:00:00 | 2021-02-02 15:00:00 |  甘雨
+ |  行秋
+ xiangling noelle |
+| 1.2 | 2020-12-23 06:00:00 | 2021-01-12 16:00:00 |  albedo |  菲谢尔 班尼特
+ sucrose |
+| 1.1 | 2020-12-01 18:00:00 | 2020-12-22 15:00:00 |  钟离
+ |  辛焱
+ razor 重云
+ |
+| 1.1 | 2020-11-11 06:00:00 | 2020-12-01 16:00:00 |  达达利亚
+ |  凝光
+ 北斗
+ 迪奥娜
+ |
+| 1.0 | 2020-10-20 18:00:00 | 2020-11-10 16:00:00 |  klee |  行秋
+ sucrose noelle |
+| 1.0 | 2020-09-28 00:00:00 | 2020-10-18 18:00:00 |  温迪
+ |  barbara 菲谢尔 xiangling |
 
 
 ## 武器卡池历史
