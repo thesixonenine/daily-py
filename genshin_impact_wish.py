@@ -3,8 +3,26 @@ import os
 import re
 import requests
 
+eng_to_zh = dict()
+
+
+def load_eng_to_zh():
+    eng_to_zh["hu_tao"] = "胡桃"
+
+
+def to_zh(s: str):
+    return eng_to_zh.get(s, s)
+
+
+def print_list(l: list):
+    s = ""
+    for i in range(len(l)):
+        s = s + to_zh(l[i])
+    return s
+
 
 def main():
+    load_eng_to_zh()
     with open("manifest.json", "wb") as f:
         f.write(requests.get("https://paimon.moe/manifest.json").content)
     url = None
@@ -52,7 +70,7 @@ def main():
             four_list = wish['featuredRare']
             start = wish['start']
             end = wish['end']
-            f.write("| " + ver + " | " + start + " | " + end + " | " + str(five_list) + " | " + str(four_list) + " |\n")
+            f.write("| " + ver + " | " + start + " | " + end + " | " + print_list(five_list) + " | " + print_list(four_list) + " |\n")
         f.write("\n\n")
         f.write("## 武器卡池历史\n")
         f.write("| 版本 | 开始时间 | 结束时间 | 五星 | 四星 |\n")
@@ -64,7 +82,7 @@ def main():
             four_list = wish['featuredRare']
             start = wish['start']
             end = wish['end']
-            f.write("| " + ver + " | " + start + " | " + end + " | " + str(five_list) + " | " + str(four_list) + " |\n")
+            f.write("| " + ver + " | " + start + " | " + end + " | " + print_list(five_list) + " | " + print_list(four_list) + " |\n")
 
 
 if __name__ == '__main__':
