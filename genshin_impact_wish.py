@@ -7,7 +7,12 @@ eng_to_zh = dict()
 
 
 def load_eng_to_zh():
+    with open('manifest.json', 'r', encoding='utf-8') as f:
+        for line in f:
+            (key, val) = line.split('=')
+            eng_to_zh[key] = val
     eng_to_zh["hu_tao"] = "胡桃"
+    eng_to_zh["yelan"] = "夜兰"
 
 
 def to_zh(s: str):
@@ -17,8 +22,8 @@ def to_zh(s: str):
 def print_list(l: list):
     s = ""
     for i in range(len(l)):
-        s = s + to_zh(l[i])
-    return s
+        s = s + " " + to_zh(l[i])
+    return s.removesuffix(" ")
 
 
 def main():
