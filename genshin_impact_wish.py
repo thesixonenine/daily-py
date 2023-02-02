@@ -9,7 +9,7 @@ eng_to_zh = dict()
 def load_eng_to_zh():
     with open('genshin_impact_eng_to_zh', 'r', encoding='utf-8') as f:
         for line in f:
-            if line == "":
+            if line.strip() == "":
                 continue
             (key, val) = line.split('=')
             eng_to_zh[str(key).strip()] = str(val).strip()
