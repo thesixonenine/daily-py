@@ -2,6 +2,10 @@
 每日定时任务
 
 
+## Genshin Impact Wish
+[Wish History](./genshin_impact_wish.md)
+
+
 ## Genshin Impact News
 
 | title | url |
