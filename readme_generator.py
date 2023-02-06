@@ -27,6 +27,12 @@ def genshin_impact_news(doc: MarkdownGenerator):
     doc.addTable(header_names=['title', 'url'], dictionary_list=news_table)
 
 
+def genshin_impact_with(doc: MarkdownGenerator):
+    doc.writeTextLine()
+    doc.addHeader(level=2, text='Genshin Impact Wish')
+    doc.writeTextLine("[Wish History](./genshin_impact_wish.md)")
+
+
 def main():
     with MarkdownGenerator(
             # By setting enable_write as False, content of the file is written
@@ -37,7 +43,6 @@ def main():
         doc.addHeader(1, "daily-py")
         doc.writeTextLine('每日定时任务')
         genshin_impact_news(doc)
-        # reptile_render(doc)
 
 
 if __name__ == "__main__":
