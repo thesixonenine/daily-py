@@ -9,6 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       TZ: Asia/Shanghai
+    timeout-minutes: 2
     steps:
     - name: Checkout source
       uses: actions/checkout@v3
