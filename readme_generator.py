@@ -42,6 +42,7 @@ def main():
     ) as doc:
         doc.addHeader(1, "daily-py")
         doc.writeTextLine('每日定时任务')
+        genshin_impact_with(doc)
         genshin_impact_news(doc)
 
 
