@@ -29,7 +29,7 @@ def genshin_impact_news(doc: MarkdownGenerator):
 
 def genshin_impact_with(doc: MarkdownGenerator):
     doc.writeTextLine()
-    doc.addHeader(level=2, text='Genshin Impact Wish')
+    doc.addHeader(level=2, text='Genshin Impact Wishes')
     doc.writeTextLine("[Wish History](./genshin_impact_wish.md)")
 
 
