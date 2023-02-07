@@ -5,21 +5,21 @@ import requests
 from send_mail import send_mail_from_txt
 
 detail_url_prefix = 'https://ys.mihoyo.com/main/news/detail/'
-activity_txt = 'genshin_impact_activity.txt'
+genshin_impact_activity_data = 'genshin_impact_activity'
 new_content_list = []
 content_list = {}
 
 
 # 文件存在判断
 def create_file():
-    if not os.path.isfile(activity_txt):
-        with open(activity_txt, mode='x') as f:
+    if not os.path.isfile(genshin_impact_activity_data):
+        with open(genshin_impact_activity_data, mode='x') as f:
             pass
 
 
 def load_file():
     # 读取文件中的活动
-    with open(activity_txt, mode='r') as f:
+    with open(genshin_impact_activity_data, mode='r') as f:
         for line in f.readlines():
             j = json.loads(line)
             content_list[j['contentId']] = line.removesuffix('\n')
@@ -72,16 +72,8 @@ def main():
     context = []
     for i in sorted(content_list, key=lambda x: int(x), reverse=True):
         context.append(content_list[i])
-    with open(activity_txt, mode='w') as f:
+    with open(genshin_impact_activity_data, mode='w') as f:
         f.writelines("\n".join(context))
-
-    # 读取文件内容并打印
-    # context = ''
-    # with open(file="genshin_impact_activity.txt", mode='r') as f:
-    #     for line in f.readlines():
-    #         context = context + line
-    # print(context)
-    # f.close()
 
     # 新活动发送邮件
     if len(new_content_list) > 0:
@@ -95,7 +87,7 @@ def main():
         os.system('rm -rf ' + mail_content_txt)
         os.system('git config --global user.name ' + os.getenv('GIT_NAME'))
         os.system('git config --global user.email ' + os.getenv('GIT_EMAIL'))
-        os.system('git add genshin_impact_activity.txt')
+        os.system('git add ' + genshin_impact_activity_data)
         os.system('git commit -am \'genshin-impact-news\'')
         os.system('git push')
         print(new_content_list)

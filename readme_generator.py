@@ -1,19 +1,18 @@
-import base64
 import os
 import json
 from markdowngenerator.markdowngenerator import MarkdownGenerator
 
 
 def genshin_impact_news(doc: MarkdownGenerator):
-    activity_txt = 'genshin_impact_activity.txt'
+    genshin_impact_activity_data = 'genshin_impact_activity'
     detail_url_prefix = 'https://ys.mihoyo.com/main/news/detail/'
-    if not os.path.isfile(activity_txt):
+    if not os.path.isfile(genshin_impact_activity_data):
         return
     # 读取文件中的活动
     news_table = []
     news_len = 10
     content_list = {}
-    with open(activity_txt, mode='r', encoding='utf-8') as f:
+    with open(genshin_impact_activity_data, mode='r', encoding='utf-8') as f:
         i = 0
         for line in f.readlines():
             i = i + 1
