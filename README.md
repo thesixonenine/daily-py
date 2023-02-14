@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》「荒泷极意堂堂斗虫大试合」斗虫小技巧 | https://ys.mihoyo.com/main/news/detail/26307 |
 | 「微博粉丝数800W达成！」 | https://ys.mihoyo.com/main/news/detail/26301 |
 | 「1600W粉丝数达成！」  | https://ys.mihoyo.com/main/news/detail/26300 |
 | 《原神》「壁纸放送」 | https://ys.mihoyo.com/main/news/detail/26299 |
@@ -19,5 +20,4 @@
 | 《原神》EP - 拈骰冥思之夜 | https://ys.mihoyo.com/main/news/detail/26186 |
 | 《原神》微博超话3.4版本第二期签到活动现已开启 | https://ys.mihoyo.com/main/news/detail/26185 |
 | 「星彩漫天」——《原神》烟花卡片集换H5正式上线 | https://ys.mihoyo.com/main/news/detail/26174 |
-| 【网页活动上线】剪彩映虹——参与可得原石等游戏内奖励 | https://ys.mihoyo.com/main/news/detail/26053 |
 
