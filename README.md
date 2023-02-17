@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》3.5版本PV：「风花的呼吸」 | https://ys.mihoyo.com/main/news/detail/26325 |
 | 《原神》特别信件——【02.16】开发组座谈会 | https://ys.mihoyo.com/main/news/detail/26322 |
 | 《原神》3.5版本「风花的呼吸」前瞻特别节目预告 | https://ys.mihoyo.com/main/news/detail/26321 |
 | 原神｜巧克力明明是一种甜食，尝起来却有苦涩的味道… | https://ys.mihoyo.com/main/news/detail/26309 |
@@ -19,5 +20,4 @@
 | 原神｜呵呵…收了我的「贿赂」，以后就不能拒绝我的「要求」咯。 | https://ys.mihoyo.com/main/news/detail/26305 |
 | 「微博粉丝数800W达成！」 | https://ys.mihoyo.com/main/news/detail/26301 |
 | 「1600W粉丝数达成！」  | https://ys.mihoyo.com/main/news/detail/26300 |
-| 《原神》「壁纸放送」 | https://ys.mihoyo.com/main/news/detail/26299 |
 
