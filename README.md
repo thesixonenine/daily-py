@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 珊瑚宫心海生日快乐｜剑鱼二番队队长，你的小队成员都在等你哦。 | https://ys.mihoyo.com/main/news/detail/26338 |
 | 《原神》寻味之旅——「璃月食集」第三期 | https://ys.mihoyo.com/main/news/detail/26337 |
 | 必胜客x原神第二期联动即将开启 | https://ys.mihoyo.com/main/news/detail/26332 |
 | 必胜邀约 寻珍之旅｜必胜客×原神 联动再临！ | https://ys.mihoyo.com/main/news/detail/26331 |
@@ -19,5 +20,4 @@
 | 《原神》3.5版本「风花的呼吸」前瞻特别节目回顾长图  | https://ys.mihoyo.com/main/news/detail/26326 |
 | 《原神》3.5版本PV：「风花的呼吸」 | https://ys.mihoyo.com/main/news/detail/26325 |
 | 《原神》特别信件——【02.16】开发组座谈会 | https://ys.mihoyo.com/main/news/detail/26322 |
-| 《原神》3.5版本「风花的呼吸」前瞻特别节目预告 | https://ys.mihoyo.com/main/news/detail/26321 |
 
