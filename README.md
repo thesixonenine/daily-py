@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》EP - 春露漫散之虹 | https://ys.mihoyo.com/main/news/detail/26777 |
 | 《原神》角色演示-「米卡：绘羽的领行」 | https://ys.mihoyo.com/main/news/detail/26768 |
 | 「我…我来为队伍探路！」——「晴霜的标绘」·米卡 | https://ys.mihoyo.com/main/news/detail/26765 |
 | 《原神》3.5版本「风花的呼吸」活动速递第二期 | https://ys.mihoyo.com/main/news/detail/26684 |
@@ -19,5 +20,4 @@
 | 原神｜我没有特别的故事作为回报…这包点心送予你。 | https://ys.mihoyo.com/main/news/detail/26654 |
 | 原神｜本大爷今天带来了我的「挚爱」，特意分享给你！ | https://ys.mihoyo.com/main/news/detail/26653 |
 | 原神｜你也感兴趣？那便来选一颗你喜欢的吧。 | https://ys.mihoyo.com/main/news/detail/26652 |
-| 琴生日快乐｜要一起在城里逛逛吗？午饭我请你。 | https://ys.mihoyo.com/main/news/detail/26651 |
 
