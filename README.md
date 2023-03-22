@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》「灵蕈棋阵」玩法小贴士 | https://ys.mihoyo.com/main/news/detail/26848 |
 | 诺艾尔生日快乐｜不知道你是喜欢先吃松饼，还是先吃水果呢？  | https://ys.mihoyo.com/main/news/detail/26845 |
 | 《原神》「灵蕈棋阵」活动即将开启 | https://ys.mihoyo.com/main/news/detail/26844 |
 | 《原神》「神铸赋形」活动祈愿现已开启，「长柄武器·息灾」「单手剑·雾切之回光」概率UP！ | https://ys.mihoyo.com/main/news/detail/26843 |
@@ -19,5 +20,4 @@
 | 《原神》EP - 春露漫散之虹 | https://ys.mihoyo.com/main/news/detail/26777 |
 | 《原神》角色演示-「米卡：绘羽的领行」 | https://ys.mihoyo.com/main/news/detail/26768 |
 | 「我…我来为队伍探路！」——「晴霜的标绘」·米卡 | https://ys.mihoyo.com/main/news/detail/26765 |
-| 《原神》3.5版本「风花的呼吸」活动速递第二期 | https://ys.mihoyo.com/main/news/detail/26684 |
 
