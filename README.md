@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》手柄（无线控制器）使用FAQ | https://ys.mihoyo.com/main/news/detail/26914 |
 | 《原神》「灵蕈棋阵」玩法小贴士 | https://ys.mihoyo.com/main/news/detail/26848 |
 | 诺艾尔生日快乐｜不知道你是喜欢先吃松饼，还是先吃水果呢？  | https://ys.mihoyo.com/main/news/detail/26845 |
 | 《原神》「灵蕈棋阵」活动即将开启 | https://ys.mihoyo.com/main/news/detail/26844 |
@@ -19,5 +20,4 @@
 | 《原神》拾枝杂谈-「米卡：银星之伴」 | https://ys.mihoyo.com/main/news/detail/26840 |
 | 《原神》EP - 春露漫散之虹 | https://ys.mihoyo.com/main/news/detail/26777 |
 | 《原神》角色演示-「米卡：绘羽的领行」 | https://ys.mihoyo.com/main/news/detail/26768 |
-| 「我…我来为队伍探路！」——「晴霜的标绘」·米卡 | https://ys.mihoyo.com/main/news/detail/26765 |
 
