@@ -10,6 +10,9 @@
 
 | title | url |
 |:---:|:---:|
+|  《原神》3.6版本「盛典与慧业」前瞻特别节目回顾长图  | https://ys.mihoyo.com/main/news/detail/26964 |
+| 《原神》3.6版本「盛典与慧业」前瞻特别节目 | https://ys.mihoyo.com/main/news/detail/26963 |
+| 《原神》3.6版本PV：「盛典与慧业」 | https://ys.mihoyo.com/main/news/detail/26962 |
 | 《原神》「地脉移涌」活动即将开启 | https://ys.mihoyo.com/main/news/detail/26961 |
 | 《原神》3.6版本「盛典与慧业」前瞻特别节目预告 | https://ys.mihoyo.com/main/news/detail/26916 |
 | 《原神》「有香自西来·寻味北地」活动即将开启 | https://ys.mihoyo.com/main/news/detail/26915 |
@@ -17,7 +20,4 @@
 | 《原神》「灵蕈棋阵」玩法小贴士 | https://ys.mihoyo.com/main/news/detail/26848 |
 | 诺艾尔生日快乐｜不知道你是喜欢先吃松饼，还是先吃水果呢？  | https://ys.mihoyo.com/main/news/detail/26845 |
 | 《原神》「灵蕈棋阵」活动即将开启 | https://ys.mihoyo.com/main/news/detail/26844 |
-| 《原神》「神铸赋形」活动祈愿现已开启，「长柄武器·息灾」「单手剑·雾切之回光」概率UP！ | https://ys.mihoyo.com/main/news/detail/26843 |
-| 《原神》「白鹭之庭」活动祈愿现已开启 | https://ys.mihoyo.com/main/news/detail/26842 |
-| 《原神》「出尘入世」活动祈愿现已开启 | https://ys.mihoyo.com/main/news/detail/26841 |
 
