@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 【须弥冒险笔记·苍漠囿土篇】3.6版本新区域展示页上线！ | https://ys.mihoyo.com/main/news/detail/26985 |
 | 「喵？喵。」 | https://ys.mihoyo.com/main/news/detail/26969 |
 | 「喵喵喵，喵喵，喵喵！」 | https://ys.mihoyo.com/main/news/detail/26968 |
 | 「喵，喵。」 | https://ys.mihoyo.com/main/news/detail/26967 |
@@ -19,5 +20,4 @@
 | 《原神》3.6版本PV：「盛典与慧业」 | https://ys.mihoyo.com/main/news/detail/26962 |
 | 《原神》「地脉移涌」活动即将开启 | https://ys.mihoyo.com/main/news/detail/26961 |
 | 《原神》3.6版本「盛典与慧业」前瞻特别节目预告 | https://ys.mihoyo.com/main/news/detail/26916 |
-| 《原神》「有香自西来·寻味北地」活动即将开启 | https://ys.mihoyo.com/main/news/detail/26915 |
 
