@@ -10,7 +10,9 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》3.6版本「七圣召唤」全新卡牌说明 | https://ys.mihoyo.com/main/news/detail/26986 |
 | 【须弥冒险笔记·苍漠囿土篇】3.6版本新区域展示页上线！ | https://ys.mihoyo.com/main/news/detail/26985 |
+| 迪希雅生日快乐｜你说我今天的妆容很好看？哈哈，谢谢！ | https://ys.mihoyo.com/main/news/detail/26984 |
 | 「喵？喵。」 | https://ys.mihoyo.com/main/news/detail/26969 |
 | 「喵喵喵，喵喵，喵喵！」 | https://ys.mihoyo.com/main/news/detail/26968 |
 | 「喵，喵。」 | https://ys.mihoyo.com/main/news/detail/26967 |
@@ -18,6 +20,4 @@
 |  《原神》3.6版本「盛典与慧业」前瞻特别节目回顾长图  | https://ys.mihoyo.com/main/news/detail/26964 |
 | 《原神》3.6版本「盛典与慧业」前瞻特别节目 | https://ys.mihoyo.com/main/news/detail/26963 |
 | 《原神》3.6版本PV：「盛典与慧业」 | https://ys.mihoyo.com/main/news/detail/26962 |
-| 《原神》「地脉移涌」活动即将开启 | https://ys.mihoyo.com/main/news/detail/26961 |
-| 《原神》3.6版本「盛典与慧业」前瞻特别节目预告 | https://ys.mihoyo.com/main/news/detail/26916 |
 
