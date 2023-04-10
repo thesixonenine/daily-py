@@ -10,6 +10,9 @@
 
 | title | url |
 |:---:|:---:|
+|  《原神》「神铸赋形」祈愿即将开启，「法器·千夜浮梦」「单手剑·圣显之钥」概率UP！ | https://ys.mihoyo.com/main/news/detail/26995 |
+| 《原神》「翩舞歈莲」祈愿即将开启 | https://ys.mihoyo.com/main/news/detail/26994 |
+| 《原神》「月草的赐慧」活动祈愿即将开启 | https://ys.mihoyo.com/main/news/detail/26993 |
 | 《原神》3.6版本「盛典与慧业」全新装备说明 | https://ys.mihoyo.com/main/news/detail/26990 |
 | 《原神》3.6版本「七圣召唤」全新卡牌说明 | https://ys.mihoyo.com/main/news/detail/26986 |
 | 【须弥冒险笔记·苍漠囿土篇】3.6版本新区域展示页上线！ | https://ys.mihoyo.com/main/news/detail/26985 |
@@ -17,7 +20,4 @@
 | 「喵？喵。」 | https://ys.mihoyo.com/main/news/detail/26969 |
 | 「喵喵喵，喵喵，喵喵！」 | https://ys.mihoyo.com/main/news/detail/26968 |
 | 「喵，喵。」 | https://ys.mihoyo.com/main/news/detail/26967 |
-| 「...喵。喵喵喵。」 | https://ys.mihoyo.com/main/news/detail/26966 |
-|  《原神》3.6版本「盛典与慧业」前瞻特别节目回顾长图  | https://ys.mihoyo.com/main/news/detail/26964 |
-| 《原神》3.6版本「盛典与慧业」前瞻特别节目 | https://ys.mihoyo.com/main/news/detail/26963 |
 
