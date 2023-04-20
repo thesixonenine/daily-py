@@ -10,6 +10,8 @@
 
 | title | url |
 |:---:|:---:|
+| 「林风的和弦」——《原神》第二张须弥篇OST宣传H5正式上线 | https://ys.mihoyo.com/main/news/detail/27120 |
+| 夜兰生日快乐｜随我来吧，二楼已经备好了雅座。 | https://ys.mihoyo.com/main/news/detail/27119 |
 | 《原神》「风沙轰鸣」活动小贴士 | https://ys.mihoyo.com/main/news/detail/27118 |
 | 《原神》第二张须弥篇OST「啁哳流变之砂 The Unfathomable Sand Dunes」现已正式上线 | https://ys.mihoyo.com/main/news/detail/27090 |
 | 《原神》「风沙轰鸣」活动即将开启 | https://ys.mihoyo.com/main/news/detail/27089 |
@@ -18,6 +20,4 @@
 | 《原神》寻味之旅——「璃月食集」第四期 | https://ys.mihoyo.com/main/news/detail/27065 |
 | 魈生日快乐｜等吃完这盘杏仁豆腐，要一起下去巡视吗？ | https://ys.mihoyo.com/main/news/detail/27064 |
 | 《原神》EP - 四时旋舞之熙 | https://ys.mihoyo.com/main/news/detail/27014 |
-| 全新强敌——「阿佩普的绿洲守望者」 | https://ys.mihoyo.com/main/news/detail/27013 |
-| 《原神》超话 3.6版本第一期签到活动现已上线 | https://ys.mihoyo.com/main/news/detail/27012 |
 
