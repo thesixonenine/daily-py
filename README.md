@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》「盛典与慧业」玩法说明 | https://ys.mihoyo.com/main/news/detail/27314 |
 | 《原神》「盛典与慧业」活动即将开启，参与邀请「机逐封秘·珐露珊(风)」 | https://ys.mihoyo.com/main/news/detail/27308 |
 | 原神 x 支付宝2023年度绿色出行活动即将开启！ | https://ys.mihoyo.com/main/news/detail/27224 |
 | 《原神》过场动画-「归乡」 | https://ys.mihoyo.com/main/news/detail/27223 |
@@ -19,5 +20,4 @@
 | 《原神》第二张须弥篇OST「啁哳流变之砂 The Unfathomable Sand Dunes」现已正式上线 | https://ys.mihoyo.com/main/news/detail/27090 |
 | 《原神》「风沙轰鸣」活动即将开启 | https://ys.mihoyo.com/main/news/detail/27089 |
 | 「三千娑世御咏歌-演绎版」：《原神》须弥2 OST宣传MV  | https://ys.mihoyo.com/main/news/detail/27088 |
-| 《原神》第二张须弥篇OST即将上线 | https://ys.mihoyo.com/main/news/detail/27077 |
 
