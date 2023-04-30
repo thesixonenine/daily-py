@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 迪卢克生日快乐｜趁时间还早，不如一起看看蒙德的日出吧。 | https://ys.mihoyo.com/main/news/detail/27329 |
 | 「上次的方案还能优化一下，趁没到截止日再改改好了…」 | https://ys.mihoyo.com/main/news/detail/27328 |
 | 《原神》角色演示-「卡维：忱挚织穹」 | https://ys.mihoyo.com/main/news/detail/27327 |
 | 《原神》「神铸赋形」活动祈愿即将开启，「法器·碧落之珑」「弓·阿莫斯之弓」概率UP！ | https://ys.mihoyo.com/main/news/detail/27326 |
@@ -19,5 +20,4 @@
 | 「良药苦口啊。」——「遵生合和」·白术 | https://ys.mihoyo.com/main/news/detail/27315 |
 | 《原神》「盛典与慧业」玩法说明 | https://ys.mihoyo.com/main/news/detail/27314 |
 | 《原神》白术角色PV——「良方难觅」 | https://ys.mihoyo.com/main/news/detail/27312 |
-| 《原神》「盛典与慧业」活动即将开启，参与邀请「机逐封秘·珐露珊(风)」 | https://ys.mihoyo.com/main/news/detail/27308 |
 
