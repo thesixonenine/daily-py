@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》表情包「派蒙的画作第23弹」现已上线 | https://ys.mihoyo.com/main/news/detail/27541 |
 | 《原神》剧情PV-「长生」 | https://ys.mihoyo.com/main/news/detail/27539 |
 | 《原神》拾枝杂谈-「卡维：宏愿迢迢」 | https://ys.mihoyo.com/main/news/detail/27536 |
 | 《原神》拾枝杂谈-「白术：良药知时」 | https://ys.mihoyo.com/main/news/detail/27535 |
@@ -19,5 +20,4 @@
 | 《原神》角色演示-「白术：治则求本」 | https://ys.mihoyo.com/main/news/detail/27334 |
 | 坎蒂丝生日快乐｜我会在此护你长梦无忧，直到黎明的朝阳升起。 | https://ys.mihoyo.com/main/news/detail/27330 |
 | 迪卢克生日快乐｜趁时间还早，不如一起看看蒙德的日出吧。 | https://ys.mihoyo.com/main/news/detail/27329 |
-| 「上次的方案还能优化一下，趁没到截止日再改改好了…」 | https://ys.mihoyo.com/main/news/detail/27328 |
 
