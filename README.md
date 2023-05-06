@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》「忆昔诸途巡历」活动即将开启 | https://ys.mihoyo.com/main/news/detail/27544 |
 | 《原神》盛典与慧业活动过场动画-「荣冕」 | https://ys.mihoyo.com/main/news/detail/27542 |
 | 《原神》表情包「派蒙的画作第23弹」现已上线 | https://ys.mihoyo.com/main/news/detail/27541 |
 | 《原神》剧情PV-「长生」 | https://ys.mihoyo.com/main/news/detail/27539 |
@@ -19,5 +20,4 @@
 | 《原神》「浮生孰来」活动祈愿现已开启 | https://ys.mihoyo.com/main/news/detail/27533 |
 | 《原神》「心珠循琅」活动祈愿现已开启 | https://ys.mihoyo.com/main/news/detail/27532 |
 | 《原神》角色演示-「白术：治则求本」 | https://ys.mihoyo.com/main/news/detail/27334 |
-| 坎蒂丝生日快乐｜我会在此护你长梦无忧，直到黎明的朝阳升起。 | https://ys.mihoyo.com/main/news/detail/27330 |
 
