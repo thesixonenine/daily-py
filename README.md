@@ -10,6 +10,8 @@
 
 | title | url |
 |:---:|:---:|
+| 【网页活动上线】熠金妙剂——参与可得原石等游戏内奖励 | https://ys.mihoyo.com/main/news/detail/27619 |
+| 《原神》3.7版本「决斗！召唤之巅！」前瞻特别节目预告 | https://ys.mihoyo.com/main/news/detail/27618 |
 | 柯莱生日快乐｜只是想摸摸柯里安巴？噗，当然可以啦，给！ | https://ys.mihoyo.com/main/news/detail/27553 |
 | 《原神》「忆昔诸途巡历」活动小贴士 | https://ys.mihoyo.com/main/news/detail/27545 |
 | 《原神》「忆昔诸途巡历」活动即将开启 | https://ys.mihoyo.com/main/news/detail/27544 |
@@ -18,6 +20,4 @@
 | 《原神》剧情PV-「长生」 | https://ys.mihoyo.com/main/news/detail/27539 |
 | 《原神》拾枝杂谈-「卡维：宏愿迢迢」 | https://ys.mihoyo.com/main/news/detail/27536 |
 | 《原神》拾枝杂谈-「白术：良药知时」 | https://ys.mihoyo.com/main/news/detail/27535 |
-| 《原神》「神铸赋形」活动祈愿现已开启，「法器·碧落之珑」「弓·阿莫斯之弓」概率UP！ | https://ys.mihoyo.com/main/news/detail/27534 |
-| 《原神》「浮生孰来」活动祈愿现已开启 | https://ys.mihoyo.com/main/news/detail/27533 |
 
