@@ -10,6 +10,8 @@
 
 | title | url |
 |:---:|:---:|
+| 3.7版本「决斗！召唤之巅！」全新武器说明 | https://ys.mihoyo.com/main/news/detail/27686 |
+|  云堇生日快乐｜真巧，可谓是：落日红枫遇知音。 | https://ys.mihoyo.com/main/news/detail/27685 |
 | 「备战！召唤王！」3.7版本七圣召唤新内容展示页上线！ | https://ys.mihoyo.com/main/news/detail/27684 |
 | 「感谢选择『狛荷屋』！」——「檐宇猫游」·绮良良 | https://ys.mihoyo.com/main/news/detail/27683 |
 | 《原神》角色演示-「绮良良：歧尾万巷行」 | https://ys.mihoyo.com/main/news/detail/27682 |
@@ -18,6 +20,4 @@
 | #原神提瓦特游记-创作者激励计划现已开启 | https://ys.mihoyo.com/main/news/detail/27657 |
 | #原神×微信游戏联动-创作者激励计划现已开启 | https://ys.mihoyo.com/main/news/detail/27656 |
 | 「派蒙的画作微信游戏篇」联动主题表情包即将上线！ | https://ys.mihoyo.com/main/news/detail/27655 |
-| 「携友山间行」——微信游戏×原神 趣味分享活动现已上线 | https://ys.mihoyo.com/main/news/detail/27654 |
-| 「携友之行」原神×微信游戏 联动现已开启 | https://ys.mihoyo.com/main/news/detail/27653 |
 
