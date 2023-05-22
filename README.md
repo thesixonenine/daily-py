@@ -10,14 +10,14 @@
 
 | title | url |
 |:---:|:---:|
-| 预下载已开启 | https://ys.mihoyo.com/main/news/detail/27691 |
-| 「决斗！召唤之巅！」3.7版本更新维护预告 | https://ys.mihoyo.com/main/news/detail/27688 |
-| 3.7版本「决斗！召唤之巅！」全新武器说明 | https://ys.mihoyo.com/main/news/detail/27686 |
-|  云堇生日快乐｜真巧，可谓是：落日红枫遇知音。 | https://ys.mihoyo.com/main/news/detail/27685 |
-| 「备战！召唤王！」3.7版本七圣召唤新内容展示页上线！ | https://ys.mihoyo.com/main/news/detail/27684 |
-| 「感谢选择『狛荷屋』！」——「檐宇猫游」·绮良良 | https://ys.mihoyo.com/main/news/detail/27683 |
-| 《原神》角色演示-「绮良良：歧尾万巷行」 | https://ys.mihoyo.com/main/news/detail/27682 |
-| 五郎生日快乐｜米袋，快，和旅行者打招呼！ | https://ys.mihoyo.com/main/news/detail/27665 |
-| 《原神》「派蒙的画作科颜氏联动篇」联动主题表情包即将上架~ | https://ys.mihoyo.com/main/news/detail/27658 |
-| #原神提瓦特游记-创作者激励计划现已开启 | https://ys.mihoyo.com/main/news/detail/27657 |
+| 3.7版本 「决斗！召唤之巅！」内容专题页上线！ | https://ys.mihoyo.com/main/news/detail/27702 |
+| 「决斗！召唤之巅！」3.7版本活动速递第一期 | https://ys.mihoyo.com/main/news/detail/27701 |
+| 「秘典纪行」活动说明 | https://ys.mihoyo.com/main/news/detail/27700 |
+| 「冒险助力礼包」第23期限时上架 | https://ys.mihoyo.com/main/news/detail/27699 |
+| 「琉金之章·第二幕」传说任务说明 | https://ys.mihoyo.com/main/news/detail/27698 |
+| 「邀约事件 · 第十辑」传说任务说明 | https://ys.mihoyo.com/main/news/detail/27697 |
+| 「七圣召唤」活动：铸境研炼 | https://ys.mihoyo.com/main/news/detail/27696 |
+| 「决斗！召唤之巅！」活动：参与获得活动专属武器「弓·鹮穿之喙」 | https://ys.mihoyo.com/main/news/detail/27695 |
+| 「神铸赋形」祈愿：「弓·飞雷之弦振」「法器·神乐之真意」概率UP！ | https://ys.mihoyo.com/main/news/detail/27694 |
+| 「华紫樱绯」祈愿：「浮世笑百姿·八重神子(雷)」概率UP！ | https://ys.mihoyo.com/main/news/detail/27693 |
 
