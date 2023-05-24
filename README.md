@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 「决斗！召唤之巅！」活动说明 | https://ys.mihoyo.com/main/news/detail/27712 |
 | 微信视频号《原神》3.7版本直播激励活动即将开启 | https://ys.mihoyo.com/main/news/detail/27711 |
 | QQ小世界《原神》3.7版本创作者激励计划&amp;直播激励活动即将开启 | https://ys.mihoyo.com/main/news/detail/27710 |
 | 小红书《原神》3.7版本笔记征集活动即将开启 | https://ys.mihoyo.com/main/news/detail/27709 |
@@ -19,5 +20,4 @@
 | 抖音《原神》3.7版本创作者激励计划&amp;直播激励活动即将开启 | https://ys.mihoyo.com/main/news/detail/27705 |
 | 原神3.7版本微博限时表情活动预告 | https://ys.mihoyo.com/main/news/detail/27704 |
 | 3.7版本 「决斗！召唤之巅！」内容专题页上线！ | https://ys.mihoyo.com/main/news/detail/27702 |
-| 「决斗！召唤之巅！」3.7版本活动速递第一期 | https://ys.mihoyo.com/main/news/detail/27701 |
 
