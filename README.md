@@ -10,6 +10,8 @@
 
 | title | url |
 |:---:|:---:|
+| 微博《原神》3.7版本创作者激励计划现已开启 | https://ys.mihoyo.com/main/news/detail/27750 |
+| 「决斗！召唤之巅！」对战视频征集活动 | https://ys.mihoyo.com/main/news/detail/27748 |
 | 《原神》3.7版本「决斗！召唤之巅！」微信游戏圈专属活动现已开启 | https://ys.mihoyo.com/main/news/detail/27737 |
 | 《原神》3.7版本QQ频道频道主激励计划现已开启 | https://ys.mihoyo.com/main/news/detail/27736 |
 | 《原神》3.7版本QQ频道专属福利活动以及游戏玩家激励计划现已开启 | https://ys.mihoyo.com/main/news/detail/27735 |
@@ -18,6 +20,4 @@
 | 3.7版本超话签到活动第一期 | https://ys.mihoyo.com/main/news/detail/27730 |
 | 「决斗！召唤之巅！」3.7版本更新说明 | https://ys.mihoyo.com/main/news/detail/27729 |
 | 「决斗！召唤之巅！」活动说明 | https://ys.mihoyo.com/main/news/detail/27712 |
-| 微信视频号《原神》3.7版本直播激励活动即将开启 | https://ys.mihoyo.com/main/news/detail/27711 |
-| QQ小世界《原神》3.7版本创作者激励计划&amp;直播激励活动即将开启 | https://ys.mihoyo.com/main/news/detail/27710 |
 
