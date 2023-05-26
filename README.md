@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》过场动画-「流星知愿」 | https://ys.mihoyo.com/main/news/detail/27769 |
 | 微博《原神》3.7版本创作者激励计划现已开启 | https://ys.mihoyo.com/main/news/detail/27750 |
 | 「决斗！召唤之巅！」对战视频征集活动 | https://ys.mihoyo.com/main/news/detail/27748 |
 | 《原神》3.7版本「决斗！召唤之巅！」微信游戏圈专属活动现已开启 | https://ys.mihoyo.com/main/news/detail/27737 |
@@ -19,5 +20,4 @@
 | 《原神》拾枝杂谈-「绮良良：呜喵疾行」 | https://ys.mihoyo.com/main/news/detail/27731 |
 | 3.7版本超话签到活动第一期 | https://ys.mihoyo.com/main/news/detail/27730 |
 | 「决斗！召唤之巅！」3.7版本更新说明 | https://ys.mihoyo.com/main/news/detail/27729 |
-| 「决斗！召唤之巅！」活动说明 | https://ys.mihoyo.com/main/news/detail/27712 |
 
