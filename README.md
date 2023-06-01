@@ -10,6 +10,9 @@
 
 | title | url |
 |:---:|:---:|
+| 「七圣召唤」热斗模式：列阵斗巧 | https://ys.mihoyo.com/main/news/detail/27828 |
+|  荒泷一斗生日快乐｜送得早不如送得巧，一会的斗虫比赛就靠它了！ | https://ys.mihoyo.com/main/news/detail/27808 |
+| 派蒙生日快乐｜啦啦啦♪啦♪~啦♪~嘿嘿，派蒙唱的好听吗？ | https://ys.mihoyo.com/main/news/detail/27807 |
 | 《原神》过场动画-「流星知愿」 | https://ys.mihoyo.com/main/news/detail/27769 |
 | 《原神》表情包「派蒙的画作第24弹」现已上线 | https://ys.mihoyo.com/main/news/detail/27768 |
 | 菲谢尔生日快乐｜与本皇女一同见证三千宇宙命运的尽头吧！ | https://ys.mihoyo.com/main/news/detail/27767 |
@@ -17,7 +20,4 @@
 | 「决斗！召唤之巅！」对战视频征集活动 | https://ys.mihoyo.com/main/news/detail/27748 |
 | 《原神》3.7版本「决斗！召唤之巅！」微信游戏圈专属活动现已开启 | https://ys.mihoyo.com/main/news/detail/27737 |
 | 《原神》3.7版本QQ频道频道主激励计划现已开启 | https://ys.mihoyo.com/main/news/detail/27736 |
-| 《原神》3.7版本QQ频道专属福利活动以及游戏玩家激励计划现已开启 | https://ys.mihoyo.com/main/news/detail/27735 |
-| #原神3.7版本激励计划-微信游戏圈话题活动现已开启 | https://ys.mihoyo.com/main/news/detail/27734 |
-| 《原神》拾枝杂谈-「绮良良：呜喵疾行」 | https://ys.mihoyo.com/main/news/detail/27731 |
 
