@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 丽莎生日快乐｜不仅按时还书还带了礼物，真是懂事的小可爱呢。 | https://ys.mihoyo.com/main/news/detail/27866 |
 | 「决斗！召唤之巅！」3.7版本活动速递第二期 | https://ys.mihoyo.com/main/news/detail/27861 |
 | 「神铸赋形」祈愿：「单手剑·裁叶萃光」「单手剑·苍古自由之誓」概率UP！ | https://ys.mihoyo.com/main/news/detail/27860 |
 | 「叶落风随」祈愿：「红叶逐荒波·枫原万叶(风)」概率UP！ | https://ys.mihoyo.com/main/news/detail/27859 |
@@ -19,5 +20,4 @@
 | 「神工天巧·宝录之章」活动贴士——拟想秘境留言簿 | https://ys.mihoyo.com/main/news/detail/27852 |
 | 「诲韬诤言」艾尔海森同人绘画作品征集开启 | https://ys.mihoyo.com/main/news/detail/27851 |
 | 「红叶逐荒波」枫原万叶同人绘画作品征集开启 | https://ys.mihoyo.com/main/news/detail/27850 |
-| 《原神》「神工天巧·宝录之章」玩法介绍 | https://ys.mihoyo.com/main/news/detail/27849 |
 
