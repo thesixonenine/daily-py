@@ -39,5 +39,5 @@ jobs:
         EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
         EMAIL_TO: ${{ secrets.EMAIL_TO }}
       run: |
-        curl -H "Referer:https://www.ruankao.org.cn/" https://query.ruankao.org.cn/score/main | grep "2023年上半年" && python send_mail.py ruankao "2023年上半年可查询"
+        curl -s -H "Referer:https://www.ruankao.org.cn/" https://query.ruankao.org.cn/score/main | grep "2022年上半年" && echo "2022年上半年" && python send_mail.py ruankao "2022年上半年可查询"
         
