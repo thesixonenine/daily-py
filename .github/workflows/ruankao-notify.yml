@@ -1,0 +1,43 @@
+name: ruankao-notify
+
+# Controls when the action will run. 
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  genshin-impact-activity:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Shanghai
+    timeout-minutes: 2
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    - name: Checkout source
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      uses: actions/checkout@v3
+      with:
+        submodules: true
+    - name: Setup Python 3.9
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+    - name: Run curl
+      env:
+        # Git信息
+        GIT_NAME: ${{ secrets.GIT_NAME }}
+        GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
+        # 邮件信息
+        EMAIL_FROM_USERNAME: ${{ secrets.EMAIL_FROM_USERNAME }}
+        EMAIL_FROM_PASSWORD: ${{ secrets.EMAIL_FROM_PASSWORD }}
+        EMAIL_FROM_SMTP: ${{ secrets.EMAIL_FROM_SMTP }}
+        EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+        EMAIL_TO: ${{ secrets.EMAIL_TO }}
+      run: |
+        curl -H "Referer:https://www.ruankao.org.cn/" https://query.ruankao.org.cn/score/main | grep "2023年上半年" && python send_mail.py ruankao "2023年上半年可查询"
+        
