@@ -36,7 +36,7 @@ jobs:
         EMAIL_FROM_SMTP: ${{ secrets.EMAIL_FROM_SMTP }}
         EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
         EMAIL_TO: ${{ secrets.EMAIL_TO }}
-        KAO_YEAR: "2023年上半年"
+        KAO_YEAR: "2022年上半年"
       run: |
         git config --global user.name $GIT_NAME
         git config --global user.email $GIT_EMAIL
