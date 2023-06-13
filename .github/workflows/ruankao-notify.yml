@@ -1,8 +1,8 @@
 name: ruankao-notify
 on:
   workflow_dispatch:
-#  schedule:
-#    - cron: "*/30 * * * *"
+  schedule:
+    - cron: "*/30 * * * *"
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -44,4 +44,4 @@ jobs:
         sed -i '4s/^/#/' ./.github/workflows/ruankao-notify.yml && \
         sed -i '5s/^/#/' ./.github/workflows/ruankao-notify.yml && \
         git add ./.github/workflows/ruankao-notify.yml && \
-        git commit -m "${KAO_YEAR}可查询" && git push;else echo "没有查询到${KAO_YEAR}";fi
+        git commit -m "${KAO_YEAR}可查询" && git push && python send_mail.py ruankao "${KAO_YEAR}可查询";else echo "没有查询到${KAO_YEAR}";fi
