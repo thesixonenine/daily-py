@@ -38,9 +38,10 @@ jobs:
         EMAIL_TO: ${{ secrets.EMAIL_TO }}
         KAO_YEAR: "2023年上半年"
       run: |
-        curl -s -H "Referer:https://www.ruankao.org.cn/" https://query.ruankao.org.cn/score/main | grep -q "${KAO_YEAR}" && sed -i '4s/^/#/' ./.github/workflows/ruankao-notify.yml && sed -i '5s/^/#/' ./.github/workflows/ruankao-notify.yml && python send_mail.py ruankao "${KAO_YEAR}可查询"
-        git add ./.github/workflows/ruankao-notify.yml
         git config --global user.name $GIT_NAME
         git config --global user.email $GIT_EMAIL
-        git commit -m "${KAO_YEAR}可查询"
-        git push
+        if curl -s -H "Referer:https://www.ruankao.org.cn/" https://query.ruankao.org.cn/score/main | grep -q "${KAO_YEAR}"; then \
+        sed -i '4s/^/#/' ./.github/workflows/ruankao-notify.yml && \
+        sed -i '5s/^/#/' ./.github/workflows/ruankao-notify.yml && \
+        git add ./.github/workflows/ruankao-notify.yml && \
+        git commit -m "${KAO_YEAR}可查询" && git push;else echo "没有查询到${KAO_YEAR}";fi
