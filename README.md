@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 「离垢者肃心旅宴」活动小贴士01期  凄响之悲雷 | https://ys.mihoyo.com/main/news/detail/27956 |
 | 《原神》EP-谛思归悟之境 | https://ys.mihoyo.com/main/news/detail/27953 |
 | 3.7版本超话签到活动第二期 | https://ys.mihoyo.com/main/news/detail/27952 |
 | 「离垢者肃心旅宴」活动：极致武艺战强敌 | https://ys.mihoyo.com/main/news/detail/27889 |
@@ -19,5 +20,4 @@
 | 「叶落风随」祈愿：「红叶逐荒波·枫原万叶(风)」概率UP！ | https://ys.mihoyo.com/main/news/detail/27859 |
 | 「敕诫枢谋」祈愿：「诲韬诤言·艾尔海森(草)」概率UP！ | https://ys.mihoyo.com/main/news/detail/27858 |
 | 「神工天巧」交流平台限时开启，展示奇思妙想，交流秘境心得！ | https://ys.mihoyo.com/main/news/detail/27857 |
-| 「神工天巧·宝录之章」挑战视频征集活动 | https://ys.mihoyo.com/main/news/detail/27856 |
 
