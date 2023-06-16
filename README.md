@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 「离垢者肃心旅宴」活动小贴士02期  炽火坚钢万劫 | https://ys.mihoyo.com/main/news/detail/27960 |
 | 《原神》9张OST现已上线腾讯音乐平台 | https://ys.mihoyo.com/main/news/detail/27957 |
 | 「离垢者肃心旅宴」活动小贴士01期  凄响之悲雷 | https://ys.mihoyo.com/main/news/detail/27956 |
 | 《原神》EP-谛思归悟之境 | https://ys.mihoyo.com/main/news/detail/27953 |
@@ -19,5 +20,4 @@
 | 「决斗！召唤之巅！」3.7版本活动速递第二期 | https://ys.mihoyo.com/main/news/detail/27861 |
 | 「神铸赋形」祈愿：「单手剑·裁叶萃光」「单手剑·苍古自由之誓」概率UP！ | https://ys.mihoyo.com/main/news/detail/27860 |
 | 「叶落风随」祈愿：「红叶逐荒波·枫原万叶(风)」概率UP！ | https://ys.mihoyo.com/main/news/detail/27859 |
-| 「敕诫枢谋」祈愿：「诲韬诤言·艾尔海森(草)」概率UP！ | https://ys.mihoyo.com/main/news/detail/27858 |
 
