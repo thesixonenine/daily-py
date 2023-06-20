@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 分层地图？安排上啦！——06.20开发组座谈会 | https://ys.mihoyo.com/main/news/detail/27996 |
 | 「溢神的猜想」活动：破绽捕捉挑战 | https://ys.mihoyo.com/main/news/detail/27974 |
 | 「离垢者肃心旅宴」活动小贴士03期 龙嗣之绞旋 | https://ys.mihoyo.com/main/news/detail/27963 |
 | 《原神》「壁纸放送」 | https://ys.mihoyo.com/main/news/detail/27962 |
@@ -19,5 +20,4 @@
 | 「离垢者肃心旅宴」活动小贴士01期  凄响之悲雷 | https://ys.mihoyo.com/main/news/detail/27956 |
 | 《原神》EP-谛思归悟之境 | https://ys.mihoyo.com/main/news/detail/27953 |
 | 3.7版本超话签到活动第二期 | https://ys.mihoyo.com/main/news/detail/27952 |
-| 「离垢者肃心旅宴」活动：极致武艺战强敌 | https://ys.mihoyo.com/main/news/detail/27889 |
 
