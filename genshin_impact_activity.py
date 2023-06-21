@@ -11,15 +11,15 @@ content_list = {}
 
 
 # 文件存在判断
-def create_file():
-    if not os.path.isfile(genshin_impact_activity_data):
-        with open(genshin_impact_activity_data, mode='x') as f:
+def create_file(filename: str):
+    if not os.path.isfile(filename):
+        with open(filename, mode='x') as f:
             pass
 
 
-def load_file():
+def load_file(filename: str):
     # 读取文件中的活动
-    with open(genshin_impact_activity_data, mode='r') as f:
+    with open(filename, mode='r') as f:
         for line in f.readlines():
             j = json.loads(line)
             content_list[j['contentId']] = line.removesuffix('\n')
@@ -49,8 +49,8 @@ def deal_data_list(data_list):
 
 
 def main():
-    create_file()
-    load_file()
+    create_file(genshin_impact_activity_data)
+    load_file(genshin_impact_activity_data)
     # 循环请求所有活动
     page_size = 100
     activity = download_activity(1, 10)
@@ -85,8 +85,6 @@ def main():
         # 发送邮件
         send_mail_from_txt('genshin-impact-news')
         os.system('rm -rf ' + mail_content_txt)
-        os.system('git config --global user.name ' + os.getenv('GIT_NAME'))
-        os.system('git config --global user.email ' + os.getenv('GIT_EMAIL'))
         os.system('git add ' + genshin_impact_activity_data)
         os.system('git commit -am \'genshin-impact-news\'')
         os.system('git push')
@@ -94,6 +92,40 @@ def main():
     else:
         print('没有新活动')
 
+def get_goods(page:int, game:str):
+    url = "https://api-takumi.mihoyo.com/mall/v1/web/goods/list?app_id=1&point_sn=myb&page_size=20&page="+str(page)+"&game="+game
+    return str(requests.get(url).content, encoding='utf-8')
+
+def fetch_goods():
+    all_game = get_goods(1, "all")
+    all_games = json.loads(all_game)["data"]["games"]
+
+    mys_game = {}
+
+    for g in all_games:
+        k = g["key"]
+        if k == "all":
+            continue
+        i = 1
+        c_game = get_goods(i, k)
+        j_game = json.loads(c_game)
+        c_total = int(j_game["data"]["total"])
+        if c_total > 20:
+            i = i + 1
+            n_game = get_goods(i, k)
+            j_game["data"]["list"].append(json.loads(n_game)["data"]["list"])
+        mys_game[k] = j_game["data"]["list"]
+    all_goods_json = json.dumps(mys_game, ensure_ascii=False)
+    create_file("mys_goods.json")
+    con = [all_goods_json]
+    with open("mys_goods.json", mode='w') as f:
+        f.writelines("\n".join(con))
+    os.system('git add mys_goods.json')
+    os.system('git commit -am \'mys_goods\'')
+    os.system('git push')
 
 if __name__ == '__main__':
+    os.system('git config --global user.name ' + os.getenv('GIT_NAME'))
+    os.system('git config --global user.email ' + os.getenv('GIT_EMAIL'))
     main()
+    fetch_goods()
