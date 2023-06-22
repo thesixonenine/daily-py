@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 端午佳节｜嘿嘿，这么多好吃的，让派蒙都尝尝！ | https://ys.mihoyo.com/main/news/detail/28009 |
 | 《原神》风物集短片-璃月篇 | https://ys.mihoyo.com/main/news/detail/28008 |
 | 《原神》3.8版本「清夏！乐园？大秘境！」前瞻特别节目预告 | https://ys.mihoyo.com/main/news/detail/28007 |
 | 宵宫生日快乐｜看，就是这里啦！ | https://ys.mihoyo.com/main/news/detail/28006 |
@@ -19,5 +20,4 @@
 | 《原神》「壁纸放送」 | https://ys.mihoyo.com/main/news/detail/27962 |
 | 温迪生日快乐｜伴着流水的声响，听我为你悠悠轻唱。 | https://ys.mihoyo.com/main/news/detail/27961 |
 | 「离垢者肃心旅宴」活动小贴士02期  炽火坚钢万劫 | https://ys.mihoyo.com/main/news/detail/27960 |
-| 《原神》9张OST现已上线腾讯音乐平台 | https://ys.mihoyo.com/main/news/detail/27957 |
 
