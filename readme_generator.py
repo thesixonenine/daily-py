@@ -35,7 +35,6 @@ def genshin_impact_with(doc: MarkdownGenerator):
 def mys_goods(doc: MarkdownGenerator):
     doc.addHeader(level=2, text='米游社商品')
     f_list = ['hk4e', 'hkrpg', 'bh3', 'nxx', 'bh2', 'bbs']
-    news_table = []
     goods_data = 'mys_goods.json'
     with open(goods_data, mode='r', encoding='utf-8') as f:
         gd = json.load(f)
@@ -43,6 +42,7 @@ def mys_goods(doc: MarkdownGenerator):
             hk4e_list = gd[fm]
             if not hk4e_list:
                 continue
+            news_table = []
             for hk4e_item in hk4e_list:
                 news_table.append({'goods_id': hk4e_item['goods_id'], 'goods_name': hk4e_item['goods_name'],
                                    'next_num': hk4e_item['next_num'],
