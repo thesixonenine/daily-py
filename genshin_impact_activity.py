@@ -113,7 +113,7 @@ def fetch_goods():
         if c_total > 20:
             i = i + 1
             n_game = get_goods(i, k)
-            j_game["data"]["list"].append(json.loads(n_game)["data"]["list"])
+            j_game["data"]["list"].extend(json.loads(n_game)["data"]["list"])
         mys_game[k] = j_game["data"]["list"]
     all_goods_json = json.dumps(mys_game, ensure_ascii=False)
     create_file("mys_goods.json")
