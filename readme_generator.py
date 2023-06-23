@@ -32,6 +32,27 @@ def genshin_impact_with(doc: MarkdownGenerator):
     doc.writeTextLine("[Wish History](./genshin_impact_wish.md)")
 
 
+def mys_goods(doc: MarkdownGenerator):
+    doc.addHeader(level=2, text='米游社商品')
+    f_list = ['hk4e', 'hkrpg', 'bh3', 'nxx', 'bh2', 'bbs']
+    news_table = []
+    goods_data = 'mys_goods.json'
+    with open(goods_data, mode='r', encoding='utf-8') as f:
+        gd = json.load(f)
+        for fm in f_list:
+            hk4e_list = gd[fm]
+            if not hk4e_list:
+                continue
+            for hk4e_item in hk4e_list:
+                news_table.append({'goods_id': hk4e_item['goods_id'], 'goods_name': hk4e_item['goods_name'],
+                                   'next_num': hk4e_item['next_num'],
+                                   'account_cycle_limit': hk4e_item['account_cycle_limit'],
+                                   'price': hk4e_item['price'], 'icon': hk4e_item['icon']})
+            doc.writeTextLine()
+            doc.addHeader(level=4, text=fm)
+            doc.addTable(header_names=['goods_id', 'goods_name', 'next_num', 'account_cycle_limit', 'price', 'icon'],
+                         dictionary_list=news_table)
+
 def main():
     with MarkdownGenerator(
             # By setting enable_write as False, content of the file is written
@@ -43,6 +64,7 @@ def main():
         doc.writeTextLine('每日定时任务')
         genshin_impact_with(doc)
         genshin_impact_news(doc)
+        mys_goods(doc)
 
 
 if __name__ == "__main__":
