@@ -46,11 +46,12 @@ def mys_goods(doc: MarkdownGenerator):
             for hk4e_item in hk4e_list:
                 icon_url = str(hk4e_item['icon'])
                 icon_md = '![](' + icon_url + ')'
+                icon_link_md = '[图片](' + icon_url + ')'
                 icon_new_blank = "<a href = " + icon_url + " target = \"_blank\">商品图片</a>"
                 news_table.append({'goods_id': hk4e_item['goods_id'], 'goods_name': hk4e_item['goods_name'],
                                    'next_num': hk4e_item['next_num'],
                                    'account_cycle_limit': hk4e_item['account_cycle_limit'],
-                                   'price': hk4e_item['price'], 'icon': icon_new_blank})
+                                   'price': hk4e_item['price'], 'icon': icon_link_md})
             doc.writeTextLine()
             doc.addHeader(level=4, text=fm)
             doc.addTable(header_names=['goods_id', 'goods_name', 'next_num', 'account_cycle_limit', 'price', 'icon'],
