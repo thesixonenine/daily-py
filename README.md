@@ -10,16 +10,16 @@
 
 | title | url |
 |:---:|:---:|
+| 「地脉移涌」活动：「藏金之花」「启示之花」双倍掉落！ | https://ys.mihoyo.com/main/news/detail/28027 |
+| 3.8新版本「清夏！乐园？大秘境！」先行展示页现已开启！ | https://ys.mihoyo.com/main/news/detail/28026 |
+| 「助跑！冲刺！冒险开始！」原神×Keep 公益线上跑活动现已开启！ | https://ys.mihoyo.com/main/news/detail/28025 |
+| 「嘘，可别告诉别人…我们这就出发冒险吧！」——「帆影游风」凯亚新衣装 | https://ys.mihoyo.com/main/news/detail/28024 |
+| 「魔女可莉来啦，砰砰——」——「琪花星烛」可莉新衣装 | https://ys.mihoyo.com/main/news/detail/28023 |
+| 《原神》提瓦特风尚·衣装PV - 巧戏一幕 | https://ys.mihoyo.com/main/news/detail/28022 |
 | 原神|晨光奇只好玩|支付宝 公益合作即将开启 | https://ys.mihoyo.com/main/news/detail/28020 |
 | 《原神》3.8版本「清夏！乐园？大秘境！」前瞻特别节目回顾长图 | https://ys.mihoyo.com/main/news/detail/28019 |
 | 《原神》3.8版本「清夏！乐园？大秘境！」前瞻特别节目 | https://ys.mihoyo.com/main/news/detail/28018 |
 | 《原神》3.8版本PV：「清夏！乐园？大秘境！」 | https://ys.mihoyo.com/main/news/detail/28017 |
-| 赛诺生日快乐｜我现在摘下帽子吃饭，是为了避免「冒犯」美食。 | https://ys.mihoyo.com/main/news/detail/28012 |
-| 端午佳节｜嘿嘿，这么多好吃的，让派蒙都尝尝！ | https://ys.mihoyo.com/main/news/detail/28009 |
-| 《原神》风物集短片-璃月篇 | https://ys.mihoyo.com/main/news/detail/28008 |
-| 《原神》3.8版本「清夏！乐园？大秘境！」前瞻特别节目预告 | https://ys.mihoyo.com/main/news/detail/28007 |
-| 宵宫生日快乐｜看，就是这里啦！ | https://ys.mihoyo.com/main/news/detail/28006 |
-| 分层地图？安排上啦！——06.20开发组座谈会 | https://ys.mihoyo.com/main/news/detail/27996 |
 
 
 ## 米游社商品
