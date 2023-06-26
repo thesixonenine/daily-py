@@ -10,6 +10,9 @@
 
 | title | url |
 |:---:|:---:|
+| 「浪沫的旋舞」优菈同人绘画作品征集开启 | https://ys.mihoyo.com/main/news/detail/28051 |
+| 「逃跑的太阳」可莉同人绘画作品征集开启 | https://ys.mihoyo.com/main/news/detail/28050 |
+| 雷电将军生日快乐｜很新奇，从来没觉得时间过得这么快… | https://ys.mihoyo.com/main/news/detail/28049 |
 | 「地脉移涌」活动：「藏金之花」「启示之花」双倍掉落！ | https://ys.mihoyo.com/main/news/detail/28027 |
 | 3.8新版本「清夏！乐园？大秘境！」先行展示页现已开启！ | https://ys.mihoyo.com/main/news/detail/28026 |
 | 「助跑！冲刺！冒险开始！」原神×Keep 公益线上跑活动现已开启！ | https://ys.mihoyo.com/main/news/detail/28025 |
@@ -17,9 +20,6 @@
 | 「魔女可莉来啦，砰砰——」——「琪花星烛」可莉新衣装 | https://ys.mihoyo.com/main/news/detail/28023 |
 | 《原神》提瓦特风尚·衣装PV - 巧戏一幕 | https://ys.mihoyo.com/main/news/detail/28022 |
 | 原神|晨光奇只好玩|支付宝 公益合作即将开启 | https://ys.mihoyo.com/main/news/detail/28020 |
-| 《原神》3.8版本「清夏！乐园？大秘境！」前瞻特别节目回顾长图 | https://ys.mihoyo.com/main/news/detail/28019 |
-| 《原神》3.8版本「清夏！乐园？大秘境！」前瞻特别节目 | https://ys.mihoyo.com/main/news/detail/28018 |
-| 《原神》3.8版本PV：「清夏！乐园？大秘境！」 | https://ys.mihoyo.com/main/news/detail/28017 |
 
 
 ## 米游社商品
