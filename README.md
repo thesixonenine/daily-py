@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 八重神子生日快乐｜嗯？你看错了，我可没有开心到抖耳朵—— | https://ys.mihoyo.com/main/news/detail/28054 |
 | 「浪沫的旋舞」优菈同人绘画作品征集开启 | https://ys.mihoyo.com/main/news/detail/28051 |
 | 「逃跑的太阳」可莉同人绘画作品征集开启 | https://ys.mihoyo.com/main/news/detail/28050 |
 | 雷电将军生日快乐｜很新奇，从来没觉得时间过得这么快… | https://ys.mihoyo.com/main/news/detail/28049 |
@@ -19,7 +20,6 @@
 | 「嘘，可别告诉别人…我们这就出发冒险吧！」——「帆影游风」凯亚新衣装 | https://ys.mihoyo.com/main/news/detail/28024 |
 | 「魔女可莉来啦，砰砰——」——「琪花星烛」可莉新衣装 | https://ys.mihoyo.com/main/news/detail/28023 |
 | 《原神》提瓦特风尚·衣装PV - 巧戏一幕 | https://ys.mihoyo.com/main/news/detail/28022 |
-| 原神|晨光奇只好玩|支付宝 公益合作即将开启 | https://ys.mihoyo.com/main/news/detail/28020 |
 
 
 ## 米游社商品
