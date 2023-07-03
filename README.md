@@ -10,6 +10,9 @@
 
 | title | url |
 |:---:|:---:|
+| 繁星丽天，孤怀寒芒 | https://ys.mihoyo.com/main/news/detail/28136 |
+| 水中窥月，洞见夜明 | https://ys.mihoyo.com/main/news/detail/28135 |
+| 镜中捧花，赠予何人 | https://ys.mihoyo.com/main/news/detail/28134 |
 | 3.8版本 「清夏！乐园？大秘境！」内容专题页上线！ | https://ys.mihoyo.com/main/news/detail/28132 |
 | 「清夏！乐园？大秘境！」3.8版本活动速递第一期 | https://ys.mihoyo.com/main/news/detail/28131 |
 | 「清夏！乐园？大秘境！」活动：参与获取凯亚衣装，邀请「绮思晚星·莱依拉(冰)」 | https://ys.mihoyo.com/main/news/detail/28130 |
@@ -17,9 +20,6 @@
 | 「神铸赋形」祈愿：「双手剑·松籁响起之时」「法器·四风原典」概率UP！ | https://ys.mihoyo.com/main/news/detail/28128 |
 | 「闪焰的驻足」祈愿：「逃跑的太阳·可莉(火)」概率UP！ | https://ys.mihoyo.com/main/news/detail/28127 |
 | 「浪涌之瞬」祈愿：「浪沫的旋舞·优菈(冰)」概率UP！ | https://ys.mihoyo.com/main/news/detail/28126 |
-| 「七圣召唤」铸境研炼：无量疾战 | https://ys.mihoyo.com/main/news/detail/28125 |
-| 「溢彩纪行」活动说明 | https://ys.mihoyo.com/main/news/detail/28124 |
-| 「冒险助力礼包」第24期限时上架 | https://ys.mihoyo.com/main/news/detail/28123 |
 
 
 ## 米游社商品
