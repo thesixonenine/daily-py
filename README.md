@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 预下载已开启 | https://ys.mihoyo.com/main/news/detail/28121 |
 | 「清夏！乐园？大秘境！」3.8版本更新维护预告 | https://ys.mihoyo.com/main/news/detail/28120 |
 | 「琉形蜃境」冒险邀请函——3.8版本限时区域介绍 | https://ys.mihoyo.com/main/news/detail/28092 |
 | 3.8版本「七圣召唤」全新卡牌说明 | https://ys.mihoyo.com/main/news/detail/28091 |
@@ -19,7 +20,6 @@
 | 雷电将军生日快乐｜很新奇，从来没觉得时间过得这么快… | https://ys.mihoyo.com/main/news/detail/28049 |
 | 「地脉移涌」活动：「藏金之花」「启示之花」双倍掉落！ | https://ys.mihoyo.com/main/news/detail/28027 |
 | 3.8新版本「清夏！乐园？大秘境！」先行展示页现已开启！ | https://ys.mihoyo.com/main/news/detail/28026 |
-| 「助跑！冲刺！冒险开始！」原神×Keep 公益线上跑活动现已开启！ | https://ys.mihoyo.com/main/news/detail/28025 |
 
 
 ## 米游社商品
