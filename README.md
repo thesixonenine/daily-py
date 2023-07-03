@@ -30,10 +30,6 @@
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 2023062915868 | 【万有铺子】满150元减5元优惠券 | 0 | 1 | 400 | [图](https://webstatic.mihoyo.com/upload/shop/2023/02/24/e5150197bda61fe7dc10f44997da3049_878343300033390364.jpg) |
-| 2023051912256 | 【原神】摩拉*50000 | 0 | 1 | 1500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/d63798a398c18de7f3ce23b7e1dcd02f_3159879231696238340.png) |
-| 2023051912425 | 【原神】大英雄的经验*5 | 0 | 1 | 1500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/468097d8c7fb608f3a23d057d871e48a_7303233958715687443.png) |
-| 2023051912577 | 【原神】原石*60 | 0 | 1 | 1800 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/dab394b1516c58a00b91f8dba9756110_8904801501338765557.png) |
-| 2023051912299 | 【原神】原石*150 | 0 | 1 | 4500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/dab394b1516c58a00b91f8dba9756110_8904801501338765557.png) |
 | 2023051611937 | 【原神】稻妻城主题系列 人物亚克力立牌-鹿野院平藏 | 0 | 1 | 11300 | [图](https://bbs-static.miyoushe.com/static/2023/05/16/fb2a477eb2cba681bf1b26d8d727344e_7594114466910398205.jpg) |
 | 2023051611862 | 【原神】稻妻城主题系列 人物亚克力立牌-久岐忍 | 0 | 1 | 11300 | [图](https://bbs-static.miyoushe.com/static/2023/05/16/21c7a9980a59f3d58d7ba1ed14a4787e_2866456210170394518.jpg) |
 | 2023051611797 | 【原神】命定之日系列套装-早柚 | 0 | 1 | 13400 | [图](https://bbs-static.miyoushe.com/static/2023/05/16/6007c03d1a076e8a57545955dbb81a76_7708628620810247028.jpg) |
