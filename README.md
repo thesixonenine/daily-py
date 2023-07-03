@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 「清夏！乐园？大秘境！」3.8版本更新维护预告 | https://ys.mihoyo.com/main/news/detail/28120 |
 | 「琉形蜃境」冒险邀请函——3.8版本限时区域介绍 | https://ys.mihoyo.com/main/news/detail/28092 |
 | 3.8版本「七圣召唤」全新卡牌说明 | https://ys.mihoyo.com/main/news/detail/28091 |
 | 八重神子生日快乐｜嗯？你看错了，我可没有开心到抖耳朵—— | https://ys.mihoyo.com/main/news/detail/28054 |
@@ -19,7 +20,6 @@
 | 「地脉移涌」活动：「藏金之花」「启示之花」双倍掉落！ | https://ys.mihoyo.com/main/news/detail/28027 |
 | 3.8新版本「清夏！乐园？大秘境！」先行展示页现已开启！ | https://ys.mihoyo.com/main/news/detail/28026 |
 | 「助跑！冲刺！冒险开始！」原神×Keep 公益线上跑活动现已开启！ | https://ys.mihoyo.com/main/news/detail/28025 |
-| 「嘘，可别告诉别人…我们这就出发冒险吧！」——「帆影游风」凯亚新衣装 | https://ys.mihoyo.com/main/news/detail/28024 |
 
 
 ## 米游社商品
