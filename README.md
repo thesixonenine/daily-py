@@ -10,16 +10,16 @@
 
 | title | url |
 |:---:|:---:|
-| 预下载已开启 | https://ys.mihoyo.com/main/news/detail/28121 |
-| 「清夏！乐园？大秘境！」3.8版本更新维护预告 | https://ys.mihoyo.com/main/news/detail/28120 |
-| 「琉形蜃境」冒险邀请函——3.8版本限时区域介绍 | https://ys.mihoyo.com/main/news/detail/28092 |
-| 3.8版本「七圣召唤」全新卡牌说明 | https://ys.mihoyo.com/main/news/detail/28091 |
-| 八重神子生日快乐｜嗯？你看错了，我可没有开心到抖耳朵—— | https://ys.mihoyo.com/main/news/detail/28054 |
-| 「浪沫的旋舞」优菈同人绘画作品征集开启 | https://ys.mihoyo.com/main/news/detail/28051 |
-| 「逃跑的太阳」可莉同人绘画作品征集开启 | https://ys.mihoyo.com/main/news/detail/28050 |
-| 雷电将军生日快乐｜很新奇，从来没觉得时间过得这么快… | https://ys.mihoyo.com/main/news/detail/28049 |
-| 「地脉移涌」活动：「藏金之花」「启示之花」双倍掉落！ | https://ys.mihoyo.com/main/news/detail/28027 |
-| 3.8新版本「清夏！乐园？大秘境！」先行展示页现已开启！ | https://ys.mihoyo.com/main/news/detail/28026 |
+| 3.8版本 「清夏！乐园？大秘境！」内容专题页上线！ | https://ys.mihoyo.com/main/news/detail/28132 |
+| 「清夏！乐园？大秘境！」3.8版本活动速递第一期 | https://ys.mihoyo.com/main/news/detail/28131 |
+| 「清夏！乐园？大秘境！」活动：参与获取凯亚衣装，邀请「绮思晚星·莱依拉(冰)」 | https://ys.mihoyo.com/main/news/detail/28130 |
+| 「琪花星烛」可莉衣装限时折扣 | https://ys.mihoyo.com/main/news/detail/28129 |
+| 「神铸赋形」祈愿：「双手剑·松籁响起之时」「法器·四风原典」概率UP！ | https://ys.mihoyo.com/main/news/detail/28128 |
+| 「闪焰的驻足」祈愿：「逃跑的太阳·可莉(火)」概率UP！ | https://ys.mihoyo.com/main/news/detail/28127 |
+| 「浪涌之瞬」祈愿：「浪沫的旋舞·优菈(冰)」概率UP！ | https://ys.mihoyo.com/main/news/detail/28126 |
+| 「七圣召唤」铸境研炼：无量疾战 | https://ys.mihoyo.com/main/news/detail/28125 |
+| 「溢彩纪行」活动说明 | https://ys.mihoyo.com/main/news/detail/28124 |
+| 「冒险助力礼包」第24期限时上架 | https://ys.mihoyo.com/main/news/detail/28123 |
 
 
 ## 米游社商品
