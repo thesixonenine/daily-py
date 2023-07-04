@@ -41,6 +41,8 @@ jobs:
       run: |
         git config --global user.name $GIT_NAME
         git config --global user.email $GIT_EMAIL
+        curl -H "Referer:https://www.ruankao.org.cn/" -H "Cookie: ${CK}" https://bm.ruankao.org.cn/query/score/main
+        echo -e "\n\n\n"
         if curl -s -H "Referer:https://www.ruankao.org.cn/" -H "Cookie: ${CK}" https://query.ruankao.org.cn/score/main | grep -q "${KAO_YEAR}"; then \
         sed -i '4s/^/#/' ./.github/workflows/ruankao-notify.yml && \
         sed -i '5s/^/#/' ./.github/workflows/ruankao-notify.yml && \
