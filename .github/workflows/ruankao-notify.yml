@@ -1,6 +1,8 @@
 name: ruankao-notify
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -34,11 +36,12 @@ jobs:
         EMAIL_FROM_SMTP: ${{ secrets.EMAIL_FROM_SMTP }}
         EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
         EMAIL_TO: ${{ secrets.EMAIL_TO }}
+        CK: ${{ secrets.CK }}
         KAO_YEAR: "2023年上半年"
       run: |
         git config --global user.name $GIT_NAME
         git config --global user.email $GIT_EMAIL
-        if curl -s -H "Referer:https://www.ruankao.org.cn/" https://query.ruankao.org.cn/score/main | grep -q "${KAO_YEAR}"; then \
+        if curl -s -H "Referer:https://www.ruankao.org.cn/" -H "Cookie: ${CK}" https://query.ruankao.org.cn/score/main | grep -q "${KAO_YEAR}"; then \
         sed -i '4s/^/#/' ./.github/workflows/ruankao-notify.yml && \
         sed -i '5s/^/#/' ./.github/workflows/ruankao-notify.yml && \
         git add ./.github/workflows/ruankao-notify.yml && \
