@@ -10,6 +10,9 @@
 
 | title | url |
 |:---:|:---:|
+| QQ小世界《原神》3.8版本创作者激励计划&amp;直播激励活动即将开启 | https://ys.mihoyo.com/main/news/detail/28155 |
+| 微信视频号《原神》3.8版本直播激励活动即将开启 | https://ys.mihoyo.com/main/news/detail/28154 |
+| 小红书《原神》3.8版本笔记征集活动即将开启 | https://ys.mihoyo.com/main/news/detail/28153 |
 | 快手《原神》3.8版本视频征集&amp;直播招募活动即将开启 | https://ys.mihoyo.com/main/news/detail/28152 |
 | 虎牙直播《原神》3.8版本直播季活动即将开启 | https://ys.mihoyo.com/main/news/detail/28151 |
 | 斗鱼直播《原神》3.8版本直播季活动即将开启 | https://ys.mihoyo.com/main/news/detail/28150 |
@@ -17,9 +20,6 @@
 | 原神 x 支付宝2023年度绿色出行活动「第三期」已经开启！ | https://ys.mihoyo.com/main/news/detail/28148 |
 | 「森林奇旅 寓梦筑林」——原神×晨光奇只好玩×支付宝 网页活动已开启！ | https://ys.mihoyo.com/main/news/detail/28144 |
 | 原神3.8版本微博限时表情活动预告 | https://ys.mihoyo.com/main/news/detail/28143 |
-| 「清夏！乐园？大秘境！」玩法说明 | https://ys.mihoyo.com/main/news/detail/28137 |
-| 繁星丽天，孤怀寒芒 | https://ys.mihoyo.com/main/news/detail/28136 |
-| 水中窥月，洞见夜明 | https://ys.mihoyo.com/main/news/detail/28135 |
 
 
 ## 米游社商品
