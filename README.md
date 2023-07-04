@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 「清夏！乐园？大秘境！」玩法说明 | https://ys.mihoyo.com/main/news/detail/28137 |
 | 繁星丽天，孤怀寒芒 | https://ys.mihoyo.com/main/news/detail/28136 |
 | 水中窥月，洞见夜明 | https://ys.mihoyo.com/main/news/detail/28135 |
 | 镜中捧花，赠予何人 | https://ys.mihoyo.com/main/news/detail/28134 |
@@ -19,7 +20,6 @@
 | 「琪花星烛」可莉衣装限时折扣 | https://ys.mihoyo.com/main/news/detail/28129 |
 | 「神铸赋形」祈愿：「双手剑·松籁响起之时」「法器·四风原典」概率UP！ | https://ys.mihoyo.com/main/news/detail/28128 |
 | 「闪焰的驻足」祈愿：「逃跑的太阳·可莉(火)」概率UP！ | https://ys.mihoyo.com/main/news/detail/28127 |
-| 「浪涌之瞬」祈愿：「浪沫的旋舞·优菈(冰)」概率UP！ | https://ys.mihoyo.com/main/news/detail/28126 |
 
 
 ## 米游社商品
