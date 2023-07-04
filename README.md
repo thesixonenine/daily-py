@@ -10,16 +10,16 @@
 
 | title | url |
 |:---:|:---:|
+| 快手《原神》3.8版本视频征集&amp;直播招募活动即将开启 | https://ys.mihoyo.com/main/news/detail/28152 |
+| 虎牙直播《原神》3.8版本直播季活动即将开启 | https://ys.mihoyo.com/main/news/detail/28151 |
+| 斗鱼直播《原神》3.8版本直播季活动即将开启 | https://ys.mihoyo.com/main/news/detail/28150 |
+| 抖音《原神》3.8版本创作者激励计划&amp;直播激励活动即将开启 | https://ys.mihoyo.com/main/news/detail/28149 |
+| 原神 x 支付宝2023年度绿色出行活动「第三期」已经开启！ | https://ys.mihoyo.com/main/news/detail/28148 |
+| 「森林奇旅 寓梦筑林」——原神×晨光奇只好玩×支付宝 网页活动已开启！ | https://ys.mihoyo.com/main/news/detail/28144 |
+| 原神3.8版本微博限时表情活动预告 | https://ys.mihoyo.com/main/news/detail/28143 |
 | 「清夏！乐园？大秘境！」玩法说明 | https://ys.mihoyo.com/main/news/detail/28137 |
 | 繁星丽天，孤怀寒芒 | https://ys.mihoyo.com/main/news/detail/28136 |
 | 水中窥月，洞见夜明 | https://ys.mihoyo.com/main/news/detail/28135 |
-| 镜中捧花，赠予何人 | https://ys.mihoyo.com/main/news/detail/28134 |
-| 3.8版本 「清夏！乐园？大秘境！」内容专题页上线！ | https://ys.mihoyo.com/main/news/detail/28132 |
-| 「清夏！乐园？大秘境！」3.8版本活动速递第一期 | https://ys.mihoyo.com/main/news/detail/28131 |
-| 「清夏！乐园？大秘境！」活动：参与获取凯亚衣装，邀请「绮思晚星·莱依拉(冰)」 | https://ys.mihoyo.com/main/news/detail/28130 |
-| 「琪花星烛」可莉衣装限时折扣 | https://ys.mihoyo.com/main/news/detail/28129 |
-| 「神铸赋形」祈愿：「双手剑·松籁响起之时」「法器·四风原典」概率UP！ | https://ys.mihoyo.com/main/news/detail/28128 |
-| 「闪焰的驻足」祈愿：「逃跑的太阳·可莉(火)」概率UP！ | https://ys.mihoyo.com/main/news/detail/28127 |
 
 
 ## 米游社商品
@@ -135,6 +135,13 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| 2023070315584 | 【创小摊】实物周边满60元减8元优惠券 | 0 | 0 | 2000 | [图](https://bbs-static.miyoushe.com/static/2023/06/06/801c18d8013c8df1d5ee3c8234a7a645_7661727822628393377.jpg) |
+| 2023070315130 | 【创小摊】实物周边满5.01元减5元优惠券 | 0 | 0 | 1250 | [图](https://bbs-static.miyoushe.com/static/2023/06/06/48fed7da544e6588188e6efff3bb3e6f_9216349196603904011.jpg) |
+| 2023062714547 | 【米游社】小度智能音箱 旗舰版 | 10 | 1 | 30000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/07/13/29c2f2cbdd99c8043db619d7ea8ea1ae_6251797234277512130.jpg) |
+| 2023062714249 | 【米游社】小米 Air2 SE真无线蓝牙耳机 | 10 | 1 | 30000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/12/22/e3f6c0129cf245e9cc1ff417d582518d_9120783053330401060.jpg) |
+| 2023062711610 | 【米游社】鹊巧佳意系列 亚克力立牌 | 13 | 1 | 13400 | [图](https://bbs-static.miyoushe.com/static/2023/04/27/53197e9c7e5e6d03176650d5ae0ee8c0_4716853998982683667.jpg) |
+| 2023062711977 | 【米游社】miYoSummer都市重构系列Q版抱枕 | 13 | 1 | 13800 | [图](https://bbs-static.miyoushe.com/static/2023/06/27/163e51aa6507a53d983b751031852e2b_1687644664360006160.jpg) |
+| 2023062711913 | 【米游社】miYoSummer都市重构系列亚克力挂件 | 13 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2023/06/27/77573fa29ec33e24a3cf04af00714d38_3812068549161346082.jpg) |
 | 2023021012469 | 【未定事件簿】「情诗」（永久） | 0 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/12/23/faba435917f41dfdce30440435a61cf6_5477568449308330917.jpg) |
 | 2023052614366 | 【米游社】小米液晶小黑板 13.5英寸 | 0 | 1 | 20000 | [图](https://bbs-static.miyoushe.com/static/2023/05/26/a338cef671c8195ea690c561f79f0b05_6734196181154360654.jpg) |
 | 2023052614778 | 【米游社】飞利浦led酷毙灯 | 0 | 1 | 25000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/07/13/e26df2fa66f625cbf3ff5cf2c47368f1_4974660160632383332.jpg) |
