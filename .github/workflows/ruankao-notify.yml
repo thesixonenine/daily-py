@@ -41,10 +41,10 @@ jobs:
       run: |
         git config --global user.name $GIT_NAME
         git config --global user.email $GIT_EMAIL
-        curl -H "Referer:https://www.ruankao.org.cn/" -H "Cookie: ${CK}" https://bm.ruankao.org.cn/query/score/main
+        curl -s "https://www.ruankao.org.cn/index/work" | grep -e ".*${KAO_YEAR}.*成绩.*查询"
         echo -e "\n\n\n"
-        if curl -s -H "Referer:https://www.ruankao.org.cn/" -H "Cookie: ${CK}" https://query.ruankao.org.cn/score/main | grep -q "${KAO_YEAR}"; then \
-        sed -i '4s/^/#/' ./.github/workflows/ruankao-notify.yml && \
-        sed -i '5s/^/#/' ./.github/workflows/ruankao-notify.yml && \
+        #if curl -s -H "Referer:https://www.ruankao.org.cn/" -H "Cookie: ${CK}" https://query.ruankao.org.cn/score/main | grep -q "${KAO_YEAR}"; then \
+        #sed -i '4s/^/#/' ./.github/workflows/ruankao-notify.yml && \
+        #sed -i '5s/^/#/' ./.github/workflows/ruankao-notify.yml && \
         git add ./.github/workflows/ruankao-notify.yml && \
         git commit -m "${KAO_YEAR}可查询" && git push && python send_mail.py ruankao "${KAO_YEAR}可查询";else echo "没有查询到${KAO_YEAR}";fi
