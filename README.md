@@ -10,6 +10,8 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》3.8版本QQ频道专属系列活动现已开启 | https://ys.mihoyo.com/main/news/detail/28204 |
+| 《原神》3.8版本微信游戏圈专属活动现已开启 | https://ys.mihoyo.com/main/news/detail/28203 |
 | 「游园奇遇」乐园主题征集 | https://ys.mihoyo.com/main/news/detail/28202 |
 | 芭芭拉生日快乐｜你此刻的笑容，非常耀眼哦！ | https://ys.mihoyo.com/main/news/detail/28165 |
 | 3.8版本超话签到活动第一期 | https://ys.mihoyo.com/main/news/detail/28163 |
@@ -18,8 +20,6 @@
 | 微信视频号《原神》3.8版本直播激励活动即将开启 | https://ys.mihoyo.com/main/news/detail/28154 |
 | 小红书《原神》3.8版本笔记征集活动即将开启 | https://ys.mihoyo.com/main/news/detail/28153 |
 | 快手《原神》3.8版本视频征集&amp;直播招募活动即将开启 | https://ys.mihoyo.com/main/news/detail/28152 |
-| 虎牙直播《原神》3.8版本直播季活动即将开启 | https://ys.mihoyo.com/main/news/detail/28151 |
-| 斗鱼直播《原神》3.8版本直播季活动即将开启 | https://ys.mihoyo.com/main/news/detail/28150 |
 
 
 ## 米游社商品
