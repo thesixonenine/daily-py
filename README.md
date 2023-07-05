@@ -10,6 +10,8 @@
 
 | title | url |
 |:---:|:---:|
+| 「游园奇遇」乐园主题征集 | https://ys.mihoyo.com/main/news/detail/28202 |
+| 芭芭拉生日快乐｜你此刻的笑容，非常耀眼哦！ | https://ys.mihoyo.com/main/news/detail/28165 |
 | 3.8版本超话签到活动第一期 | https://ys.mihoyo.com/main/news/detail/28163 |
 | 「清夏！乐园？大秘境！」3.8版本更新说明 | https://ys.mihoyo.com/main/news/detail/28157 |
 | QQ小世界《原神》3.8版本创作者激励计划&amp;直播激励活动即将开启 | https://ys.mihoyo.com/main/news/detail/28155 |
@@ -18,8 +20,6 @@
 | 快手《原神》3.8版本视频征集&amp;直播招募活动即将开启 | https://ys.mihoyo.com/main/news/detail/28152 |
 | 虎牙直播《原神》3.8版本直播季活动即将开启 | https://ys.mihoyo.com/main/news/detail/28151 |
 | 斗鱼直播《原神》3.8版本直播季活动即将开启 | https://ys.mihoyo.com/main/news/detail/28150 |
-| 抖音《原神》3.8版本创作者激励计划&amp;直播激励活动即将开启 | https://ys.mihoyo.com/main/news/detail/28149 |
-| 原神 x 支付宝2023年度绿色出行活动「第三期」已经开启！ | https://ys.mihoyo.com/main/news/detail/28148 |
 
 
 ## 米游社商品
