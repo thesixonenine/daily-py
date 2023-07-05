@@ -43,6 +43,7 @@ jobs:
         git config --global user.email $GIT_EMAIL
         curl -s "https://www.ruankao.org.cn/index/work" | grep -e ".*2022年上半年.*成绩.*查询"
         echo -e "\n\n\n"
+        if curl -s "https://www.ruankao.org.cn/index/work" | grep -e ".*2022年上半年.*成绩.*查询"; then echo "success"
         if curl -s -H "Referer:https://www.ruankao.org.cn/" -H "Cookie: ${CK}" https://query.ruankao.org.cn/score/main | grep -q "${KAO_YEAR}"; then \
         sed -i '4s/^/#/' ./.github/workflows/ruankao-notify.yml && \
         sed -i '5s/^/#/' ./.github/workflows/ruankao-notify.yml && \
