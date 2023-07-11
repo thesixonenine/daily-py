@@ -10,6 +10,8 @@
 
 | title | url |
 |:---:|:---:|
+| 原神☆FES｜跨越尘世 于此相聚 | https://ys.mihoyo.com/main/news/detail/28256 |
+| 原神☆FES 活动PV | https://ys.mihoyo.com/main/news/detail/28255 |
 | 卡维生日快乐｜生日这天拍照留念什么的，似乎也不错呢。 | https://ys.mihoyo.com/main/news/detail/28234 |
 | 《原神》3.8版本QQ频道专属系列活动现已开启 | https://ys.mihoyo.com/main/news/detail/28204 |
 | 《原神》3.8版本微信游戏圈专属活动现已开启 | https://ys.mihoyo.com/main/news/detail/28203 |
@@ -18,8 +20,6 @@
 | 3.8版本超话签到活动第一期 | https://ys.mihoyo.com/main/news/detail/28163 |
 | 「清夏！乐园？大秘境！」3.8版本更新说明 | https://ys.mihoyo.com/main/news/detail/28157 |
 | QQ小世界《原神》3.8版本创作者激励计划&amp;直播激励活动即将开启 | https://ys.mihoyo.com/main/news/detail/28155 |
-| 微信视频号《原神》3.8版本直播激励活动即将开启 | https://ys.mihoyo.com/main/news/detail/28154 |
-| 小红书《原神》3.8版本笔记征集活动即将开启 | https://ys.mihoyo.com/main/news/detail/28153 |
 
 
 ## 米游社商品
