@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》确认参展BilibiliWorld2023! | https://ys.mihoyo.com/main/news/detail/28262 |
 | 原神☆FES｜跨越尘世 于此相聚 | https://ys.mihoyo.com/main/news/detail/28256 |
 | 原神☆FES 活动PV | https://ys.mihoyo.com/main/news/detail/28255 |
 | 卡维生日快乐｜生日这天拍照留念什么的，似乎也不错呢。 | https://ys.mihoyo.com/main/news/detail/28234 |
@@ -19,7 +20,6 @@
 | 芭芭拉生日快乐｜你此刻的笑容，非常耀眼哦！ | https://ys.mihoyo.com/main/news/detail/28165 |
 | 3.8版本超话签到活动第一期 | https://ys.mihoyo.com/main/news/detail/28163 |
 | 「清夏！乐园？大秘境！」3.8版本更新说明 | https://ys.mihoyo.com/main/news/detail/28157 |
-| QQ小世界《原神》3.8版本创作者激励计划&amp;直播激励活动即将开启 | https://ys.mihoyo.com/main/news/detail/28155 |
 
 
 ## 米游社商品
