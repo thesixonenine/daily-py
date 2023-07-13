@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》「七圣召唤」热斗模式：万能向导 | https://ys.mihoyo.com/main/news/detail/28264 |
 | 《原神》确认参展BilibiliWorld2023! | https://ys.mihoyo.com/main/news/detail/28262 |
 | 原神☆FES｜跨越尘世 于此相聚 | https://ys.mihoyo.com/main/news/detail/28256 |
 | 原神☆FES 活动PV | https://ys.mihoyo.com/main/news/detail/28255 |
@@ -19,7 +20,6 @@
 | 「游园奇遇」乐园主题征集 | https://ys.mihoyo.com/main/news/detail/28202 |
 | 芭芭拉生日快乐｜你此刻的笑容，非常耀眼哦！ | https://ys.mihoyo.com/main/news/detail/28165 |
 | 3.8版本超话签到活动第一期 | https://ys.mihoyo.com/main/news/detail/28163 |
-| 「清夏！乐园？大秘境！」3.8版本更新说明 | https://ys.mihoyo.com/main/news/detail/28157 |
 
 
 ## 米游社商品
