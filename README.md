@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 九条裟罗生日快乐｜你来了，请进，我在进行今日例行的弓术训练。 | https://ys.mihoyo.com/main/news/detail/28267 |
 | 《原神》「七圣召唤」热斗模式：万能向导 | https://ys.mihoyo.com/main/news/detail/28264 |
 | 《原神》确认参展BilibiliWorld2023! | https://ys.mihoyo.com/main/news/detail/28262 |
 | 原神☆FES｜跨越尘世 于此相聚 | https://ys.mihoyo.com/main/news/detail/28256 |
@@ -19,7 +20,6 @@
 | 《原神》3.8版本微信游戏圈专属活动现已开启 | https://ys.mihoyo.com/main/news/detail/28203 |
 | 「游园奇遇」乐园主题征集 | https://ys.mihoyo.com/main/news/detail/28202 |
 | 芭芭拉生日快乐｜你此刻的笑容，非常耀眼哦！ | https://ys.mihoyo.com/main/news/detail/28165 |
-| 3.8版本超话签到活动第一期 | https://ys.mihoyo.com/main/news/detail/28163 |
 
 
 ## 米游社商品
@@ -153,6 +153,17 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| 2023071311105 | yoyo鹿鸣练习室系列鼠标垫 | 0 | 1 | 13800 | [图](https://bbs-static.miyoushe.com/static/2023/07/13/248cc0b5059833641dee8c4fa3fa8e48_2912776691491037691.jpg) |
+| 2023071311311 | yoyo鹿鸣色彩系列马口铁徽章-D款 | 0 | 1 | 3500 | [图](https://bbs-static.miyoushe.com/static/2023/07/13/98edeed81a591958234cd19ffff15418_1186152680588045211.jpg) |
+| 2023071311504 | yoyo鹿鸣色彩系列马口铁徽章-C款 | 0 | 1 | 3500 | [图](https://bbs-static.miyoushe.com/static/2023/07/13/42f75f5509ebb8fb028b7fb5094d674b_8390127711884993650.jpg) |
+| 2023071311310 | yoyo鹿鸣色彩系列马口铁徽章-B款 | 0 | 1 | 3500 | [图](https://bbs-static.miyoushe.com/static/2023/07/13/0ee2feb0f938ccba4dc82659f60c7c91_4047572277633438840.jpg) |
+| 2023071311985 | yoyo鹿鸣色彩系列马口铁徽章-A款 | 0 | 1 | 3500 | [图](https://bbs-static.miyoushe.com/static/2023/07/13/947b5f2b02519f61857404b0ea12c4d0_7790402385412657613.jpg) |
+| 2023071311915 | yoyo鹿鸣表情包贴纸-B款 | 0 | 1 | 2100 | [图](https://bbs-static.miyoushe.com/static/2023/07/13/c6c9154ff5d94d5cb779183707a265c6_6744548388761582844.jpg) |
+| 2023071311803 | yoyo鹿鸣表情包贴纸-A款 | 0 | 1 | 2100 | [图](https://bbs-static.miyoushe.com/static/2023/07/13/dd0f2b68d0601bc4ee244c914990c9ce_7260271646898138301.jpg) |
+| 2023071311385 | yoyo鹿鸣book思议T恤（XL码） | 0 | 1 | 22800 | [图](https://bbs-static.miyoushe.com/static/2023/07/13/b8c765632bf5a3d8e25ee4f56fee2857_4128168779830756931.jpg) |
+| 2023071311907 | yoyo鹿鸣book思议T恤（L码） | 0 | 1 | 22800 | [图](https://bbs-static.miyoushe.com/static/2023/07/13/b8c765632bf5a3d8e25ee4f56fee2857_4128168779830756931.jpg) |
+| 2023071311321 | yoyo鹿鸣book思议T恤（M码） | 0 | 1 | 22800 | [图](https://bbs-static.miyoushe.com/static/2023/07/13/b8c765632bf5a3d8e25ee4f56fee2857_4128168779830756931.jpg) |
+| 2023071311565 | yoyo鹿鸣练习室系列抱枕-C款 | 0 | 1 | 13800 | [图](https://bbs-static.miyoushe.com/static/2023/07/13/7d41049fafe989d4d1f92d3630b19c1a_3718679449310925444.jpg) |
 | 2023070315584 | 【创小摊】实物周边满60元减8元优惠券 | 0 | 0 | 2000 | [图](https://bbs-static.miyoushe.com/static/2023/06/06/801c18d8013c8df1d5ee3c8234a7a645_7661727822628393377.jpg) |
 | 2023070315130 | 【创小摊】实物周边满5.01元减5元优惠券 | 0 | 0 | 1250 | [图](https://bbs-static.miyoushe.com/static/2023/06/06/48fed7da544e6588188e6efff3bb3e6f_9216349196603904011.jpg) |
 | 2023062714547 | 【米游社】小度智能音箱 旗舰版 | 10 | 1 | 30000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/07/13/29c2f2cbdd99c8043db619d7ea8ea1ae_6251797234277512130.jpg) |
