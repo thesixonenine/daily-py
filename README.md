@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 胡桃生日快乐｜噫！谁在拍我肩膀，是幽灵吗——哗！ | https://ys.mihoyo.com/main/news/detail/28268 |
 | 九条裟罗生日快乐｜你来了，请进，我在进行今日例行的弓术训练。 | https://ys.mihoyo.com/main/news/detail/28267 |
 | 《原神》「七圣召唤」热斗模式：万能向导 | https://ys.mihoyo.com/main/news/detail/28264 |
 | 《原神》确认参展BilibiliWorld2023! | https://ys.mihoyo.com/main/news/detail/28262 |
@@ -19,7 +20,6 @@
 | 《原神》3.8版本QQ频道专属系列活动现已开启 | https://ys.mihoyo.com/main/news/detail/28204 |
 | 《原神》3.8版本微信游戏圈专属活动现已开启 | https://ys.mihoyo.com/main/news/detail/28203 |
 | 「游园奇遇」乐园主题征集 | https://ys.mihoyo.com/main/news/detail/28202 |
-| 芭芭拉生日快乐｜你此刻的笑容，非常耀眼哦！ | https://ys.mihoyo.com/main/news/detail/28165 |
 
 
 ## 米游社商品
