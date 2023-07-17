@@ -49,6 +49,8 @@ def mys_goods(doc: MarkdownGenerator):
                 icon_link_md = '[图](' + icon_url + ')'
                 icon_new_blank = "<a href = " + icon_url + " target = \"_blank\">商品图片</a>"
                 goods_name = str(hk4e_item['goods_name'])
+                if goods_name.startswith("【万有铺子】"):
+                    continue
                 if fm != "bbs":
                     goods_name = goods_name.replace("【原神】", "", 1)
                     goods_name = goods_name.replace("【崩坏：星穹铁道】", "", 1)
