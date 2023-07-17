@@ -50,8 +50,11 @@ def mys_goods(doc: MarkdownGenerator):
                 icon_new_blank = "<a href = " + icon_url + " target = \"_blank\">商品图片</a>"
                 goods_name = str(hk4e_item['goods_name'])
                 if fm != "bbs":
-                    goods_name = goods_name.lstrip("【原神】").lstrip("【崩坏：星穹铁道】").lstrip("【崩坏3】").lstrip("【未定事件簿】").lstrip("【崩坏学园2】")
-                    pass
+                    goods_name = goods_name.replace("【原神】", "", 1)
+                    goods_name = goods_name.replace("【崩坏：星穹铁道】", "", 1)
+                    goods_name = goods_name.replace("【崩坏3】", "", 1)
+                    goods_name = goods_name.replace("【未定事件簿】", "", 1)
+                    goods_name = goods_name.replace("【崩坏学园2】", "", 1)
                 news_table.append({'goods_id': hk4e_item['goods_id'], 'goods_name': goods_name,
                                    'next_num': hk4e_item['next_num'],
                                    'account_cycle_limit': hk4e_item['account_cycle_limit'],
