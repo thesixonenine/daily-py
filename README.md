@@ -115,10 +115,10 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 2023062711106 | CG大鼠标垫-冬日信函 | 15 | 1 | 13800 | [图](https://bbs-static.miyoushe.com/static/2023/06/27/1d88e108f10b715b262b4e9c56cfcdda_3435684959973850584.jpg) |
-| 2023062711872 | 异形抱枕-琪亚娜 | 15 | 1 | 13800 | [图](https://webstatic.mihoyo.com/upload/shop/2022/12/26/4eed4e7ad986fa31b269d1783f55ea03_6650741779283073770.jpg) |
-| 2023062711572 | 大川ぶくぶ联名数据线iPhone接口 布洛妮娅 | 15 | 1 | 12700 | [图](https://bbs-static.miyoushe.com/static/2023/06/27/3e41047507b9f12a8defe5de22bbe4c6_3098246453673347626.jpg) |
-| 2023062711526 | 大川ぶくぶ联名数据线Type-C接口 菲米莉丝 | 15 | 1 | 12700 | [图](https://bbs-static.miyoushe.com/static/2023/06/27/e486f7f9f0b2890a9eefe40893df8ad6_9112079930971084106.jpg) |
+| 2023062711106 | CG大鼠标垫-冬日信函 | 0 | 1 | 13800 | [图](https://bbs-static.miyoushe.com/static/2023/06/27/1d88e108f10b715b262b4e9c56cfcdda_3435684959973850584.jpg) |
+| 2023062711872 | 异形抱枕-琪亚娜 | 0 | 1 | 13800 | [图](https://webstatic.mihoyo.com/upload/shop/2022/12/26/4eed4e7ad986fa31b269d1783f55ea03_6650741779283073770.jpg) |
+| 2023062711572 | 大川ぶくぶ联名数据线iPhone接口 布洛妮娅 | 0 | 1 | 12700 | [图](https://bbs-static.miyoushe.com/static/2023/06/27/3e41047507b9f12a8defe5de22bbe4c6_3098246453673347626.jpg) |
+| 2023062711526 | 大川ぶくぶ联名数据线Type-C接口 菲米莉丝 | 0 | 1 | 12700 | [图](https://bbs-static.miyoushe.com/static/2023/06/27/e486f7f9f0b2890a9eefe40893df8ad6_9112079930971084106.jpg) |
 | 2021063012200 | 碎裂晓残月*1 | 0 | 10 | 1620 | [图](https://webstatic.mihoyo.com/upload/shop/2021/06/30/d8278c3ecdf6d15a3e737325d6a70077_1781834727820640109.png) |
 | 2021063012835 | 碎裂三叶青*1 | 0 | 10 | 1620 | [图](https://webstatic.mihoyo.com/upload/shop/2021/06/30/68bfd2dee7eaa421886f9ef5d23b470d_7787909581169629138.png) |
 | 2021063012515 | 源初虹石*1 | 0 | 2 | 2160 | [图](https://webstatic.mihoyo.com/upload/shop/2021/06/30/969ba1a37464eeccf2b8ca2b61c9c594_7589959260977616587.png) |
