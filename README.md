@@ -10,6 +10,8 @@
 
 | title | url |
 |:---:|:---:|
+| 「久世浮倾」流浪者同人绘画作品征集开启 | https://ys.mihoyo.com/main/news/detail/28295 |
+| 「真珠之智」珊瑚宫心海同人绘画作品征集开启 | https://ys.mihoyo.com/main/news/detail/28294 |
 | 「冒险家试炼·进阶篇」活动：趣味试炼挑战 | https://ys.mihoyo.com/main/news/detail/28293 |
 | 《原神》3.8版本表情包「派蒙的画作第25弹」现已上线 | https://ys.mihoyo.com/main/news/detail/28270 |
 | 胡桃生日快乐｜噫！谁在拍我肩膀，是幽灵吗——哗！ | https://ys.mihoyo.com/main/news/detail/28268 |
@@ -18,8 +20,6 @@
 | 《原神》确认参展BilibiliWorld2023! | https://ys.mihoyo.com/main/news/detail/28262 |
 | 原神☆FES｜跨越尘世 于此相聚 | https://ys.mihoyo.com/main/news/detail/28256 |
 | 原神☆FES 活动PV | https://ys.mihoyo.com/main/news/detail/28255 |
-| 卡维生日快乐｜生日这天拍照留念什么的，似乎也不错呢。 | https://ys.mihoyo.com/main/news/detail/28234 |
-| 《原神》3.8版本QQ频道专属系列活动现已开启 | https://ys.mihoyo.com/main/news/detail/28204 |
 
 
 ## 米游社商品
@@ -49,6 +49,16 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| 2023071812975 | 星琼*60 | 3000 | 1 | 1800 | [图](https://bbs-static.miyoushe.com/static/2023/04/17/4bfddac07bede076d69b6332f5e55882_543536464151551139.jpg) |
+| 2023071812390 | 漫游指南*5 | 3000 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/04/18/e2f396d2c8d71b9a35cd00d39073a4e0_3488777836284613284.jpg) |
+| 2023071812585 | 信用点*50000 | 3000 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/04/18/1486da72d8a3de6082168439a0034bc7_8695790455774052628.jpg) |
+| 2023071811575 | 流沙摆件-春水初生 | 10 | 1 | 6900 | [图](https://bbs-static.miyoushe.com/static/2023/07/18/bdf8027ac932ea616aa95bf6e4ddc94f_4430245820716025243.jpg) |
+| 2023071811559 | 流沙摆件-雨一直下 | 10 | 1 | 6900 | [图](https://bbs-static.miyoushe.com/static/2023/07/18/1807f25d7596ec3ecf4da980a2e985c3_1555412477104300103.jpg) |
+| 2023071811684 | 流沙摆件-棺的回响 | 10 | 1 | 6900 | [图](https://bbs-static.miyoushe.com/static/2023/07/18/cf4d42976bd417fb18854dfa5310a0af_6311240693981996881.jpg) |
+| 2023071811207 | 亚克力色纸-春水初生 | 10 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/07/18/08d11637b2c4e780eda8de6bf5ff3ad8_8345916391396956258.jpg) |
+| 2023071811328 | 亚克力色纸-此时恰好 | 10 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/07/18/5eba60e680252f371e84ff0080dee474_4373382390595054157.jpg) |
+| 2023071811882 | 亚克力色纸-棺的回响 | 10 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/07/18/d1e9d9730e24db22d8473c54edc78a60_6664710402091117253.jpg) |
+| 2023071811513 | 角色立牌-景元 | 10 | 1 | 13800 | [图](https://bbs-static.miyoushe.com/static/2023/07/18/1cc4f25c24fb516730ba115e6602bd17_6831676676996012717.jpg) |
 | 2023052912900 | 星琼*60 | 0 | 1 | 1800 | [图](https://bbs-static.miyoushe.com/static/2023/04/17/4bfddac07bede076d69b6332f5e55882_543536464151551139.jpg) |
 | 2023052912752 | 漫游指南*5 | 0 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/04/18/e2f396d2c8d71b9a35cd00d39073a4e0_3488777836284613284.jpg) |
 | 2023052912204 | 信用点*50000 | 0 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/04/18/1486da72d8a3de6082168439a0034bc7_8695790455774052628.jpg) |
