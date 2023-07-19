@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 原神☆FES | 特邀创作者情报 | https://ys.mihoyo.com/main/news/detail/28297 |
 | 「久世浮倾」流浪者同人绘画作品征集开启 | https://ys.mihoyo.com/main/news/detail/28295 |
 | 「真珠之智」珊瑚宫心海同人绘画作品征集开启 | https://ys.mihoyo.com/main/news/detail/28294 |
 | 「冒险家试炼·进阶篇」活动：趣味试炼挑战 | https://ys.mihoyo.com/main/news/detail/28293 |
@@ -19,7 +20,6 @@
 | 《原神》「七圣召唤」热斗模式：万能向导 | https://ys.mihoyo.com/main/news/detail/28264 |
 | 《原神》确认参展BilibiliWorld2023! | https://ys.mihoyo.com/main/news/detail/28262 |
 | 原神☆FES｜跨越尘世 于此相聚 | https://ys.mihoyo.com/main/news/detail/28256 |
-| 原神☆FES 活动PV | https://ys.mihoyo.com/main/news/detail/28255 |
 
 
 ## 米游社商品
