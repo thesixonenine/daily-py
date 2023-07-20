@@ -10,16 +10,16 @@
 
 | title | url |
 |:---:|:---:|
+| 「清夏！乐园？大秘境！」3.8版本活动速递第二期 | https://ys.mihoyo.com/main/news/detail/28307 |
+| 「邀约事件 · 第十一辑」传说任务说明 | https://ys.mihoyo.com/main/news/detail/28306 |
+| 「神铸赋形」祈愿：「法器·不灭月华」「法器·图莱杜拉的回忆」概率UP！ | https://ys.mihoyo.com/main/news/detail/28305 |
+| 「余火变相」祈愿：「久世浮倾·流浪者(风)」概率UP！ | https://ys.mihoyo.com/main/news/detail/28304 |
+| 「浮岳虹珠」祈愿：「真珠之智·珊瑚宫心海(水)」概率UP！ | https://ys.mihoyo.com/main/news/detail/28303 |
 | 亲爱的旅行者，一起去原神☆FES吧！ | https://ys.mihoyo.com/main/news/detail/28302 |
 | 原神☆FES | 开票预告 | https://ys.mihoyo.com/main/news/detail/28301 |
 | 原神☆FES 活动说明PV | https://ys.mihoyo.com/main/news/detail/28300 |
 | 达达利亚生日快乐｜这么久没见，不知下次相遇又要等到什么时候… | https://ys.mihoyo.com/main/news/detail/28299 |
 | 原神☆FES | 特邀创作者情报 | https://ys.mihoyo.com/main/news/detail/28297 |
-| 「久世浮倾」流浪者同人绘画作品征集开启 | https://ys.mihoyo.com/main/news/detail/28295 |
-| 「真珠之智」珊瑚宫心海同人绘画作品征集开启 | https://ys.mihoyo.com/main/news/detail/28294 |
-| 「冒险家试炼·进阶篇」活动：趣味试炼挑战 | https://ys.mihoyo.com/main/news/detail/28293 |
-| 《原神》3.8版本表情包「派蒙的画作第25弹」现已上线 | https://ys.mihoyo.com/main/news/detail/28270 |
-| 胡桃生日快乐｜噫！谁在拍我肩膀，是幽灵吗——哗！ | https://ys.mihoyo.com/main/news/detail/28268 |
 
 
 ## 米游社商品
