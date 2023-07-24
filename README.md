@@ -10,6 +10,8 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》3.0回顾主题OST即将上线  | https://ys.mihoyo.com/main/news/detail/28336 |
+| 鹿野院平藏生日快乐｜突然来找我，难道是有需要我出马的新案子？ | https://ys.mihoyo.com/main/news/detail/28335 |
 | 「清夏！乐园？大秘境！」3.8版本活动速递第二期 | https://ys.mihoyo.com/main/news/detail/28307 |
 | 「邀约事件 · 第十一辑」传说任务说明 | https://ys.mihoyo.com/main/news/detail/28306 |
 | 「神铸赋形」祈愿：「法器·不灭月华」「法器·图莱杜拉的回忆」概率UP！ | https://ys.mihoyo.com/main/news/detail/28305 |
@@ -18,8 +20,6 @@
 | 亲爱的旅行者，一起去原神☆FES吧！ | https://ys.mihoyo.com/main/news/detail/28302 |
 | 原神☆FES | 开票预告 | https://ys.mihoyo.com/main/news/detail/28301 |
 | 原神☆FES 活动说明PV | https://ys.mihoyo.com/main/news/detail/28300 |
-| 达达利亚生日快乐｜这么久没见，不知下次相遇又要等到什么时候… | https://ys.mihoyo.com/main/news/detail/28299 |
-| 原神☆FES | 特邀创作者情报 | https://ys.mihoyo.com/main/news/detail/28297 |
 
 
 ## 米游社商品
