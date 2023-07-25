@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 3.8版本超话签到活动第二期 | https://ys.mihoyo.com/main/news/detail/28348 |
 | 《原神》3.0回顾主题OST即将上线  | https://ys.mihoyo.com/main/news/detail/28336 |
 | 鹿野院平藏生日快乐｜突然来找我，难道是有需要我出马的新案子？ | https://ys.mihoyo.com/main/news/detail/28335 |
 | 「清夏！乐园？大秘境！」3.8版本活动速递第二期 | https://ys.mihoyo.com/main/news/detail/28307 |
@@ -19,7 +20,6 @@
 | 「浮岳虹珠」祈愿：「真珠之智·珊瑚宫心海(水)」概率UP！ | https://ys.mihoyo.com/main/news/detail/28303 |
 | 亲爱的旅行者，一起去原神☆FES吧！ | https://ys.mihoyo.com/main/news/detail/28302 |
 | 原神☆FES | 开票预告 | https://ys.mihoyo.com/main/news/detail/28301 |
-| 原神☆FES 活动说明PV | https://ys.mihoyo.com/main/news/detail/28300 |
 
 
 ## 米游社商品
