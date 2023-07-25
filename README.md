@@ -121,7 +121,7 @@
 | 2023052511939 | 日常系列 Q版刺绣御守-左然 | 0 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2023/05/25/703d1196fc9efe0e94cc69f7fb7c97d4_6108834836283393949.jpg) |
 | 2023052511200 | 日常系列 Q版刺绣御守-莫弈 | 0 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2023/05/25/fe92d3a8fa539a25883b8c93dbe27d09_5541450773832268713.jpg) |
 | 2023052511855 | 日常系列 Q版刺绣御守-陆景和 | 0 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2023/05/25/fe6d9d84db3ee6928eebee1e2dd426f7_3456311142063591466.jpg) |
-| 2020091012247 | 未名晶片×100 | 0 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2020/09/10/3ec51e35f50fb60eda4705778177c24b_3871479849056199956.png) |
+| 2020091012247 | 未名晶片×100 | 300 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2020/09/10/3ec51e35f50fb60eda4705778177c24b_3871479849056199956.png) |
 
 
 
