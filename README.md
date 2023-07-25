@@ -10,6 +10,8 @@
 
 | title | url |
 |:---:|:---:|
+| 「险途勘探」活动：险境战斗试炼 | https://ys.mihoyo.com/main/news/detail/28350 |
+| 《原神》EP - 逆风散羽之别 | https://ys.mihoyo.com/main/news/detail/28349 |
 | 3.8版本超话签到活动第二期 | https://ys.mihoyo.com/main/news/detail/28348 |
 | 《原神》3.0回顾主题OST即将上线  | https://ys.mihoyo.com/main/news/detail/28336 |
 | 鹿野院平藏生日快乐｜突然来找我，难道是有需要我出马的新案子？ | https://ys.mihoyo.com/main/news/detail/28335 |
@@ -18,8 +20,6 @@
 | 「神铸赋形」祈愿：「法器·不灭月华」「法器·图莱杜拉的回忆」概率UP！ | https://ys.mihoyo.com/main/news/detail/28305 |
 | 「余火变相」祈愿：「久世浮倾·流浪者(风)」概率UP！ | https://ys.mihoyo.com/main/news/detail/28304 |
 | 「浮岳虹珠」祈愿：「真珠之智·珊瑚宫心海(水)」概率UP！ | https://ys.mihoyo.com/main/news/detail/28303 |
-| 亲爱的旅行者，一起去原神☆FES吧！ | https://ys.mihoyo.com/main/news/detail/28302 |
-| 原神☆FES | 开票预告 | https://ys.mihoyo.com/main/news/detail/28301 |
 
 
 ## 米游社商品
