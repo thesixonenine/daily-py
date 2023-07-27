@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 「螺音忆梦」——《原神》3.0回顾主题OST宣传H5正式上线 | https://ys.mihoyo.com/main/news/detail/28363 |
 | 原神☆FES | 第二轮开票预告 | https://ys.mihoyo.com/main/news/detail/28362 |
 | 久岐忍生日快乐｜在他们又惹新麻烦之前，陪我一起逛逛？ | https://ys.mihoyo.com/main/news/detail/28361 |
 | 可莉生日快乐｜锵锵！红蛋糕魔女闪亮登场！ | https://ys.mihoyo.com/main/news/detail/28360 |
@@ -19,7 +20,6 @@
 | 3.8版本超话签到活动第二期 | https://ys.mihoyo.com/main/news/detail/28348 |
 | 《原神》3.0回顾主题OST即将上线  | https://ys.mihoyo.com/main/news/detail/28336 |
 | 鹿野院平藏生日快乐｜突然来找我，难道是有需要我出马的新案子？ | https://ys.mihoyo.com/main/news/detail/28335 |
-| 「清夏！乐园？大秘境！」3.8版本活动速递第二期 | https://ys.mihoyo.com/main/news/detail/28307 |
 
 
 ## 米游社商品
