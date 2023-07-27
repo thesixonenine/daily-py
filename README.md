@@ -10,6 +10,9 @@
 
 | title | url |
 |:---:|:---:|
+| 原神☆FES | 第二轮开票预告 | https://ys.mihoyo.com/main/news/detail/28362 |
+| 久岐忍生日快乐｜在他们又惹新麻烦之前，陪我一起逛逛？ | https://ys.mihoyo.com/main/news/detail/28361 |
+| 可莉生日快乐｜锵锵！红蛋糕魔女闪亮登场！ | https://ys.mihoyo.com/main/news/detail/28360 |
 | 《原神》3.0回顾主题OST正式上线 | https://ys.mihoyo.com/main/news/detail/28358 |
 | 「险途勘探」活动：险境战斗试炼 | https://ys.mihoyo.com/main/news/detail/28350 |
 | 《原神》EP - 逆风散羽之别 | https://ys.mihoyo.com/main/news/detail/28349 |
@@ -17,9 +20,6 @@
 | 《原神》3.0回顾主题OST即将上线  | https://ys.mihoyo.com/main/news/detail/28336 |
 | 鹿野院平藏生日快乐｜突然来找我，难道是有需要我出马的新案子？ | https://ys.mihoyo.com/main/news/detail/28335 |
 | 「清夏！乐园？大秘境！」3.8版本活动速递第二期 | https://ys.mihoyo.com/main/news/detail/28307 |
-| 「邀约事件 · 第十一辑」传说任务说明 | https://ys.mihoyo.com/main/news/detail/28306 |
-| 「神铸赋形」祈愿：「法器·不灭月华」「法器·图莱杜拉的回忆」概率UP！ | https://ys.mihoyo.com/main/news/detail/28305 |
-| 「余火变相」祈愿：「久世浮倾·流浪者(风)」概率UP！ | https://ys.mihoyo.com/main/news/detail/28304 |
 
 
 ## 米游社商品
