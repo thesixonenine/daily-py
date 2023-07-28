@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+|  烟绯生日快乐｜嗯！味道不错，我很喜欢！ | https://ys.mihoyo.com/main/news/detail/28364 |
 | 「螺音忆梦」——《原神》3.0回顾主题OST宣传H5正式上线 | https://ys.mihoyo.com/main/news/detail/28363 |
 | 原神☆FES | 第二轮开票预告 | https://ys.mihoyo.com/main/news/detail/28362 |
 | 久岐忍生日快乐｜在他们又惹新麻烦之前，陪我一起逛逛？ | https://ys.mihoyo.com/main/news/detail/28361 |
@@ -19,7 +20,6 @@
 | 《原神》EP - 逆风散羽之别 | https://ys.mihoyo.com/main/news/detail/28349 |
 | 3.8版本超话签到活动第二期 | https://ys.mihoyo.com/main/news/detail/28348 |
 | 《原神》3.0回顾主题OST即将上线  | https://ys.mihoyo.com/main/news/detail/28336 |
-| 鹿野院平藏生日快乐｜突然来找我，难道是有需要我出马的新案子？ | https://ys.mihoyo.com/main/news/detail/28335 |
 
 
 ## 米游社商品
@@ -96,6 +96,30 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| 2023072511310 | 缤纷甜意系列 Q版悬挂亚克力立牌-夏彦 | 0 | 1 | 730 | [图](https://bbs-static.miyoushe.com/static/2023/07/25/55d284341c8917159e3a2984dd282b5a_1085548792815415510.jpg) |
+| 2023072511345 | 缤纷甜意系列 Q版悬挂亚克力立牌-左然 | 0 | 1 | 730 | [图](https://bbs-static.miyoushe.com/static/2023/07/25/e1af1f5123328556a3b3239cc680d925_8764361704946784437.jpg) |
+| 2023072511920 | 缤纷甜意系列 Q版悬挂亚克力立牌-莫弈 | 0 | 1 | 730 | [图](https://bbs-static.miyoushe.com/static/2023/07/25/15d5c71e22cf43e41383b2b4896d19b2_1991394109052679046.jpg) |
+| 2023072511351 | 缤纷甜意系列 Q版悬挂亚克力立牌-陆景和 | 0 | 1 | 730 | [图](https://bbs-static.miyoushe.com/static/2023/07/25/9a87fea4c1baeb7e637f39b5e7baf0d0_8548803679832013394.jpg) |
+| 2023072511829 | 浓情浅吻系列 流沙亚克力摆件-夏彦 | 0 | 1 | 730 | [图](https://bbs-static.miyoushe.com/static/2023/07/25/b948724fe82f1cae82859eccd4df4896_1862021421598299937.jpg) |
+| 2023072511353 | 浓情浅吻系列 流沙亚克力摆件-左然 | 0 | 1 | 730 | [图](https://bbs-static.miyoushe.com/static/2023/07/25/98e6c3289cdd21bc3f7478fd7fcb4c6f_1874192349996572977.jpg) |
+| 2023072511734 | 浓情浅吻系列 流沙亚克力摆件-莫弈 | 0 | 1 | 730 | [图](https://bbs-static.miyoushe.com/static/2023/07/25/16b5dc57d6bc9fe21971ade5973aee2e_8238673652200490262.jpg) |
+| 2023072511792 | 浓情浅吻系列 流沙亚克力摆件-陆景和 | 0 | 1 | 730 | [图](https://bbs-static.miyoushe.com/static/2023/07/25/d2bcab5badbd7607373374c26b140241_335734038580049947.jpg) |
+| 2023072511347 | 煦风恋旅系列 周边福袋-夏彦 | 0 | 1 | 7300 | [图](https://bbs-static.miyoushe.com/static/2023/07/25/54c45d701064e43e908c0c7de6a00e53_6973985702703062086.jpg) |
+| 2023072511179 | 煦风恋旅系列 周边福袋-左然 | 0 | 1 | 7300 | [图](https://bbs-static.miyoushe.com/static/2023/07/25/9c74e8423d1802cea02370b23da2e7f3_4653658859916398906.jpg) |
+| 2023072511629 | 煦风恋旅系列 周边福袋-莫弈 | 0 | 1 | 7300 | [图](https://bbs-static.miyoushe.com/static/2023/07/25/15e80d375376ec264a65e96d1167c4bb_7479354114690319141.jpg) |
+| 2023072511205 | 煦风恋旅系列 周边福袋-陆景和 | 0 | 1 | 7300 | [图](https://bbs-static.miyoushe.com/static/2023/07/25/4f8470966f30e36cb83d2cb3a3ab620b_2628033752604718718.jpg) |
+| 2023072511798 | 情迷贝克伦系列 周边福袋-夏彦 | 0 | 1 | 6300 | [图](https://bbs-static.miyoushe.com/static/2023/07/25/3dcd2468194b9f1a7b20ef321b9e8328_6129699662557700834.jpg) |
+| 2023072511862 | 情迷贝克伦系列 周边福袋-左然 | 0 | 1 | 6300 | [图](https://bbs-static.miyoushe.com/static/2023/07/25/94a562c60da6bea6c422efe73cc85f09_656808034320982745.jpg) |
+| 2023072511250 | 情迷贝克伦系列 周边福袋-莫弈 | 0 | 1 | 6300 | [图](https://bbs-static.miyoushe.com/static/2023/07/25/ca4cb7814d0934b0aa737d9897040f44_7989174889682876080.jpg) |
+| 2023072511251 | 情迷贝克伦系列 周边福袋-陆景和 | 0 | 1 | 6300 | [图](https://bbs-static.miyoushe.com/static/2023/07/25/2cc0632e92d6248aa6d9b728c7e29661_6273813943432346343.jpg) |
+| 2023072511721 | 甜宠萌心系列 周边福袋-夏彦 | 0 | 1 | 5300 | [图](https://bbs-static.miyoushe.com/static/2023/07/25/c486b8e8326b6aa8d5c5639b653d918d_8970506501280740181.jpg) |
+| 2023072511717 | 甜宠萌心系列 周边福袋-左然 | 0 | 1 | 5300 | [图](https://bbs-static.miyoushe.com/static/2023/07/25/a9daaca066ccb8524a3d0d0eeadc1765_6570942632505068365.jpg) |
+| 2023072511214 | 甜宠萌心系列 周边福袋-莫弈 | 0 | 1 | 5300 | [图](https://bbs-static.miyoushe.com/static/2023/07/25/0489b7f31f7ba0320587176b2a43e94f_4142437686227003675.jpg) |
+| 2023072511406 | 甜宠萌心系列 周边福袋-陆景和 | 0 | 1 | 5300 | [图](https://bbs-static.miyoushe.com/static/2023/07/25/6dcaaebe348d65b79b0322c2d73b6b17_8862766926943919858.jpg) |
+| 2023072511977 | 约定之日系列 周边福袋-夏彦 | 0 | 1 | 4600 | [图](https://bbs-static.miyoushe.com/static/2023/07/25/93f15e789ffebf8061e6b7076dbc303d_9215786204224146652.jpg) |
+| 2023072511643 | 约定之日系列 周边福袋-左然 | 0 | 1 | 4600 | [图](https://bbs-static.miyoushe.com/static/2023/07/25/6b342529ae2a266b186efadec44cc6df_2148043623873871176.jpg) |
+| 2023072511661 | 约定之日系列 周边福袋-莫弈 | 0 | 1 | 4600 | [图](https://bbs-static.miyoushe.com/static/2023/07/25/3a05e4ab796082d115fb5ef454bedcf3_6264809652792655426.jpg) |
+| 2023072511316 | 约定之日系列 周边福袋-陆景和 | 0 | 1 | 4600 | [图](https://bbs-static.miyoushe.com/static/2023/07/25/edbca355ad849bdab1390a688bfcf3df_2066440031228449055.jpg) |
 | 2023062011586 | 飞雪落红尘系列 亚克力挂件-夏彦 | 0 | 1 | 7400 | [图](https://bbs-static.miyoushe.com/static/2023/06/20/e273c75fdbcfb2290b7d370c6f0771d1_6217290111715839191.jpg) |
 | 2023062011975 | 飞雪落红尘系列 亚克力挂件-左然 | 0 | 1 | 7400 | [图](https://bbs-static.miyoushe.com/static/2023/06/20/0306d5118af458ee7035ba9bfcfe7e97_5601901029120795347.jpg) |
 | 2023062011510 | 飞雪落红尘系列 亚克力挂件-莫弈 | 0 | 1 | 7400 | [图](https://bbs-static.miyoushe.com/static/2023/06/20/d9da538a3c2859a22281eb98fdbe7e68_7782090339804316803.jpg) |
@@ -112,16 +136,6 @@
 | 2023052511392 | 柔情絮语系列第一弹 亚克力装饰画-夏彦 | 0 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/05/25/e9e1f6488c644adf7aa1c02a0479aa19_3270079358689250572.jpg) |
 | 2023052511236 | 柔情絮语系列第一弹 亚克力装饰画-左然 | 0 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/05/25/9fbf980461bb785a9a1bbd9b17b36c92_1347106732514794281.jpg) |
 | 2023052511232 | 柔情絮语系列第一弹 亚克力装饰画-莫弈 | 0 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/05/25/bef7c69ff99ad9774560ff78ae214477_924970485121119760.jpg) |
-| 2023052511870 | 柔情絮语系列第一弹 亚克力装饰画-陆景和 | 0 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/05/25/d14eb693446fb005ea439d3ad730a0ea_4964381923215014088.jpg) |
-| 2023052511353 | 端午系列 Q版留言立牌-夏彦 | 0 | 1 | 8700 | [图](https://bbs-static.miyoushe.com/static/2023/05/25/91536b2a3dcbd9f086cefc9a2762942b_769060148863892010.jpg) |
-| 2023052511553 | 端午系列 Q版留言立牌-左然 | 0 | 1 | 8700 | [图](https://bbs-static.miyoushe.com/static/2023/05/25/6743ab7322b0e19c8cfd918140229857_1323363947451439389.jpg) |
-| 2023052511230 | 端午系列 Q版留言立牌-莫弈 | 0 | 1 | 8700 | [图](https://bbs-static.miyoushe.com/static/2023/05/25/cd839312ffce5e1bd5b9324f84324316_6845760985432552137.jpg) |
-| 2023052511847 | 端午系列 Q版留言立牌-陆景和 | 0 | 1 | 8700 | [图](https://bbs-static.miyoushe.com/static/2023/05/25/f16a34db12367187ebeb0507e1f2b14e_1374929033556368468.jpg) |
-| 2023052511827 | 日常系列 Q版刺绣御守-夏彦 | 0 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2023/05/25/887a1ae1451523e40f493f794a8cf121_1928961362119511376.jpg) |
-| 2023052511939 | 日常系列 Q版刺绣御守-左然 | 0 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2023/05/25/703d1196fc9efe0e94cc69f7fb7c97d4_6108834836283393949.jpg) |
-| 2023052511200 | 日常系列 Q版刺绣御守-莫弈 | 0 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2023/05/25/fe92d3a8fa539a25883b8c93dbe27d09_5541450773832268713.jpg) |
-| 2023052511855 | 日常系列 Q版刺绣御守-陆景和 | 0 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2023/05/25/fe6d9d84db3ee6928eebee1e2dd426f7_3456311142063591466.jpg) |
-| 2020091012247 | 未名晶片×100 | 300 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2020/09/10/3ec51e35f50fb60eda4705778177c24b_3871479849056199956.png) |
 
 
 
@@ -157,6 +171,7 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| 2023072512989 | 【未定事件簿】「约定之日」（永久） | 0 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/12/23/559179682dfd37c917d10482c3391562_548225148965272203.jpg) |
 | 2023071512199 | 【未定事件簿】「归心之所」三周年限定头像挂件（永久） | 0 | 1 | 3000 | [图](https://bbs-static.miyoushe.com/static/2023/07/15/58d63cefd56dfe5286b8b1640ebb2a25_5131298115293090227.jpg) |
 | 2023070315584 | 【创小摊】实物周边满60元减8元优惠券 | 0 | 0 | 2000 | [图](https://bbs-static.miyoushe.com/static/2023/06/06/801c18d8013c8df1d5ee3c8234a7a645_7661727822628393377.jpg) |
 | 2023070315130 | 【创小摊】实物周边满5.01元减5元优惠券 | 0 | 0 | 1250 | [图](https://bbs-static.miyoushe.com/static/2023/06/06/48fed7da544e6588188e6efff3bb3e6f_9216349196603904011.jpg) |
