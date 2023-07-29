@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》「壁纸放送」 | https://ys.mihoyo.com/main/news/detail/28373 |
 |  烟绯生日快乐｜嗯！味道不错，我很喜欢！ | https://ys.mihoyo.com/main/news/detail/28364 |
 | 「螺音忆梦」——《原神》3.0回顾主题OST宣传H5正式上线 | https://ys.mihoyo.com/main/news/detail/28363 |
 | 原神☆FES | 第二轮开票预告 | https://ys.mihoyo.com/main/news/detail/28362 |
@@ -19,7 +20,6 @@
 | 「险途勘探」活动：险境战斗试炼 | https://ys.mihoyo.com/main/news/detail/28350 |
 | 《原神》EP - 逆风散羽之别 | https://ys.mihoyo.com/main/news/detail/28349 |
 | 3.8版本超话签到活动第二期 | https://ys.mihoyo.com/main/news/detail/28348 |
-| 《原神》3.0回顾主题OST即将上线  | https://ys.mihoyo.com/main/news/detail/28336 |
 
 
 ## 米游社商品
@@ -71,7 +71,6 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 2023042712873 | 水晶*100 | 0 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2020/06/18/ccf130fa959888e48af399799ac91458_2459754489211937281.png) |
 | 215791797313419356364222347148 | 逆熵·虚数核心*5 | 0 | 2 | 1200 | [图](https://webstatic.mihoyo.com/upload/shop/2021/04/09/714c64b6547f2a1274b1524fddc7febb_2808239829919819812.png) |
 | 2021040912146 | 高级技能材料*5 | 0 | 1 | 1800 | [图](https://webstatic.mihoyo.com/upload/shop/2021/04/09/48752dc5ab70c818b6b72a6513c95f2f_5640911369522514077.png) |
 | 21579179504316812467643946757 | 体力药水*1 | 0 | 2 | 370 | [图](https://webstatic.mihoyo.com/upload/shop/2021/04/09/9ccf0f785763dad642281e90b1a925c7_1345306158854300132.png) |
@@ -89,6 +88,7 @@
 | 2023052511759 | 游戏CG插画大鼠标垫-夏日生存狂想曲·A面 | 0 | 1 | 13800 | [图](https://bbs-static.miyoushe.com/static/2023/05/25/ee9f94ccc6f72d9c64c7d34325618fc3_1507061070496233888.jpg) |
 | 2023052511274 | 游戏CG插画大鼠标垫-桂月迎秋 | 0 | 1 | 13800 | [图](https://bbs-static.miyoushe.com/static/2023/05/25/61296b1461330da6a70fc25aa0eb15e3_2034649301379762552.jpg) |
 | 2023052511975 | 游戏CG插画大鼠标垫-六周年庆典 | 0 | 1 | 13800 | [图](https://bbs-static.miyoushe.com/static/2023/05/25/2708cd8c47fe2953cede768a37498eae_6476714130931077864.jpg) |
+| 2023042712873 | 水晶*100 | 0 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2020/06/18/ccf130fa959888e48af399799ac91458_2459754489211937281.png) |
 
 
 
