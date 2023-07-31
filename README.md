@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 「传心同视」活动：寻找小动物挑战 | https://ys.mihoyo.com/main/news/detail/28385 |
 | 《原神》「壁纸放送」 | https://ys.mihoyo.com/main/news/detail/28373 |
 |  烟绯生日快乐｜嗯！味道不错，我很喜欢！ | https://ys.mihoyo.com/main/news/detail/28364 |
 | 「螺音忆梦」——《原神》3.0回顾主题OST宣传H5正式上线 | https://ys.mihoyo.com/main/news/detail/28363 |
@@ -19,7 +20,6 @@
 | 《原神》3.0回顾主题OST正式上线 | https://ys.mihoyo.com/main/news/detail/28358 |
 | 「险途勘探」活动：险境战斗试炼 | https://ys.mihoyo.com/main/news/detail/28350 |
 | 《原神》EP - 逆风散羽之别 | https://ys.mihoyo.com/main/news/detail/28349 |
-| 3.8版本超话签到活动第二期 | https://ys.mihoyo.com/main/news/detail/28348 |
 
 
 ## 米游社商品
