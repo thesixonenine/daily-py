@@ -10,6 +10,8 @@
 
 | title | url |
 |:---:|:---:|
+| 「传心同视」活动说明 | https://ys.mihoyo.com/main/news/detail/28411 |
+| 圣遗物收纳上限提升、纪行武器追加…get√—08.02开发组座谈会 | https://ys.mihoyo.com/main/news/detail/28410 |
 | 「传心同视」活动：寻找小动物挑战 | https://ys.mihoyo.com/main/news/detail/28385 |
 | 《原神》「壁纸放送」 | https://ys.mihoyo.com/main/news/detail/28373 |
 |  烟绯生日快乐｜嗯！味道不错，我很喜欢！ | https://ys.mihoyo.com/main/news/detail/28364 |
@@ -18,8 +20,6 @@
 | 久岐忍生日快乐｜在他们又惹新麻烦之前，陪我一起逛逛？ | https://ys.mihoyo.com/main/news/detail/28361 |
 | 可莉生日快乐｜锵锵！红蛋糕魔女闪亮登场！ | https://ys.mihoyo.com/main/news/detail/28360 |
 | 《原神》3.0回顾主题OST正式上线 | https://ys.mihoyo.com/main/news/detail/28358 |
-| 「险途勘探」活动：险境战斗试炼 | https://ys.mihoyo.com/main/news/detail/28350 |
-| 《原神》EP - 逆风散羽之别 | https://ys.mihoyo.com/main/news/detail/28349 |
 
 
 ## 米游社商品
