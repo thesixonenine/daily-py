@@ -66,6 +66,7 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| 2023042712873 | 水晶*100 | 11250 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2020/06/18/ccf130fa959888e48af399799ac91458_2459754489211937281.png) |
 | 215791797313419356364222347148 | 逆熵·虚数核心*5 | 0 | 2 | 1200 | [图](https://webstatic.mihoyo.com/upload/shop/2021/04/09/714c64b6547f2a1274b1524fddc7febb_2808239829919819812.png) |
 | 2021040912146 | 高级技能材料*5 | 0 | 1 | 1800 | [图](https://webstatic.mihoyo.com/upload/shop/2021/04/09/48752dc5ab70c818b6b72a6513c95f2f_5640911369522514077.png) |
 | 21579179504316812467643946757 | 体力药水*1 | 0 | 2 | 370 | [图](https://webstatic.mihoyo.com/upload/shop/2021/04/09/9ccf0f785763dad642281e90b1a925c7_1345306158854300132.png) |
@@ -76,7 +77,6 @@
 | 2023062711894 | 悠游夏日系列 立牌-符华 | 20 | 1 | 12000 | [图](https://bbs-static.miyoushe.com/static/2023/06/27/259400272bae45e167c68cafa09707ae_4206816997646445461.jpg) |
 | 2023062711764 | 悠游夏日系列 立牌-德丽莎 | 20 | 1 | 12000 | [图](https://bbs-static.miyoushe.com/static/2023/06/27/af19941376866549453b0eff7d2bed81_1840202056453730813.jpg) |
 | 2023062711382 | 2022八重樱生日纪念礼盒 | 20 | 1 | 20000 | [图](https://bbs-static.miyoushe.com/static/2023/06/27/fd73123cb707177395e49fcb375ad140_5343400027791753745.jpg) |
-| 2023042712873 | 水晶*100 | 0 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2020/06/18/ccf130fa959888e48af399799ac91458_2459754489211937281.png) |
 
 
 
