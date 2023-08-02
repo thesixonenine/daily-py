@@ -10,6 +10,8 @@
 
 | title | url |
 |:---:|:---:|
+| 原神 x 支付宝2023年度绿色出行活动「第四期」已经开启！ | https://ys.mihoyo.com/main/news/detail/28413 |
+| 《原神》4.0版本「仿若无因飘落的轻雨」前瞻特别节目预告 | https://ys.mihoyo.com/main/news/detail/28412 |
 | 「传心同视」活动说明 | https://ys.mihoyo.com/main/news/detail/28411 |
 | 圣遗物收纳上限提升、纪行武器追加…get√—08.02开发组座谈会 | https://ys.mihoyo.com/main/news/detail/28410 |
 | 「传心同视」活动：寻找小动物挑战 | https://ys.mihoyo.com/main/news/detail/28385 |
@@ -18,8 +20,6 @@
 | 「螺音忆梦」——《原神》3.0回顾主题OST宣传H5正式上线 | https://ys.mihoyo.com/main/news/detail/28363 |
 | 原神☆FES | 第二轮开票预告 | https://ys.mihoyo.com/main/news/detail/28362 |
 | 久岐忍生日快乐｜在他们又惹新麻烦之前，陪我一起逛逛？ | https://ys.mihoyo.com/main/news/detail/28361 |
-| 可莉生日快乐｜锵锵！红蛋糕魔女闪亮登场！ | https://ys.mihoyo.com/main/news/detail/28360 |
-| 《原神》3.0回顾主题OST正式上线 | https://ys.mihoyo.com/main/news/detail/28358 |
 
 
 ## 米游社商品
