@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 「微博粉丝数1000W达成！」 | https://ys.mihoyo.com/main/news/detail/28414 |
 | 原神 x 支付宝2023年度绿色出行活动「第四期」已经开启！ | https://ys.mihoyo.com/main/news/detail/28413 |
 | 《原神》4.0版本「仿若无因飘落的轻雨」前瞻特别节目预告 | https://ys.mihoyo.com/main/news/detail/28412 |
 | 「传心同视」活动说明 | https://ys.mihoyo.com/main/news/detail/28411 |
@@ -19,7 +20,6 @@
 |  烟绯生日快乐｜嗯！味道不错，我很喜欢！ | https://ys.mihoyo.com/main/news/detail/28364 |
 | 「螺音忆梦」——《原神》3.0回顾主题OST宣传H5正式上线 | https://ys.mihoyo.com/main/news/detail/28363 |
 | 原神☆FES | 第二轮开票预告 | https://ys.mihoyo.com/main/news/detail/28362 |
-| 久岐忍生日快乐｜在他们又惹新麻烦之前，陪我一起逛逛？ | https://ys.mihoyo.com/main/news/detail/28361 |
 
 
 ## 米游社商品
