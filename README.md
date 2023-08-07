@@ -156,6 +156,8 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| 2023080315274 | 【创小摊】实物周边满60元减8元优惠券 | 1000 | 0 | 2000 | [图](https://bbs-static.miyoushe.com/static/2023/08/03/1ea4d31877f87df19ab2faa2f5f8c795_7334063888172602390.png) |
+| 2023080315559 | 【创小摊】实物周边满5.01元减5元优惠券 | 4000 | 0 | 1250 | [图](https://bbs-static.miyoushe.com/static/2023/08/03/d1de36d5410b0b57395f1a44baa7d825_6582645165538115346.jpg) |
 | 2023072512989 | 【未定事件簿】「约定之日」（永久） | 0 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/12/23/559179682dfd37c917d10482c3391562_548225148965272203.jpg) |
 | 2023071512199 | 【未定事件簿】「归心之所」三周年限定头像挂件（永久） | 0 | 1 | 3000 | [图](https://bbs-static.miyoushe.com/static/2023/07/15/58d63cefd56dfe5286b8b1640ebb2a25_5131298115293090227.jpg) |
 | 2023021012469 | 【未定事件簿】「情诗」（永久） | 0 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/12/23/faba435917f41dfdce30440435a61cf6_5477568449308330917.jpg) |
