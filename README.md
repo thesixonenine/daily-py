@@ -10,6 +10,8 @@
 
 | title | url |
 |:---:|:---:|
+| 蒸汽鸟报特刊II 水中冒险指南 | https://ys.mihoyo.com/main/news/detail/28441 |
+| 蒸汽鸟报特刊I 地上之海，万水源流 | https://ys.mihoyo.com/main/news/detail/28440 |
 | 「移光拾影」网页活动现已开启——参与可得原石等奖励 | https://ys.mihoyo.com/main/news/detail/28437 |
 | 「派蒙的画作喜茶篇」第二期联动主题表情包现已上架 | https://ys.mihoyo.com/main/news/detail/28436 |
 | 「精通移涌」活动：天赋培养素材双倍掉落 | https://ys.mihoyo.com/main/news/detail/28433 |
@@ -18,8 +20,6 @@
 | 《原神》4.0宣传短片：指尖奇旅 | https://ys.mihoyo.com/main/news/detail/28430 |
 | 「《原神》枫丹交响音乐现场」  | https://ys.mihoyo.com/main/news/detail/28429 |
 | 心有所喜 约有所期 | 喜茶×原神第二期联动即将开启 | https://ys.mihoyo.com/main/news/detail/28427 |
-| 《原神》4.0版本「仿若无因飘落的轻雨」前瞻特别节目回顾长图 | https://ys.mihoyo.com/main/news/detail/28426 |
-| 《原神》4.0版本「仿若无因飘落的轻雨」前瞻特别节目 | https://ys.mihoyo.com/main/news/detail/28425 |
 
 
 ## 米游社商品
