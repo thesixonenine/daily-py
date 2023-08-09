@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 「移光拾影」网页活动现已开启——参与可得原石等奖励 | https://ys.mihoyo.com/main/news/detail/28437 |
 | 「派蒙的画作喜茶篇」第二期联动主题表情包现已上架 | https://ys.mihoyo.com/main/news/detail/28436 |
 | 「精通移涌」活动：天赋培养素材双倍掉落 | https://ys.mihoyo.com/main/news/detail/28433 |
 | 4.0版本前瞻页H5 | https://ys.mihoyo.com/main/news/detail/28432 |
@@ -19,7 +20,6 @@
 | 心有所喜 约有所期 | 喜茶×原神第二期联动即将开启 | https://ys.mihoyo.com/main/news/detail/28427 |
 | 《原神》4.0版本「仿若无因飘落的轻雨」前瞻特别节目回顾长图 | https://ys.mihoyo.com/main/news/detail/28426 |
 | 《原神》4.0版本「仿若无因飘落的轻雨」前瞻特别节目 | https://ys.mihoyo.com/main/news/detail/28425 |
-| 《原神》4.0版本PV：「仿若无因飘落的轻雨」 | https://ys.mihoyo.com/main/news/detail/28424 |
 
 
 ## 米游社商品
