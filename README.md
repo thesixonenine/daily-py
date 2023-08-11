@@ -10,6 +10,9 @@
 
 | title | url |
 |:---:|:---:|
+| 心有所喜 约有所期 | 喜遇原神2.0已经开启 | https://ys.mihoyo.com/main/news/detail/28470 |
+| 「幕后奇遇」——《原神》新角色：林尼分享H5正式上线 | https://ys.mihoyo.com/main/news/detail/28469 |
+|  米卡生日快乐｜今天的阳光条件不错，团雀们似乎也很活跃… | https://ys.mihoyo.com/main/news/detail/28468 |
 | 4.0版本「仿若无因飘落的轻雨」全新圣遗物说明 | https://ys.mihoyo.com/main/news/detail/28467 |
 | 4.0版本「仿若无因飘落的轻雨」全新武器说明 | https://ys.mihoyo.com/main/news/detail/28466 |
 | 蒸汽鸟报特刊III 芒性、荒性与其相互湮灭 | https://ys.mihoyo.com/main/news/detail/28462 |
@@ -17,9 +20,6 @@
 | 安柏生日快乐｜难得的好天气，我带了兔兔伯爵一起出来晒晒太阳。 | https://ys.mihoyo.com/main/news/detail/28458 |
 | 《原神》林尼角色PV——「掌中天幕」 | https://ys.mihoyo.com/main/news/detail/28457 |
 | 蒸汽鸟报特刊II 水中冒险指南 | https://ys.mihoyo.com/main/news/detail/28441 |
-| 蒸汽鸟报特刊I 地上之海，万水源流 | https://ys.mihoyo.com/main/news/detail/28440 |
-| 「移光拾影」网页活动现已开启——参与可得原石等奖励 | https://ys.mihoyo.com/main/news/detail/28437 |
-| 「派蒙的画作喜茶篇」第二期联动主题表情包现已上架 | https://ys.mihoyo.com/main/news/detail/28436 |
 
 
 ## 米游社商品
