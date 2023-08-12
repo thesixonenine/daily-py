@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 4.0版本「七圣召唤」全新卡牌说明 | https://ys.mihoyo.com/main/news/detail/28497 |
 | 七圣召唤全民赛事体系 第一赛季牌背介绍 | https://ys.mihoyo.com/main/news/detail/28496 |
 | 原神☆FES现场直播活动预告 | https://ys.mihoyo.com/main/news/detail/28489 |
 | 心有所喜 约有所期 | 喜遇原神2.0已经开启 | https://ys.mihoyo.com/main/news/detail/28470 |
@@ -19,7 +20,6 @@
 | 4.0版本「仿若无因飘落的轻雨」全新武器说明 | https://ys.mihoyo.com/main/news/detail/28466 |
 | 蒸汽鸟报特刊III 芒性、荒性与其相互湮灭 | https://ys.mihoyo.com/main/news/detail/28462 |
 | 「惑光幻戏」·林尼—「今晚有大魔术师的演出，你肯定没忘吧？」 | https://ys.mihoyo.com/main/news/detail/28461 |
-| 安柏生日快乐｜难得的好天气，我带了兔兔伯爵一起出来晒晒太阳。 | https://ys.mihoyo.com/main/news/detail/28458 |
 
 
 ## 米游社商品
