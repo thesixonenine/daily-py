@@ -10,6 +10,8 @@
 
 | title | url |
 |:---:|:---:|
+| 「原神☆FES」回顾视频 | https://ys.mihoyo.com/main/news/detail/28503 |
+| 原神交响音乐会2023全球巡演的第一站——上海站，即将开启！ | https://ys.mihoyo.com/main/news/detail/28502 |
 | 《原神》2023交响音乐会CM短片 | https://ys.mihoyo.com/main/news/detail/28501 |
 | 蒸汽鸟报特刊V  全新的生物与敌人·水中篇 | https://ys.mihoyo.com/main/news/detail/28500 |
 | 蒸汽鸟报特刊V 全新的生物与敌人·地上篇 | https://ys.mihoyo.com/main/news/detail/28499 |
@@ -18,8 +20,6 @@
 | 七圣召唤全民赛事体系 第一赛季牌背介绍 | https://ys.mihoyo.com/main/news/detail/28496 |
 | 原神☆FES现场直播活动预告 | https://ys.mihoyo.com/main/news/detail/28489 |
 | 心有所喜 约有所期 | 喜遇原神2.0已经开启 | https://ys.mihoyo.com/main/news/detail/28470 |
-| 「幕后奇遇」——《原神》新角色：林尼分享H5正式上线 | https://ys.mihoyo.com/main/news/detail/28469 |
-|  米卡生日快乐｜今天的阳光条件不错，团雀们似乎也很活跃… | https://ys.mihoyo.com/main/news/detail/28468 |
 
 
 ## 米游社商品
