@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》2023交响音乐会CM短片 | https://ys.mihoyo.com/main/news/detail/28501 |
 | 蒸汽鸟报特刊V  全新的生物与敌人·水中篇 | https://ys.mihoyo.com/main/news/detail/28500 |
 | 蒸汽鸟报特刊V 全新的生物与敌人·地上篇 | https://ys.mihoyo.com/main/news/detail/28499 |
 | 蒸汽鸟报特刊IV  于水中畅行的奇妙能力 | https://ys.mihoyo.com/main/news/detail/28498 |
@@ -19,7 +20,6 @@
 | 心有所喜 约有所期 | 喜遇原神2.0已经开启 | https://ys.mihoyo.com/main/news/detail/28470 |
 | 「幕后奇遇」——《原神》新角色：林尼分享H5正式上线 | https://ys.mihoyo.com/main/news/detail/28469 |
 |  米卡生日快乐｜今天的阳光条件不错，团雀们似乎也很活跃… | https://ys.mihoyo.com/main/news/detail/28468 |
-| 4.0版本「仿若无因飘落的轻雨」全新圣遗物说明 | https://ys.mihoyo.com/main/news/detail/28467 |
 
 
 ## 米游社商品
