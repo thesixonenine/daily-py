@@ -10,6 +10,9 @@
 
 | title | url |
 |:---:|:---:|
+| 蒸汽鸟报特刊V  全新的生物与敌人·水中篇 | https://ys.mihoyo.com/main/news/detail/28500 |
+| 蒸汽鸟报特刊V 全新的生物与敌人·地上篇 | https://ys.mihoyo.com/main/news/detail/28499 |
+| 蒸汽鸟报特刊IV  于水中畅行的奇妙能力 | https://ys.mihoyo.com/main/news/detail/28498 |
 | 4.0版本「七圣召唤」全新卡牌说明 | https://ys.mihoyo.com/main/news/detail/28497 |
 | 七圣召唤全民赛事体系 第一赛季牌背介绍 | https://ys.mihoyo.com/main/news/detail/28496 |
 | 原神☆FES现场直播活动预告 | https://ys.mihoyo.com/main/news/detail/28489 |
@@ -17,9 +20,6 @@
 | 「幕后奇遇」——《原神》新角色：林尼分享H5正式上线 | https://ys.mihoyo.com/main/news/detail/28469 |
 |  米卡生日快乐｜今天的阳光条件不错，团雀们似乎也很活跃… | https://ys.mihoyo.com/main/news/detail/28468 |
 | 4.0版本「仿若无因飘落的轻雨」全新圣遗物说明 | https://ys.mihoyo.com/main/news/detail/28467 |
-| 4.0版本「仿若无因飘落的轻雨」全新武器说明 | https://ys.mihoyo.com/main/news/detail/28466 |
-| 蒸汽鸟报特刊III 芒性、荒性与其相互湮灭 | https://ys.mihoyo.com/main/news/detail/28462 |
-| 「惑光幻戏」·林尼—「今晚有大魔术师的演出，你肯定没忘吧？」 | https://ys.mihoyo.com/main/news/detail/28461 |
 
 
 ## 米游社商品
