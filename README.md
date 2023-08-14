@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 4.0版本更新维护预告 | https://ys.mihoyo.com/main/news/detail/28504 |
 | 「原神☆FES」回顾视频 | https://ys.mihoyo.com/main/news/detail/28503 |
 | 原神交响音乐会2023全球巡演的第一站——上海站，即将开启！ | https://ys.mihoyo.com/main/news/detail/28502 |
 | 《原神》2023交响音乐会CM短片 | https://ys.mihoyo.com/main/news/detail/28501 |
@@ -19,7 +20,6 @@
 | 4.0版本「七圣召唤」全新卡牌说明 | https://ys.mihoyo.com/main/news/detail/28497 |
 | 七圣召唤全民赛事体系 第一赛季牌背介绍 | https://ys.mihoyo.com/main/news/detail/28496 |
 | 原神☆FES现场直播活动预告 | https://ys.mihoyo.com/main/news/detail/28489 |
-| 心有所喜 约有所期 | 喜遇原神2.0已经开启 | https://ys.mihoyo.com/main/news/detail/28470 |
 
 
 ## 米游社商品
