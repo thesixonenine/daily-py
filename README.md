@@ -10,16 +10,16 @@
 
 | title | url |
 |:---:|:---:|
-| 4.0版本更新维护预告 | https://ys.mihoyo.com/main/news/detail/28504 |
-| 「原神☆FES」回顾视频 | https://ys.mihoyo.com/main/news/detail/28503 |
-| 原神交响音乐会2023全球巡演的第一站——上海站，即将开启！ | https://ys.mihoyo.com/main/news/detail/28502 |
-| 《原神》2023交响音乐会CM短片 | https://ys.mihoyo.com/main/news/detail/28501 |
-| 蒸汽鸟报特刊V  全新的生物与敌人·水中篇 | https://ys.mihoyo.com/main/news/detail/28500 |
-| 蒸汽鸟报特刊V 全新的生物与敌人·地上篇 | https://ys.mihoyo.com/main/news/detail/28499 |
-| 蒸汽鸟报特刊IV  于水中畅行的奇妙能力 | https://ys.mihoyo.com/main/news/detail/28498 |
-| 4.0版本「七圣召唤」全新卡牌说明 | https://ys.mihoyo.com/main/news/detail/28497 |
-| 七圣召唤全民赛事体系 第一赛季牌背介绍 | https://ys.mihoyo.com/main/news/detail/28496 |
-| 原神☆FES现场直播活动预告 | https://ys.mihoyo.com/main/news/detail/28489 |
+| 4.0版本 「仿若无因飘落的轻雨」内容专题页上线！ | https://ys.mihoyo.com/main/news/detail/28516 |
+| 「仿若无因飘落的轻雨」4.0版本活动速递第一期 | https://ys.mihoyo.com/main/news/detail/28515 |
+| 「博物通志·水国寻迹」活动：枫丹风物探索 | https://ys.mihoyo.com/main/news/detail/28514 |
+| 「魔术永不落幕」活动：参与邀请「丽影绮行·琳妮特(风)」 | https://ys.mihoyo.com/main/news/detail/28513 |
+| 「七圣召唤」铸境研炼：奕思巧战 | https://ys.mihoyo.com/main/news/detail/28512 |
+| 「源水纪行」活动说明 | https://ys.mihoyo.com/main/news/detail/28511 |
+| 「冒险助力礼包」第25期限时上架 | https://ys.mihoyo.com/main/news/detail/28510 |
+| 「黑斑猫之章」传说任务说明 | https://ys.mihoyo.com/main/news/detail/28509 |
+| 新剧情开启：魔神任务第四章·第一幕、第二幕 | https://ys.mihoyo.com/main/news/detail/28508 |
+| 「神铸赋形」祈愿：「弓·最初的大魔术」「弓·若水」概率UP！ | https://ys.mihoyo.com/main/news/detail/28507 |
 
 
 ## 米游社商品
