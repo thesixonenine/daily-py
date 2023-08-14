@@ -10,6 +10,8 @@
 
 | title | url |
 |:---:|:---:|
+| 罪囚于斯，深水无漪 | https://ys.mihoyo.com/main/news/detail/28527 |
+| 凡高大者，无不蔑视 | https://ys.mihoyo.com/main/news/detail/28526 |
 | 4.0版本 「仿若无因飘落的轻雨」内容专题页上线！ | https://ys.mihoyo.com/main/news/detail/28516 |
 | 「仿若无因飘落的轻雨」4.0版本活动速递第一期 | https://ys.mihoyo.com/main/news/detail/28515 |
 | 「博物通志·水国寻迹」活动：枫丹风物探索 | https://ys.mihoyo.com/main/news/detail/28514 |
@@ -18,8 +20,6 @@
 | 「源水纪行」活动说明 | https://ys.mihoyo.com/main/news/detail/28511 |
 | 「冒险助力礼包」第25期限时上架 | https://ys.mihoyo.com/main/news/detail/28510 |
 | 「黑斑猫之章」传说任务说明 | https://ys.mihoyo.com/main/news/detail/28509 |
-| 新剧情开启：魔神任务第四章·第一幕、第二幕 | https://ys.mihoyo.com/main/news/detail/28508 |
-| 「神铸赋形」祈愿：「弓·最初的大魔术」「弓·若水」概率UP！ | https://ys.mihoyo.com/main/news/detail/28507 |
 
 
 ## 米游社商品
