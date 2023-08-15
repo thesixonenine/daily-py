@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》「移光拾影」网页活动壁纸展示 | https://ys.mihoyo.com/main/news/detail/28532 |
 | 罪囚于斯，深水无漪 | https://ys.mihoyo.com/main/news/detail/28527 |
 | 凡高大者，无不蔑视 | https://ys.mihoyo.com/main/news/detail/28526 |
 | 4.0版本 「仿若无因飘落的轻雨」内容专题页上线！ | https://ys.mihoyo.com/main/news/detail/28516 |
@@ -19,7 +20,6 @@
 | 「七圣召唤」铸境研炼：奕思巧战 | https://ys.mihoyo.com/main/news/detail/28512 |
 | 「源水纪行」活动说明 | https://ys.mihoyo.com/main/news/detail/28511 |
 | 「冒险助力礼包」第25期限时上架 | https://ys.mihoyo.com/main/news/detail/28510 |
-| 「黑斑猫之章」传说任务说明 | https://ys.mihoyo.com/main/news/detail/28509 |
 
 
 ## 米游社商品
