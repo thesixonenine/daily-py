@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 「仿若无因飘落的轻雨」4.0版本更新说明 | https://ys.mihoyo.com/main/news/detail/28551 |
 | 嘟嘟通讯仪响了，一定是好消息！ | https://ys.mihoyo.com/main/news/detail/28550 |
 | 原神4.0版本微博限时表情活动预告 | https://ys.mihoyo.com/main/news/detail/28549 |
 | B站《原神》4.0版本创作者激励计划即将开启 | https://ys.mihoyo.com/main/news/detail/28547 |
@@ -19,7 +20,6 @@
 | 快手《原神》4.0版本视频征集&amp;直播招募活动即将开启 | https://ys.mihoyo.com/main/news/detail/28543 |
 | 虎牙直播《原神》4.0版本直播季活动即将开启 | https://ys.mihoyo.com/main/news/detail/28542 |
 | 斗鱼直播《原神》4.0版本直播季活动即将开启 | https://ys.mihoyo.com/main/news/detail/28541 |
-| 抖音《原神》4.0版本创作者激励计划&amp;直播激励活动即将开启 | https://ys.mihoyo.com/main/news/detail/28540 |
 
 
 ## 米游社商品
