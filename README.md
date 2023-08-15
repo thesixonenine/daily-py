@@ -10,16 +10,16 @@
 
 | title | url |
 |:---:|:---:|
+| 抖音《原神》4.0版本创作者激励计划&amp;直播激励活动即将开启 | https://ys.mihoyo.com/main/news/detail/28540 |
+| 蒸汽鸟报特刊VII  翻腾湖水之下的「地海孤王」 | https://ys.mihoyo.com/main/news/detail/28539 |
+| 蒸汽鸟报特刊VI 发条与齿轮的轮舞曲 | https://ys.mihoyo.com/main/news/detail/28538 |
+| 「丽影绮行」·琳妮特—「唔…耳朵疼。」 | https://ys.mihoyo.com/main/news/detail/28537 |
+| 《原神》角色演示-「琳妮特：箱中窥猫」 | https://ys.mihoyo.com/main/news/detail/28536 |
+| 《原神》角色演示-「林尼：帽底匿迹」 | https://ys.mihoyo.com/main/news/detail/28535 |
 | 《原神》「移光拾影」网页活动壁纸展示 | https://ys.mihoyo.com/main/news/detail/28532 |
 | 罪囚于斯，深水无漪 | https://ys.mihoyo.com/main/news/detail/28527 |
 | 凡高大者，无不蔑视 | https://ys.mihoyo.com/main/news/detail/28526 |
 | 4.0版本 「仿若无因飘落的轻雨」内容专题页上线！ | https://ys.mihoyo.com/main/news/detail/28516 |
-| 「仿若无因飘落的轻雨」4.0版本活动速递第一期 | https://ys.mihoyo.com/main/news/detail/28515 |
-| 「博物通志·水国寻迹」活动：枫丹风物探索 | https://ys.mihoyo.com/main/news/detail/28514 |
-| 「魔术永不落幕」活动：参与邀请「丽影绮行·琳妮特(风)」 | https://ys.mihoyo.com/main/news/detail/28513 |
-| 「七圣召唤」铸境研炼：奕思巧战 | https://ys.mihoyo.com/main/news/detail/28512 |
-| 「源水纪行」活动说明 | https://ys.mihoyo.com/main/news/detail/28511 |
-| 「冒险助力礼包」第25期限时上架 | https://ys.mihoyo.com/main/news/detail/28510 |
 
 
 ## 米游社商品
@@ -29,6 +29,21 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| 2023080812322 | 原石*60 | 3000 | 1 | 1800 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/dab394b1516c58a00b91f8dba9756110_8904801501338765557.png) |
+| 2023080812561 | 原石*150 | 1200 | 1 | 4500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/dab394b1516c58a00b91f8dba9756110_8904801501338765557.png) |
+| 2023080812499 | 摩拉*50000 | 4000 | 1 | 1500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/d63798a398c18de7f3ce23b7e1dcd02f_3159879231696238340.png) |
+| 2023080812708 | 大英雄的经验*5 | 4000 | 1 | 1500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/468097d8c7fb608f3a23d057d871e48a_7303233958715687443.png) |
+| 2023080811988 | 2022线上音乐会系列 迷你口琴项链-云堇 | 10 | 1 | 30000 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/757d25b924e3fc8c744933e19a648a47_6867639912243321727.jpg) |
+| 2023080811478 | 2022线上音乐会系列 迷你口琴项链-辛焱 | 10 | 1 | 30000 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/23c409c532c23ce716538d29cf8f74c2_2882935075615011708.jpg) |
+| 2023080811522 | 2022线上音乐会系列 迷你口琴项链-申鹤 | 10 | 1 | 30000 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/ae660cdc176faed3d36b5016958f2362_2971065954446049937.jpg) |
+| 2023080811859 | 提瓦特动物园系列 Q版夜枭卡套 | 10 | 1 | 15700 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/b7d81c94fde9c84a7e85dd1c623b7872_6749997193117044505.jpg) |
+| 2023080811323 | 提瓦特动物园主题系列 毛绒团子-香菱 | 10 | 1 | 13800 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/53adb58ecb6e5b7ac818d15bfefb1e8e_3963331225683824430.jpg) |
+| 2023080811726 | 提瓦特动物园主题系列 毛绒团子-菲谢尔 | 10 | 1 | 13800 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/1b68e5123c9fc5407a4ad9fcadb8ffb7_4749307881690250072.jpg) |
+| 2023080811214 | 提瓦特动物园主题系列 毛绒团子-八重神子 | 10 | 1 | 13800 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/8712a33335aa713fca67bce1c1c914c8_4484423968063270854.jpg) |
+| 2023080811857 | 尘世掠影系列 仿胶片书签套组-璃月 | 10 | 1 | 13400 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/6dab334f6be033e810fe42ce3e103b3b_2212280713430561092.jpg) |
+| 2023080811218 | 稻妻城主题系列 人物亚克力立牌-神里绫人 | 10 | 1 | 11300 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/c7b7581c4c0e675df5423f5387da1832_4565912378744098908.jpg) |
+| 2023080811396 | 稻妻城主题系列 人物亚克力立牌-宵宫 | 10 | 1 | 11300 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/d4859148492b600d7651d0481f4e022c_4621794962581959891.jpg) |
+| 2023080811933 | 璃月港主题系列 人物亚克力立牌-凝光 | 10 | 1 | 11300 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/a037900d8c5cdeb10895c68e4bac6b74_1569673349502224929.jpg) |
 | 2023062911457 | 2022线上音乐会系列 迷你口琴项链-芭芭拉 | 0 | 1 | 30000 | [图](https://bbs-static.miyoushe.com/static/2023/06/29/f0495360ae2da6bc8837312deb9825a0_4052554877501558262.jpg) |
 | 2023062911896 | 2022线上音乐会系列 迷你口琴项链-八重神子 | 0 | 1 | 30000 | [图](https://bbs-static.miyoushe.com/static/2023/06/29/672ba2b3e1d9e8472e57c9188c957631_1468903874050536598.jpg) |
 | 2023062911573 | 2022线上音乐会系列 迷你口琴项链-枫原万叶 | 0 | 1 | 30000 | [图](https://bbs-static.miyoushe.com/static/2023/06/29/80cf82f821685ee0427755199e531c82_3084053155696597380.jpg) |
