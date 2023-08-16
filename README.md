@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 「枫丹冒险家召集令」网页活动上线，邀请你的好友回归提瓦特大陆吧！ | https://ys.mihoyo.com/main/news/detail/28565 |
 | 《原神》4.0版本QQ频道专属系列活动现已开启 | https://ys.mihoyo.com/main/news/detail/28560 |
 | 《原神》4.0版本微信游戏圈专属活动现已开启 | https://ys.mihoyo.com/main/news/detail/28559 |
 | 冒险的新章，启程！——4.0版本枫丹探索小贴士 | https://ys.mihoyo.com/main/news/detail/28558 |
@@ -19,7 +20,6 @@
 | 「仿若无因飘落的轻雨」4.0版本更新说明 | https://ys.mihoyo.com/main/news/detail/28551 |
 | 嘟嘟通讯仪响了，一定是好消息！ | https://ys.mihoyo.com/main/news/detail/28550 |
 | 原神4.0版本微博限时表情活动预告 | https://ys.mihoyo.com/main/news/detail/28549 |
-| B站《原神》4.0版本创作者激励计划即将开启 | https://ys.mihoyo.com/main/news/detail/28547 |
 
 
 ## 米游社商品
