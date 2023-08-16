@@ -10,6 +10,8 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》「嘟嘟通讯」特别活动 | https://ys.mihoyo.com/main/news/detail/28556 |
+| 4.0版本超话签到活动第一期 | https://ys.mihoyo.com/main/news/detail/28552 |
 | 「仿若无因飘落的轻雨」4.0版本更新说明 | https://ys.mihoyo.com/main/news/detail/28551 |
 | 嘟嘟通讯仪响了，一定是好消息！ | https://ys.mihoyo.com/main/news/detail/28550 |
 | 原神4.0版本微博限时表情活动预告 | https://ys.mihoyo.com/main/news/detail/28549 |
@@ -18,8 +20,6 @@
 | 微信视频号《原神》4.0版本直播激励活动即将开启 | https://ys.mihoyo.com/main/news/detail/28545 |
 | 小红书《原神》4.0版本笔记征集活动即将开启 | https://ys.mihoyo.com/main/news/detail/28544 |
 | 快手《原神》4.0版本视频征集&amp;直播招募活动即将开启 | https://ys.mihoyo.com/main/news/detail/28543 |
-| 虎牙直播《原神》4.0版本直播季活动即将开启 | https://ys.mihoyo.com/main/news/detail/28542 |
-| 斗鱼直播《原神》4.0版本直播季活动即将开启 | https://ys.mihoyo.com/main/news/detail/28541 |
 
 
 ## 米游社商品
