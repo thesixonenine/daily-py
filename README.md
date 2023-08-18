@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》剧情PV-「荣耀归于传承」 | https://ys.mihoyo.com/main/news/detail/28605 |
 | 《原神》拾枝杂谈-「琳妮特：影中破伪」 | https://ys.mihoyo.com/main/news/detail/28601 |
 | 「枫丹冒险家召集令」网页活动上线，邀请你的好友回归提瓦特大陆吧！ | https://ys.mihoyo.com/main/news/detail/28565 |
 | 《原神》4.0版本QQ频道专属系列活动现已开启 | https://ys.mihoyo.com/main/news/detail/28560 |
@@ -19,7 +20,6 @@
 | 《原神》「嘟嘟通讯」特别活动 | https://ys.mihoyo.com/main/news/detail/28556 |
 | 4.0版本超话签到活动第一期 | https://ys.mihoyo.com/main/news/detail/28552 |
 | 「仿若无因飘落的轻雨」4.0版本更新说明 | https://ys.mihoyo.com/main/news/detail/28551 |
-| 嘟嘟通讯仪响了，一定是好消息！ | https://ys.mihoyo.com/main/news/detail/28550 |
 
 
 ## 米游社商品
