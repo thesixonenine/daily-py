@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 「机枢巧物前哨战」活动：参与邀请「命运试金石·班尼特(火)」 | https://ys.mihoyo.com/main/news/detail/28615 |
 |  珐露珊生日快乐｜竟然记得我的生日，真是讨人喜欢的年轻人！ | https://ys.mihoyo.com/main/news/detail/28608 |
 | 《原神》剧情PV-「荣耀归于传承」 | https://ys.mihoyo.com/main/news/detail/28605 |
 | 《原神》拾枝杂谈-「琳妮特：影中破伪」 | https://ys.mihoyo.com/main/news/detail/28601 |
@@ -19,7 +20,6 @@
 | 冒险的新章，启程！——4.0版本枫丹探索小贴士 | https://ys.mihoyo.com/main/news/detail/28558 |
 | 《原神》拾枝杂谈-「林尼：辉下辨真」 | https://ys.mihoyo.com/main/news/detail/28557 |
 | 《原神》「嘟嘟通讯」特别活动 | https://ys.mihoyo.com/main/news/detail/28556 |
-| 4.0版本超话签到活动第一期 | https://ys.mihoyo.com/main/news/detail/28552 |
 
 
 ## 米游社商品
