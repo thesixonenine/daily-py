@@ -147,6 +147,8 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| 2023080315602 | 【创小摊】运费减7元优惠券 | 3000 | 0 | 1750 | [图](https://bbs-static.miyoushe.com/static/2023/08/03/a2a92f3c6b2014b123e54f953a0cea96_6783669599338469346.png) |
+| 2023080315882 | 【创小摊】运费减3元优惠券 | 10000 | 0 | 750 | [图](https://bbs-static.miyoushe.com/static/2023/08/03/1bf2e3c6083c432a4c9c5ca1e13a367b_4551099986920077267.png) |
 | 2023080315274 | 【创小摊】实物周边满60元减8元优惠券 | 1000 | 0 | 2000 | [图](https://bbs-static.miyoushe.com/static/2023/08/03/1ea4d31877f87df19ab2faa2f5f8c795_7334063888172602390.png) |
 | 2023080315559 | 【创小摊】实物周边满5.01元减5元优惠券 | 4000 | 0 | 1250 | [图](https://bbs-static.miyoushe.com/static/2023/08/03/d1de36d5410b0b57395f1a44baa7d825_6582645165538115346.jpg) |
 | 2023072714681 | 【米游社】小米液晶小黑板 13.5英寸 | 10 | 1 | 20000 | [图](https://bbs-static.miyoushe.com/static/2023/05/26/a338cef671c8195ea690c561f79f0b05_6734196181154360654.jpg) |
