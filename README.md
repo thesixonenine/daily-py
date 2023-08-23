@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》枫丹实机画面展示片｜Gamescom 2023 | https://ys.mihoyo.com/main/news/detail/28623 |
 | 「机枢巧物前哨战」玩法说明 | https://ys.mihoyo.com/main/news/detail/28622 |
 | 「机枢巧物前哨战」活动：参与邀请「命运试金石·班尼特(火)」 | https://ys.mihoyo.com/main/news/detail/28615 |
 |  珐露珊生日快乐｜竟然记得我的生日，真是讨人喜欢的年轻人！ | https://ys.mihoyo.com/main/news/detail/28608 |
@@ -19,7 +20,6 @@
 | 《原神》4.0版本QQ频道专属系列活动现已开启 | https://ys.mihoyo.com/main/news/detail/28560 |
 | 《原神》4.0版本微信游戏圈专属活动现已开启 | https://ys.mihoyo.com/main/news/detail/28559 |
 | 冒险的新章，启程！——4.0版本枫丹探索小贴士 | https://ys.mihoyo.com/main/news/detail/28558 |
-| 《原神》拾枝杂谈-「林尼：辉下辨真」 | https://ys.mihoyo.com/main/news/detail/28557 |
 
 
 ## 米游社商品
