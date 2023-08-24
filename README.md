@@ -156,6 +156,18 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| 2023082412667 | 【未定事件簿】同人-夏夜梦呓（永久） | 0 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/08/24/a261d42987b48460495a1493ebd3eef3_1073971432343759472.jpg) |
+| 2023082412937 | 【未定事件簿】同人-拾影撷光（永久） | 0 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/08/24/28011fd0973ae829cd21b4356b449ecc_5117692917088856939.jpg) |
+| 2023082412738 | 【未定事件簿】同人-书信隽永（永久） | 0 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/08/24/6f53aaa9bb634bf277e41dc9b6de3772_4664661704381665223.jpg) |
+| 2023082412695 | 【未定事件簿】同人-有喵来信（永久） | 0 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/08/24/8cdb58bbf4c63cba44289e8bded2e89d_6242961373147399264.jpg) |
+| 2023082412837 | 【崩坏3】同人-清泉夏浪（永久） | 0 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/08/24/5ba66b0b7c043e5fa761d767ef717e7c_2510472822882551974.jpg) |
+| 2023082412467 | 【崩坏3】同人-开心蹦蹦熊（永久） | 0 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/08/24/acf33c0d18adbbea551f1952eca526ea_6412290387182905799.jpg) |
+| 2023082412477 | 【崩坏：星穹铁道】同人-星际账号封禁中（永久） | 0 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/08/24/2b99d12d8e96c34c9625c9f2304ac511_8711606447817443919.jpg) |
+| 2023082412611 | 【崩坏：星穹铁道】同人-福露湲泽（永久） | 0 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/08/24/764caf4c6224f89c6e2bfc9849f9fd97_5349988149038674747.jpg) |
+| 2023082412246 | 【崩坏：星穹铁道】同人-苍龙饮月（永久） | 0 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/08/24/a07c48e348acb50260959fc31f60b425_7984413643022268915.jpg) |
+| 2023082412278 | 【原神】同人-诗人的最爱（永久） | 0 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/08/24/b622655a58aaa0787bf43174f69b1f4e_7614891683130924691.jpg) |
+| 2023082412834 | 【原神】同人-多味茶迪卢克（永久） | 0 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/08/24/bf2f9233532afabd06de4361f6598883_7613044808875531584.jpg) |
+| 2023082412212 | 【原神】同人-天堂鸟的配饰（永久） | 0 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/08/24/752e7f875ee3ea19d50498e48898047d_4992613792910702466.jpg) |
 | 2023080315602 | 【创小摊】运费减7元优惠券 | 3000 | 0 | 1750 | [图](https://bbs-static.miyoushe.com/static/2023/08/03/a2a92f3c6b2014b123e54f953a0cea96_6783669599338469346.png) |
 | 2023080315882 | 【创小摊】运费减3元优惠券 | 10000 | 0 | 750 | [图](https://bbs-static.miyoushe.com/static/2023/08/03/1bf2e3c6083c432a4c9c5ca1e13a367b_4551099986920077267.png) |
 | 2023080315274 | 【创小摊】实物周边满60元减8元优惠券 | 1000 | 0 | 2000 | [图](https://bbs-static.miyoushe.com/static/2023/08/03/1ea4d31877f87df19ab2faa2f5f8c795_7334063888172602390.png) |
