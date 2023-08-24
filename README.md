@@ -160,12 +160,12 @@
 | 2023080315882 | 【创小摊】运费减3元优惠券 | 10000 | 0 | 750 | [图](https://bbs-static.miyoushe.com/static/2023/08/03/1bf2e3c6083c432a4c9c5ca1e13a367b_4551099986920077267.png) |
 | 2023080315274 | 【创小摊】实物周边满60元减8元优惠券 | 1000 | 0 | 2000 | [图](https://bbs-static.miyoushe.com/static/2023/08/03/1ea4d31877f87df19ab2faa2f5f8c795_7334063888172602390.png) |
 | 2023080315559 | 【创小摊】实物周边满5.01元减5元优惠券 | 4000 | 0 | 1250 | [图](https://bbs-static.miyoushe.com/static/2023/08/03/d1de36d5410b0b57395f1a44baa7d825_6582645165538115346.jpg) |
+| 2023021012469 | 【未定事件簿】「情诗」（永久） | 0 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/12/23/faba435917f41dfdce30440435a61cf6_5477568449308330917.jpg) |
 | 2023072714681 | 【米游社】小米液晶小黑板 13.5英寸 | 0 | 1 | 20000 | [图](https://bbs-static.miyoushe.com/static/2023/05/26/a338cef671c8195ea690c561f79f0b05_6734196181154360654.jpg) |
 | 2023072714584 | 【米游社】小熊多功能电煮锅 1.6L | 0 | 1 | 16000 | [图](https://bbs-static.miyoushe.com/static/2023/03/23/97b280318f2692f3d97981ef411c3a91_3933141198573339909.jpg) |
 | 2023072711975 | 【米游社】侦探笔记系列 文件夹 | 0 | 1 | 5800 | [图](https://bbs-static.miyoushe.com/static/2023/03/23/8bee9d2294f997be95e0acd3a8641702_7432633666948851744.jpg) |
 | 2023072711125 | 【米游社】侦探笔记系列 拼图 | 0 | 1 | 13400 | [图](https://bbs-static.miyoushe.com/static/2023/03/23/8dfd123c0b39cf4961e97255b8cdf558_4210611757927147674.jpg) |
 | 2023072711579 | 【米游社】日常系列鼠标垫 | 0 | 1 | 13800 | [图](https://webstatic.mihoyo.com/upload/shop/2022/10/28/95c4fba08942ba22c66c372bccec3027_6256538608726240402.jpg) |
-| 2023021012469 | 【未定事件簿】「情诗」（永久） | 0 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/12/23/faba435917f41dfdce30440435a61cf6_5477568449308330917.jpg) |
 | 2023062714547 | 【米游社】小度智能音箱 旗舰版 | 0 | 1 | 30000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/07/13/29c2f2cbdd99c8043db619d7ea8ea1ae_6251797234277512130.jpg) |
 | 2023062714249 | 【米游社】小米 Air2 SE真无线蓝牙耳机 | 0 | 1 | 30000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/12/22/e3f6c0129cf245e9cc1ff417d582518d_9120783053330401060.jpg) |
 | 2023062711610 | 【米游社】鹊巧佳意系列 亚克力立牌 | 0 | 1 | 13400 | [图](https://bbs-static.miyoushe.com/static/2023/04/27/53197e9c7e5e6d03176650d5ae0ee8c0_4716853998982683667.jpg) |
