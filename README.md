@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 「绘知万物」——原神×知乎 网页答题活动现已开启 | https://ys.mihoyo.com/main/news/detail/28647 |
 | 《原神》4.0版本表情包「派蒙的画作第26弹」现已上线 | https://ys.mihoyo.com/main/news/detail/28637 |
 | 《原神》「流光拾遗之旅」——仙闻篇·龙泉青瓷 | https://ys.mihoyo.com/main/news/detail/28636 |
 | 《原神》枫丹实机画面展示片｜Gamescom 2023 | https://ys.mihoyo.com/main/news/detail/28623 |
@@ -19,7 +20,6 @@
 | 《原神》剧情PV-「荣耀归于传承」 | https://ys.mihoyo.com/main/news/detail/28605 |
 | 《原神》拾枝杂谈-「琳妮特：影中破伪」 | https://ys.mihoyo.com/main/news/detail/28601 |
 | 「枫丹冒险家召集令」网页活动上线，邀请你的好友回归提瓦特大陆吧！ | https://ys.mihoyo.com/main/news/detail/28565 |
-| 《原神》4.0版本QQ频道专属系列活动现已开启 | https://ys.mihoyo.com/main/news/detail/28560 |
 
 
 ## 米游社商品
