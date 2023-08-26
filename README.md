@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 凝光生日快乐｜立于高处，更能将漫天繁星尽收眼底… | https://ys.mihoyo.com/main/news/detail/28651 |
 | 《原神》过场动画——「暴风骤雨之际」 | https://ys.mihoyo.com/main/news/detail/28648 |
 | 「绘知万物」——原神×知乎 网页答题活动现已开启 | https://ys.mihoyo.com/main/news/detail/28647 |
 | 《原神》4.0版本表情包「派蒙的画作第26弹」现已上线 | https://ys.mihoyo.com/main/news/detail/28637 |
@@ -19,7 +20,6 @@
 | 「机枢巧物前哨战」活动：参与邀请「命运试金石·班尼特(火)」 | https://ys.mihoyo.com/main/news/detail/28615 |
 |  珐露珊生日快乐｜竟然记得我的生日，真是讨人喜欢的年轻人！ | https://ys.mihoyo.com/main/news/detail/28608 |
 | 《原神》剧情PV-「荣耀归于传承」 | https://ys.mihoyo.com/main/news/detail/28605 |
-| 《原神》拾枝杂谈-「琳妮特：影中破伪」 | https://ys.mihoyo.com/main/news/detail/28601 |
 
 
 ## 米游社商品
