@@ -120,7 +120,7 @@
 | 2023072511215 | 约定之日系列 Q版亚克力挂件-左然 | 0 | 1 | 8800 | [图](https://bbs-static.miyoushe.com/static/2023/07/25/266b67b04e846e6abf1380579ad1b68b_7453107307173024649.jpg) |
 | 2023072511254 | 约定之日系列 Q版亚克力挂件-莫弈 | 0 | 1 | 8800 | [图](https://bbs-static.miyoushe.com/static/2023/07/25/67deb3529c0d556bd826a667484f6f90_8328349077404972630.jpg) |
 | 2023072511589 | 约定之日系列 Q版亚克力挂件-陆景和 | 0 | 1 | 8800 | [图](https://bbs-static.miyoushe.com/static/2023/07/25/1dea23c7285f53aba5a09dbcba4ff9d8_445694989372758093.jpg) |
-| 2020091012247 | 未名晶片×100 | 0 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2020/09/10/3ec51e35f50fb60eda4705778177c24b_3871479849056199956.png) |
+| 2020091012247 | 未名晶片×100 | 300 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2020/09/10/3ec51e35f50fb60eda4705778177c24b_3871479849056199956.png) |
 
 
 
