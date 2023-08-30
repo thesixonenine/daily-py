@@ -10,6 +10,8 @@
 
 | title | url |
 |:---:|:---:|
+| 「派蒙的画作一加手机联动篇」联动主题表情包第二期现已上架 | https://ys.mihoyo.com/main/news/detail/28674 |
+| 支付宝米哈游支付中心上线 | https://ys.mihoyo.com/main/news/detail/28673 |
 | 凝光生日快乐｜立于高处，更能将漫天繁星尽收眼底… | https://ys.mihoyo.com/main/news/detail/28651 |
 | 《原神》过场动画——「暴风骤雨之际」 | https://ys.mihoyo.com/main/news/detail/28648 |
 | 「绘知万物」——原神×知乎 网页答题活动现已开启 | https://ys.mihoyo.com/main/news/detail/28647 |
@@ -18,8 +20,6 @@
 | 《原神》枫丹实机画面展示片｜Gamescom 2023 | https://ys.mihoyo.com/main/news/detail/28623 |
 | 「机枢巧物前哨战」玩法说明 | https://ys.mihoyo.com/main/news/detail/28622 |
 | 「机枢巧物前哨战」活动：参与邀请「命运试金石·班尼特(火)」 | https://ys.mihoyo.com/main/news/detail/28615 |
-|  珐露珊生日快乐｜竟然记得我的生日，真是讨人喜欢的年轻人！ | https://ys.mihoyo.com/main/news/detail/28608 |
-| 《原神》剧情PV-「荣耀归于传承」 | https://ys.mihoyo.com/main/news/detail/28605 |
 
 
 ## 米游社商品
@@ -60,6 +60,16 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| 2023082312221 | 星琼*60 | 3000 | 1 | 1800 | [图](https://bbs-static.miyoushe.com/static/2023/04/17/4bfddac07bede076d69b6332f5e55882_543536464151551139.jpg) |
+| 2023082312320 | 漫游指南*5 | 3000 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/04/18/e2f396d2c8d71b9a35cd00d39073a4e0_3488777836284613284.jpg) |
+| 2023082312382 | 信用点*50000 | 3000 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/04/18/1486da72d8a3de6082168439a0034bc7_8695790455774052628.jpg) |
+| 2023082311492 | 角色立绘系列 亚克力挂件-卡芙卡 | 10 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2023/08/23/165dac12a4fadd9a011c48926924fa27_6249103336492528712.jpg) |
+| 2023082311231 | 光锥系列 厚亚克力挂件-如泥酣眠 | 10 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/23/edf896b9d170ab7fd7947810b5e47335_8693397011790545243.jpg) |
+| 2023082311545 | 光锥系列 亚克力色纸-只需等待 | 10 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/23/88015b2ffa6321852162c62f04cfb74e_7607178229578609246.jpg) |
+| 2023082311558 | 光锥系列 亚克力色纸-到不了的彼岸 | 10 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/23/8800024932faf7aea6d02caf84a05795_7259696118503925262.jpg) |
+| 2023082311185 | 光锥系列 亚克力色纸-制胜的瞬间 | 10 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/23/b6e8e971d347c7dea3e1b437a29c9452_71743612919472645.jpg) |
+| 2023082311345 | 角色立绘系列 立牌-刃 | 10 | 1 | 13800 | [图](https://bbs-static.miyoushe.com/static/2023/08/23/1c23896af6866084f9cf14fc5bf12e1d_3460087765216678176.jpg) |
+| 2023082311159 | 角色立绘系列 立牌-卡芙卡 | 10 | 1 | 13800 | [图](https://bbs-static.miyoushe.com/static/2023/08/23/75e901be9668db699cf52896a6223fa9_5580628216136019163.jpg) |
 | 2023071812585 | 信用点*50000 | 0 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/04/18/1486da72d8a3de6082168439a0034bc7_8695790455774052628.jpg) |
 | 2023071812390 | 漫游指南*5 | 0 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/04/18/e2f396d2c8d71b9a35cd00d39073a4e0_3488777836284613284.jpg) |
 | 2023071812975 | 星琼*60 | 0 | 1 | 1800 | [图](https://bbs-static.miyoushe.com/static/2023/04/17/4bfddac07bede076d69b6332f5e55882_543536464151551139.jpg) |
@@ -104,6 +114,18 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| 2023082211691 | 狂沙的呼唤系列 亚克力装饰画-夏彦 | 15 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/cb1f59858b1d90ce8fa03a2c44338db7_7926428735542929574.jpg) |
+| 2023082211680 | 狂沙的呼唤系列 亚克力装饰画-左然 | 15 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/752d24f60baf8cc19e6a73171051ec9d_1974984383789867230.jpg) |
+| 2023082211505 | 狂沙的呼唤系列 亚克力装饰画-莫弈 | 15 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/f295bc25c402eee960efa07510bd24e7_183110895693410832.jpg) |
+| 2023082211643 | 狂沙的呼唤系列 亚克力装饰画-陆景和 | 15 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/bac3906051ab53be9c9f002fe0f186b2_5441276485454427882.jpg) |
+| 2023082211874 | 假日环游系列 Q版PVC卡套-夏彦 | 15 | 1 | 8700 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/45246c8c0d0525489c0d5d4572c44234_1908377551763699916.jpg) |
+| 2023082211657 | 假日环游系列 Q版PVC卡套-左然 | 15 | 1 | 8700 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/1d6854e0b9f24e818c75094ff024a9ba_7955739066417077264.jpg) |
+| 2023082211226 | 假日环游系列 Q版PVC卡套-莫弈 | 15 | 1 | 8700 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/73bffc42ce4c94d755b7ebb725361fd0_4746077930323435476.jpg) |
+| 2023082211747 | 假日环游系列 Q版PVC卡套-陆景和 | 15 | 1 | 8700 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/b0d42c4ae9161ee6123860fa0f5794fc_7636225237272068290.jpg) |
+| 2023082211700 | 夏日系列 Q版流沙杯垫-夏彦 | 15 | 1 | 8700 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/e9555aa8e5605efa7c1cbe75165863b6_3992192251186336281.jpg) |
+| 2023082211912 | 夏日系列 Q版流沙杯垫-左然 | 15 | 1 | 8700 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/ce645092570c36683205a8eebcbbfb37_8731652070601380217.jpg) |
+| 2023082211585 | 夏日系列 Q版流沙杯垫-莫弈 | 15 | 1 | 8700 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/6382ca4d1e96a2ab3b8dfb26b8e06a2d_460788908830902896.jpg) |
+| 2023082211314 | 夏日系列 Q版流沙杯垫-陆景和 | 15 | 1 | 8700 | [图](https://bbs-static.miyoushe.com/static/2023/06/07/5406a2c0892326107e0a4baacbf22fe0_574102993185595152.jpg) |
 | 2023072511202 | 日常系列第二弹 毛绒玩偶-夏彦 | 0 | 1 | 18000 | [图](https://bbs-static.miyoushe.com/static/2023/07/25/bbbc5fa4ec8f40b9a36f32eefa57d497_7238113973996820520.jpg) |
 | 2023072511427 | 日常系列第二弹 毛绒玩偶-左然 | 0 | 1 | 18000 | [图](https://bbs-static.miyoushe.com/static/2023/07/25/9bc86ca3e6fa3e7d55114afe22598587_4932972702497145553.jpg) |
 | 2023072511761 | 日常系列第二弹 毛绒玩偶-莫弈 | 0 | 1 | 18000 | [图](https://bbs-static.miyoushe.com/static/2023/07/25/8768df3dc0d823355bc741a8fe92a113_680521014416312546.jpg) |
