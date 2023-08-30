@@ -10,6 +10,8 @@
 
 | title | url |
 |:---:|:---:|
+| 「尘世闲游」钟离同人绘画作品征集开启 | https://ys.mihoyo.com/main/news/detail/28677 |
+| 「公子」达达利亚同人绘画作品征集开启 | https://ys.mihoyo.com/main/news/detail/28676 |
 | 「派蒙的画作一加手机联动篇」联动主题表情包第二期现已上架 | https://ys.mihoyo.com/main/news/detail/28674 |
 | 支付宝米哈游支付中心上线 | https://ys.mihoyo.com/main/news/detail/28673 |
 | 凝光生日快乐｜立于高处，更能将漫天繁星尽收眼底… | https://ys.mihoyo.com/main/news/detail/28651 |
@@ -18,8 +20,6 @@
 | 《原神》4.0版本表情包「派蒙的画作第26弹」现已上线 | https://ys.mihoyo.com/main/news/detail/28637 |
 | 《原神》「流光拾遗之旅」——仙闻篇·龙泉青瓷 | https://ys.mihoyo.com/main/news/detail/28636 |
 | 《原神》枫丹实机画面展示片｜Gamescom 2023 | https://ys.mihoyo.com/main/news/detail/28623 |
-| 「机枢巧物前哨战」玩法说明 | https://ys.mihoyo.com/main/news/detail/28622 |
-| 「机枢巧物前哨战」活动：参与邀请「命运试金石·班尼特(火)」 | https://ys.mihoyo.com/main/news/detail/28615 |
 
 
 ## 米游社商品
