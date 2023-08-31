@@ -10,6 +10,8 @@
 
 | title | url |
 |:---:|:---:|
+| 「七圣召唤」热斗模式：修炼的奥义 | https://ys.mihoyo.com/main/news/detail/28679 |
+| 莫娜生日快乐｜看着它们，总觉得赶稿的疲惫都被治愈了。 | https://ys.mihoyo.com/main/news/detail/28678 |
 | 「尘世闲游」钟离同人绘画作品征集开启 | https://ys.mihoyo.com/main/news/detail/28677 |
 | 「公子」达达利亚同人绘画作品征集开启 | https://ys.mihoyo.com/main/news/detail/28676 |
 | 「派蒙的画作一加手机联动篇」联动主题表情包第二期现已上架 | https://ys.mihoyo.com/main/news/detail/28674 |
@@ -18,8 +20,6 @@
 | 《原神》过场动画——「暴风骤雨之际」 | https://ys.mihoyo.com/main/news/detail/28648 |
 | 「绘知万物」——原神×知乎 网页答题活动现已开启 | https://ys.mihoyo.com/main/news/detail/28647 |
 | 《原神》4.0版本表情包「派蒙的画作第26弹」现已上线 | https://ys.mihoyo.com/main/news/detail/28637 |
-| 《原神》「流光拾遗之旅」——仙闻篇·龙泉青瓷 | https://ys.mihoyo.com/main/news/detail/28636 |
-| 《原神》枫丹实机画面展示片｜Gamescom 2023 | https://ys.mihoyo.com/main/news/detail/28623 |
 
 
 ## 米游社商品
