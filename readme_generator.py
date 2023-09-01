@@ -63,8 +63,14 @@ def mys_goods(doc: MarkdownGenerator):
                                    'price': hk4e_item['price'], 'icon': icon_link_md})
             doc.writeTextLine()
             doc.addHeader(level=4, text=fm)
+            # 增加屏蔽的配置
+            block_list = ['nxx']
+            if block_list.__contains__(fm):
+                doc.writeText('<details><summary>Details</summary>', False)
             doc.addTable(header_names=['goods_id', 'goods_name', 'next_num', 'account_cycle_limit', 'price', 'icon'],
                          dictionary_list=news_table)
+            if block_list.__contains__(fm):
+                doc.writeText('</details>', False)
 
 def main():
     with MarkdownGenerator(
