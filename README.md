@@ -10,6 +10,9 @@
 
 | title | url |
 |:---:|:---:|
+| 喜茶×原神 | 重逢之旅，喜悦延续 | https://ys.mihoyo.com/main/news/detail/28706 |
+| 「潜怀遐梦」·菲米尼——「想去无人的海底，一个人安静地待着…」 | https://ys.mihoyo.com/main/news/detail/28705 |
+| 《原神》角色演示-「菲米尼：海露幽响」 | https://ys.mihoyo.com/main/news/detail/28704 |
 | 「仿若无因飘落的轻雨」4.0版本活动速递第二期 | https://ys.mihoyo.com/main/news/detail/28703 |
 | 「神铸赋形」祈愿：「长柄武器·贯虹之槊」「弓·冬极白星」概率UP！ | https://ys.mihoyo.com/main/news/detail/28702 |
 | 「暂别冬都」祈愿：「『公子』·达达利亚(水)」概率UP！ | https://ys.mihoyo.com/main/news/detail/28701 |
@@ -17,9 +20,6 @@
 | 「七圣召唤」热斗模式：修炼的奥义 | https://ys.mihoyo.com/main/news/detail/28679 |
 | 莫娜生日快乐｜看着它们，总觉得赶稿的疲惫都被治愈了。 | https://ys.mihoyo.com/main/news/detail/28678 |
 | 「尘世闲游」钟离同人绘画作品征集开启 | https://ys.mihoyo.com/main/news/detail/28677 |
-| 「公子」达达利亚同人绘画作品征集开启 | https://ys.mihoyo.com/main/news/detail/28676 |
-| 「派蒙的画作一加手机联动篇」联动主题表情包第二期现已上架 | https://ys.mihoyo.com/main/news/detail/28674 |
-| 支付宝米哈游支付中心上线 | https://ys.mihoyo.com/main/news/detail/28673 |
 
 
 ## 米游社商品
@@ -107,6 +107,7 @@
 | 2023082211912 | 夏日系列 Q版流沙杯垫-左然 | 15 | 1 | 8700 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/ce645092570c36683205a8eebcbbfb37_8731652070601380217.jpg) |
 | 2023082211585 | 夏日系列 Q版流沙杯垫-莫弈 | 15 | 1 | 8700 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/6382ca4d1e96a2ab3b8dfb26b8e06a2d_460788908830902896.jpg) |
 | 2023082211314 | 夏日系列 Q版流沙杯垫-陆景和 | 15 | 1 | 8700 | [图](https://bbs-static.miyoushe.com/static/2023/06/07/5406a2c0892326107e0a4baacbf22fe0_574102993185595152.jpg) |
+| 2020091012247 | 未名晶片×100 | 0 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2020/09/10/3ec51e35f50fb60eda4705778177c24b_3871479849056199956.png) |
 | 2023072511202 | 日常系列第二弹 毛绒玩偶-夏彦 | 0 | 1 | 18000 | [图](https://bbs-static.miyoushe.com/static/2023/07/25/bbbc5fa4ec8f40b9a36f32eefa57d497_7238113973996820520.jpg) |
 | 2023072511427 | 日常系列第二弹 毛绒玩偶-左然 | 0 | 1 | 18000 | [图](https://bbs-static.miyoushe.com/static/2023/07/25/9bc86ca3e6fa3e7d55114afe22598587_4932972702497145553.jpg) |
 | 2023072511761 | 日常系列第二弹 毛绒玩偶-莫弈 | 0 | 1 | 18000 | [图](https://bbs-static.miyoushe.com/static/2023/07/25/8768df3dc0d823355bc741a8fe92a113_680521014416312546.jpg) |
@@ -123,7 +124,6 @@
 | 2023072511215 | 约定之日系列 Q版亚克力挂件-左然 | 0 | 1 | 8800 | [图](https://bbs-static.miyoushe.com/static/2023/07/25/266b67b04e846e6abf1380579ad1b68b_7453107307173024649.jpg) |
 | 2023072511254 | 约定之日系列 Q版亚克力挂件-莫弈 | 0 | 1 | 8800 | [图](https://bbs-static.miyoushe.com/static/2023/07/25/67deb3529c0d556bd826a667484f6f90_8328349077404972630.jpg) |
 | 2023072511589 | 约定之日系列 Q版亚克力挂件-陆景和 | 0 | 1 | 8800 | [图](https://bbs-static.miyoushe.com/static/2023/07/25/1dea23c7285f53aba5a09dbcba4ff9d8_445694989372758093.jpg) |
-| 2020091012247 | 未名晶片×100 | 300 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2020/09/10/3ec51e35f50fb60eda4705778177c24b_3871479849056199956.png) |
 
 </details>
 
