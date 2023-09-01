@@ -92,7 +92,7 @@
 
 
 #### nxx
-
+<details><summary>Details</summary>
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 2023082211691 | 狂沙的呼唤系列 亚克力装饰画-夏彦 | 15 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/cb1f59858b1d90ce8fa03a2c44338db7_7926428735542929574.jpg) |
@@ -125,7 +125,7 @@
 | 2023072511589 | 约定之日系列 Q版亚克力挂件-陆景和 | 0 | 1 | 8800 | [图](https://bbs-static.miyoushe.com/static/2023/07/25/1dea23c7285f53aba5a09dbcba4ff9d8_445694989372758093.jpg) |
 | 2020091012247 | 未名晶片×100 | 300 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2020/09/10/3ec51e35f50fb60eda4705778177c24b_3871479849056199956.png) |
 
-
+</details>
 
 #### bh2
 
