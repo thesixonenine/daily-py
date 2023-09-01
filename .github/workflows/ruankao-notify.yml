@@ -21,10 +21,10 @@ jobs:
       with:
         token: ${{ secrets.GH_TOKEN }}
         submodules: true
-    - name: Setup Python 3.9
+    - name: Setup Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.9'
+        python-version: '3.10'
     - name: Run curl
       env:
         # Git信息
