@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 「蹈刃破决」活动：隐秘蜃景战劲敌 | https://ys.mihoyo.com/main/news/detail/28710 |
 | 繁星丽天，孤怀寒芒 | https://ys.mihoyo.com/main/news/detail/28709 |
 | 水中窥月，洞见夜明 | https://ys.mihoyo.com/main/news/detail/28708 |
 | 镜中捧花，赠予何人 | https://ys.mihoyo.com/main/news/detail/28707 |
@@ -19,7 +20,6 @@
 | 「仿若无因飘落的轻雨」4.0版本活动速递第二期 | https://ys.mihoyo.com/main/news/detail/28703 |
 | 「神铸赋形」祈愿：「长柄武器·贯虹之槊」「弓·冬极白星」概率UP！ | https://ys.mihoyo.com/main/news/detail/28702 |
 | 「暂别冬都」祈愿：「『公子』·达达利亚(水)」概率UP！ | https://ys.mihoyo.com/main/news/detail/28701 |
-| 「陵薮市朝」祈愿：「尘世闲游·钟离(岩)」概率UP！ | https://ys.mihoyo.com/main/news/detail/28700 |
 
 
 ## 米游社商品
