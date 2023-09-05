@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》拾枝杂谈-「菲米尼：机巧的余温」 | https://ys.mihoyo.com/main/news/detail/28723 |
 | 4.0版本超话签到活动第二期 | https://ys.mihoyo.com/main/news/detail/28717 |
 | 原神全球巡回交响音乐会主题游戏礼包公开 | https://ys.mihoyo.com/main/news/detail/28715 |
 | 原神交响音乐会2023演出信息公开 | https://ys.mihoyo.com/main/news/detail/28714 |
@@ -19,7 +20,6 @@
 | 镜中捧花，赠予何人 | https://ys.mihoyo.com/main/news/detail/28707 |
 | 喜茶×原神 | 重逢之旅，喜悦延续 | https://ys.mihoyo.com/main/news/detail/28706 |
 | 「潜怀遐梦」·菲米尼——「想去无人的海底，一个人安静地待着…」 | https://ys.mihoyo.com/main/news/detail/28705 |
-| 《原神》角色演示-「菲米尼：海露幽响」 | https://ys.mihoyo.com/main/news/detail/28704 |
 
 
 ## 米游社商品
