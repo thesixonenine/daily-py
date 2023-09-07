@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 重云生日快乐｜…有办法能一直留下这束光吗？ | https://ys.mihoyo.com/main/news/detail/28733 |
 | 《原神》拾枝杂谈-「菲米尼：机巧的余温」 | https://ys.mihoyo.com/main/news/detail/28723 |
 | 4.0版本超话签到活动第二期 | https://ys.mihoyo.com/main/news/detail/28717 |
 | 原神全球巡回交响音乐会主题游戏礼包公开 | https://ys.mihoyo.com/main/news/detail/28715 |
@@ -19,7 +20,6 @@
 | 水中窥月，洞见夜明 | https://ys.mihoyo.com/main/news/detail/28708 |
 | 镜中捧花，赠予何人 | https://ys.mihoyo.com/main/news/detail/28707 |
 | 喜茶×原神 | 重逢之旅，喜悦延续 | https://ys.mihoyo.com/main/news/detail/28706 |
-| 「潜怀遐梦」·菲米尼——「想去无人的海底，一个人安静地待着…」 | https://ys.mihoyo.com/main/news/detail/28705 |
 
 
 ## 米游社商品
