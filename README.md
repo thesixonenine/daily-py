@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》「壁纸放送」 | https://ys.mihoyo.com/main/news/detail/28755 |
 | 重云生日快乐｜…有办法能一直留下这束光吗？ | https://ys.mihoyo.com/main/news/detail/28733 |
 | 《原神》拾枝杂谈-「菲米尼：机巧的余温」 | https://ys.mihoyo.com/main/news/detail/28723 |
 | 4.0版本超话签到活动第二期 | https://ys.mihoyo.com/main/news/detail/28717 |
@@ -19,7 +20,6 @@
 | 繁星丽天，孤怀寒芒 | https://ys.mihoyo.com/main/news/detail/28709 |
 | 水中窥月，洞见夜明 | https://ys.mihoyo.com/main/news/detail/28708 |
 | 镜中捧花，赠予何人 | https://ys.mihoyo.com/main/news/detail/28707 |
-| 喜茶×原神 | 重逢之旅，喜悦延续 | https://ys.mihoyo.com/main/news/detail/28706 |
 
 
 ## 米游社商品
