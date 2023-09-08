@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》归忆星旅 - 战绩回顾功能上线 | https://ys.mihoyo.com/main/news/detail/28759 |
 | 《原神》「壁纸放送」 | https://ys.mihoyo.com/main/news/detail/28755 |
 | 重云生日快乐｜…有办法能一直留下这束光吗？ | https://ys.mihoyo.com/main/news/detail/28733 |
 | 《原神》拾枝杂谈-「菲米尼：机巧的余温」 | https://ys.mihoyo.com/main/news/detail/28723 |
@@ -19,7 +20,6 @@
 | 「蹈刃破决」活动：隐秘蜃景战劲敌 | https://ys.mihoyo.com/main/news/detail/28710 |
 | 繁星丽天，孤怀寒芒 | https://ys.mihoyo.com/main/news/detail/28709 |
 | 水中窥月，洞见夜明 | https://ys.mihoyo.com/main/news/detail/28708 |
-| 镜中捧花，赠予何人 | https://ys.mihoyo.com/main/news/detail/28707 |
 
 
 ## 米游社商品
