@@ -108,6 +108,11 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| 2023082311786 | miYoSummer Q版亚克力立牌-符华 | 105 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2023/08/23/eee2bad100d9fb55ee498ac337f308b1_6727547044365567387.jpg) |
+| 2023082311438 | 温泉系列 镭射色纸樱波吕泉汤 | 20 | 1 | 6900 | [图](https://webstatic.mihoyo.com/upload/shop/2022/12/22/a566e41f444c4d1a38e752ac8c87353d_426345370934898854.jpg) |
+| 2023082311743 | 瑞兔呈祥系列 亚克力摆件-德丽莎 | 20 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/23/d6db19db0cea5472ead36ef66c1ea997_6796597532057957574.jpg) |
+| 2023082311427 | CG大鼠标垫-菲米莉丝生贺 | 20 | 1 | 13800 | [图](https://bbs-static.miyoushe.com/static/2023/08/23/1720f4dd701177ee63e9b003ee5fb47c_1159402428988338380.jpg) |
+| 2023082311485 | 月韵春晓系列 亚克力立牌-琪亚娜 | 20 | 1 | 11000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/08/09/fe9706a19ac7b35bcbb0a8704970ef06_6778154767197449649.jpg) |
 | 2021063012200 | 碎裂晓残月*1 | 0 | 10 | 1620 | [图](https://webstatic.mihoyo.com/upload/shop/2021/06/30/d8278c3ecdf6d15a3e737325d6a70077_1781834727820640109.png) |
 | 2021063012835 | 碎裂三叶青*1 | 0 | 10 | 1620 | [图](https://webstatic.mihoyo.com/upload/shop/2021/06/30/68bfd2dee7eaa421886f9ef5d23b470d_7787909581169629138.png) |
 | 2021063012515 | 源初虹石*1 | 0 | 2 | 2160 | [图](https://webstatic.mihoyo.com/upload/shop/2021/06/30/969ba1a37464eeccf2b8ca2b61c9c594_7589959260977616587.png) |
