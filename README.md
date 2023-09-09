@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+|  雷泽生日快乐｜你送的手偶，很喜欢。 | https://ys.mihoyo.com/main/news/detail/28774 |
 | 《原神》归忆星旅 - 战绩回顾功能上线 | https://ys.mihoyo.com/main/news/detail/28759 |
 | 《原神》「壁纸放送」 | https://ys.mihoyo.com/main/news/detail/28755 |
 | 重云生日快乐｜…有办法能一直留下这束光吗？ | https://ys.mihoyo.com/main/news/detail/28733 |
@@ -19,7 +20,6 @@
 | 原神交响音乐会2023演出信息公开 | https://ys.mihoyo.com/main/news/detail/28714 |
 | 「蹈刃破决」活动：隐秘蜃景战劲敌 | https://ys.mihoyo.com/main/news/detail/28710 |
 | 繁星丽天，孤怀寒芒 | https://ys.mihoyo.com/main/news/detail/28709 |
-| 水中窥月，洞见夜明 | https://ys.mihoyo.com/main/news/detail/28708 |
 
 
 ## 米游社商品
