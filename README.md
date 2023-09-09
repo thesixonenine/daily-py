@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 「原神交响音乐会2023」上海梅奔场开票通知 | https://ys.mihoyo.com/main/news/detail/28776 |
 |  雷泽生日快乐｜你送的手偶，很喜欢。 | https://ys.mihoyo.com/main/news/detail/28774 |
 | 《原神》归忆星旅 - 战绩回顾功能上线 | https://ys.mihoyo.com/main/news/detail/28759 |
 | 《原神》「壁纸放送」 | https://ys.mihoyo.com/main/news/detail/28755 |
@@ -19,7 +20,6 @@
 | 原神全球巡回交响音乐会主题游戏礼包公开 | https://ys.mihoyo.com/main/news/detail/28715 |
 | 原神交响音乐会2023演出信息公开 | https://ys.mihoyo.com/main/news/detail/28714 |
 | 「蹈刃破决」活动：隐秘蜃景战劲敌 | https://ys.mihoyo.com/main/news/detail/28710 |
-| 繁星丽天，孤怀寒芒 | https://ys.mihoyo.com/main/news/detail/28709 |
 
 
 ## 米游社商品
@@ -72,15 +72,15 @@
 | 215791797313419356364222347148 | 逆熵·虚数核心*5 | 0 | 2 | 1200 | [图](https://webstatic.mihoyo.com/upload/shop/2021/04/09/714c64b6547f2a1274b1524fddc7febb_2808239829919819812.png) |
 | 2021040912146 | 高级技能材料*5 | 0 | 1 | 1800 | [图](https://webstatic.mihoyo.com/upload/shop/2021/04/09/48752dc5ab70c818b6b72a6513c95f2f_5640911369522514077.png) |
 | 21579179504316812467643946757 | 体力药水*1 | 0 | 2 | 370 | [图](https://webstatic.mihoyo.com/upload/shop/2021/04/09/9ccf0f785763dad642281e90b1a925c7_1345306158854300132.png) |
-| 2023082311534 | 2022miYoSummer Q版软胶磁贴-崩坏3 | 8 | 1 | 4300 | [图](https://bbs-static.miyoushe.com/static/2023/08/23/543587943a30b203ce328920f8b010e0_3228929270985391465.jpg) |
-| 2023082311925 | 服装立绘系列 立牌-天元骑英 | 20 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/23/676e897a306b422b71cf346808cae330_4313315602718701232.jpg) |
-| 2023082311610 | 服装立绘系列 立牌-百鬼天暝 | 20 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/23/9393e6f6eaf318449ca307ba1729e143_6559972539855319631.jpg) |
-| 2023082311443 | 服装立绘系列 立牌-时砾逐光 | 20 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/23/cafcbd5939e242bfca0a3a58e6ac735b_4726584830693265340.jpg) |
-| 2023082311587 | 符华·青鸟之庭徽章+流沙挂件套组 | 20 | 1 | 12600 | [图](https://bbs-static.miyoushe.com/static/2023/08/23/f219967a11212ef7dc40e860a1b5b42c_1613324947742162215.jpg) |
-| 2023082311324 | 动画短片系列 金属开合徽章-薪炎永燃 | 20 | 1 | 16000 | [图](https://bbs-static.miyoushe.com/static/2023/08/23/5013484ebdd548630500ccd4b4c0f72f_5073898667782252657.jpg) |
-| 2023082311134 | 动画短片系列 金属开合徽章-罪人挽歌 | 20 | 1 | 16000 | [图](https://bbs-static.miyoushe.com/static/2023/08/23/c187f78d90803459b0b4c2f111fa2bcf_900694288509384269.jpg) |
-| 2023082311599 | 动画短片系列 金属开合徽章-天使重构 | 20 | 1 | 16000 | [图](https://bbs-static.miyoushe.com/static/2023/08/23/e9f7bbc18be2d5ce578c958386656430_6943547262975445732.jpg) |
-| 2023082311763 | 幽兰黛尔·天元骑英Q版盒蛋 | 20 | 1 | 16000 | [图](https://bbs-static.miyoushe.com/static/2023/08/23/fa02070ddd952db1edc1780e89f9880d_4078057338272358595.jpg) |
+| 2023082311534 | 2022miYoSummer Q版软胶磁贴-崩坏3 | 0 | 1 | 4300 | [图](https://bbs-static.miyoushe.com/static/2023/08/23/543587943a30b203ce328920f8b010e0_3228929270985391465.jpg) |
+| 2023082311925 | 服装立绘系列 立牌-天元骑英 | 0 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/23/676e897a306b422b71cf346808cae330_4313315602718701232.jpg) |
+| 2023082311610 | 服装立绘系列 立牌-百鬼天暝 | 0 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/23/9393e6f6eaf318449ca307ba1729e143_6559972539855319631.jpg) |
+| 2023082311443 | 服装立绘系列 立牌-时砾逐光 | 0 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/23/cafcbd5939e242bfca0a3a58e6ac735b_4726584830693265340.jpg) |
+| 2023082311587 | 符华·青鸟之庭徽章+流沙挂件套组 | 0 | 1 | 12600 | [图](https://bbs-static.miyoushe.com/static/2023/08/23/f219967a11212ef7dc40e860a1b5b42c_1613324947742162215.jpg) |
+| 2023082311324 | 动画短片系列 金属开合徽章-薪炎永燃 | 0 | 1 | 16000 | [图](https://bbs-static.miyoushe.com/static/2023/08/23/5013484ebdd548630500ccd4b4c0f72f_5073898667782252657.jpg) |
+| 2023082311134 | 动画短片系列 金属开合徽章-罪人挽歌 | 0 | 1 | 16000 | [图](https://bbs-static.miyoushe.com/static/2023/08/23/c187f78d90803459b0b4c2f111fa2bcf_900694288509384269.jpg) |
+| 2023082311599 | 动画短片系列 金属开合徽章-天使重构 | 0 | 1 | 16000 | [图](https://bbs-static.miyoushe.com/static/2023/08/23/e9f7bbc18be2d5ce578c958386656430_6943547262975445732.jpg) |
+| 2023082311763 | 幽兰黛尔·天元骑英Q版盒蛋 | 0 | 1 | 16000 | [图](https://bbs-static.miyoushe.com/static/2023/08/23/fa02070ddd952db1edc1780e89f9880d_4078057338272358595.jpg) |
 
 
 
