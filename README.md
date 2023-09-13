@@ -11,6 +11,7 @@
 | title | url |
 |:---:|:---:|
 | 《原神》4.1版本「向深水中的晨星」前瞻特别节目预告 | https://ys.mihoyo.com/main/news/detail/28787 |
+| 原神×隋文静/韩聪 - 合作幕后 | https://ys.mihoyo.com/main/news/detail/28786 |
 | 原神×隋文静/韩聪 - 以花样滑冰演绎「冰风组曲」 | https://ys.mihoyo.com/main/news/detail/28785 |
 | 阿贝多生日快乐｜你来了呀，实验器材正好准备完成了。 | https://ys.mihoyo.com/main/news/detail/28784 |
 | 「冒险历练」上线，一键派遣在做了——09.13开发组座谈会 | https://ys.mihoyo.com/main/news/detail/28782 |
@@ -19,7 +20,6 @@
 | 「原神交响音乐会2023」上海梅奔场开票通知 | https://ys.mihoyo.com/main/news/detail/28776 |
 |  雷泽生日快乐｜你送的手偶，很喜欢。 | https://ys.mihoyo.com/main/news/detail/28774 |
 | 《原神》归忆星旅 - 战绩回顾功能上线 | https://ys.mihoyo.com/main/news/detail/28759 |
-| 《原神》「壁纸放送」 | https://ys.mihoyo.com/main/news/detail/28755 |
 
 
 ## 米游社商品
