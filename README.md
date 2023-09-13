@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 「冒险历练」上线，一键派遣在做了——09.13开发组座谈会 | https://ys.mihoyo.com/main/news/detail/28782 |
 | 「光影研学·旖旎水界」活动：水界留影研学 | https://ys.mihoyo.com/main/news/detail/28780 |
 | 「寻音序曲」——《原神》交响音乐会宣传H5正式上线。 | https://ys.mihoyo.com/main/news/detail/28779 |
 | 「原神交响音乐会2023」上海梅奔场开票通知 | https://ys.mihoyo.com/main/news/detail/28776 |
@@ -19,7 +20,6 @@
 | 重云生日快乐｜…有办法能一直留下这束光吗？ | https://ys.mihoyo.com/main/news/detail/28733 |
 | 《原神》拾枝杂谈-「菲米尼：机巧的余温」 | https://ys.mihoyo.com/main/news/detail/28723 |
 | 4.0版本超话签到活动第二期 | https://ys.mihoyo.com/main/news/detail/28717 |
-| 原神全球巡回交响音乐会主题游戏礼包公开 | https://ys.mihoyo.com/main/news/detail/28715 |
 
 
 ## 米游社商品
