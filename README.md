@@ -29,8 +29,6 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 2023080812322 | 原石*60 | 0 | 1 | 1800 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/dab394b1516c58a00b91f8dba9756110_8904801501338765557.png) |
-| 2023080812561 | 原石*150 | 0 | 1 | 4500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/dab394b1516c58a00b91f8dba9756110_8904801501338765557.png) |
 | 2023080812499 | 摩拉*50000 | 4000 | 1 | 1500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/d63798a398c18de7f3ce23b7e1dcd02f_3159879231696238340.png) |
 | 2023080812708 | 大英雄的经验*5 | 4000 | 1 | 1500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/468097d8c7fb608f3a23d057d871e48a_7303233958715687443.png) |
 | 2023080811988 | 2022线上音乐会系列 迷你口琴项链-云堇 | 10 | 1 | 30000 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/757d25b924e3fc8c744933e19a648a47_6867639912243321727.jpg) |
@@ -44,6 +42,8 @@
 | 2023080811218 | 稻妻城主题系列 人物亚克力立牌-神里绫人 | 10 | 1 | 11300 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/c7b7581c4c0e675df5423f5387da1832_4565912378744098908.jpg) |
 | 2023080811396 | 稻妻城主题系列 人物亚克力立牌-宵宫 | 10 | 1 | 11300 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/d4859148492b600d7651d0481f4e022c_4621794962581959891.jpg) |
 | 2023080811933 | 璃月港主题系列 人物亚克力立牌-凝光 | 10 | 1 | 11300 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/a037900d8c5cdeb10895c68e4bac6b74_1569673349502224929.jpg) |
+| 2023080812322 | 原石*60 | 0 | 1 | 1800 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/dab394b1516c58a00b91f8dba9756110_8904801501338765557.png) |
+| 2023080812561 | 原石*150 | 0 | 1 | 4500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/dab394b1516c58a00b91f8dba9756110_8904801501338765557.png) |
 
 
 
