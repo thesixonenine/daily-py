@@ -10,6 +10,8 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》三周年玩家群像短片——守候的足迹 | https://ys.mihoyo.com/main/news/detail/28829 |
+| 《原神》4.1版本PV：「向深水中的晨星」 | https://ys.mihoyo.com/main/news/detail/28828 |
 | 《原神》4.1版本「向深水中的晨星」前瞻特别节目预告 | https://ys.mihoyo.com/main/news/detail/28787 |
 | 原神×隋文静/韩聪 - 合作幕后 | https://ys.mihoyo.com/main/news/detail/28786 |
 | 原神×隋文静/韩聪 - 以花样滑冰演绎「冰风组曲」 | https://ys.mihoyo.com/main/news/detail/28785 |
@@ -18,8 +20,6 @@
 | 「光影研学·旖旎水界」活动：水界留影研学 | https://ys.mihoyo.com/main/news/detail/28780 |
 | 「寻音序曲」——《原神》交响音乐会宣传H5正式上线。 | https://ys.mihoyo.com/main/news/detail/28779 |
 | 「原神交响音乐会2023」上海梅奔场开票通知 | https://ys.mihoyo.com/main/news/detail/28776 |
-|  雷泽生日快乐｜你送的手偶，很喜欢。 | https://ys.mihoyo.com/main/news/detail/28774 |
-| 《原神》归忆星旅 - 战绩回顾功能上线 | https://ys.mihoyo.com/main/news/detail/28759 |
 
 
 ## 米游社商品
