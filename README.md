@@ -10,16 +10,16 @@
 
 | title | url |
 |:---:|:---:|
+| 4.1新版本「仿若无因飘落的轻雨」先行展示页现已开启！ | https://ys.mihoyo.com/main/news/detail/28837 |
+| 「地脉移涌」活动：「藏金之花」「启示之花」双倍掉落！ | https://ys.mihoyo.com/main/news/detail/28836 |
+| 《原神》「旅闻妙饰」三周年头像挂件征集活动现已开启 | https://ys.mihoyo.com/main/news/detail/28835 |
+| 「咏歌与凯旋」：《原神》枫丹篇OST宣传MV   | https://ys.mihoyo.com/main/news/detail/28834 |
 | 《原神》首充双倍返利重置说明 | https://ys.mihoyo.com/main/news/detail/28833 |
 | 《云·原神》网页版桌面端现已开放！|	随时随地进入异想世界 | https://ys.mihoyo.com/main/news/detail/28832 |
 | 《原神》4.1版本「向深水中的晨星」前瞻特别节目回顾长图 | https://ys.mihoyo.com/main/news/detail/28831 |
 | 《原神》4.1版本「向深水中的晨星」前瞻特别节目 | https://ys.mihoyo.com/main/news/detail/28830 |
 | 《原神》三周年玩家群像短片——守候的足迹 | https://ys.mihoyo.com/main/news/detail/28829 |
 | 《原神》4.1版本PV：「向深水中的晨星」 | https://ys.mihoyo.com/main/news/detail/28828 |
-| 《原神》4.1版本「向深水中的晨星」前瞻特别节目预告 | https://ys.mihoyo.com/main/news/detail/28787 |
-| 原神×隋文静/韩聪 - 合作幕后 | https://ys.mihoyo.com/main/news/detail/28786 |
-| 原神×隋文静/韩聪 - 以花样滑冰演绎「冰风组曲」 | https://ys.mihoyo.com/main/news/detail/28785 |
-| 阿贝多生日快乐｜你来了呀，实验器材正好准备完成了。 | https://ys.mihoyo.com/main/news/detail/28784 |
 
 
 ## 米游社商品
