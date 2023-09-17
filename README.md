@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》三周年配音演员祝福-「来自幕后的心意」 | https://ys.mihoyo.com/main/news/detail/28838 |
 | 4.1新版本「仿若无因飘落的轻雨」先行展示页现已开启！ | https://ys.mihoyo.com/main/news/detail/28837 |
 | 「地脉移涌」活动：「藏金之花」「启示之花」双倍掉落！ | https://ys.mihoyo.com/main/news/detail/28836 |
 | 《原神》「旅闻妙饰」三周年头像挂件征集活动现已开启 | https://ys.mihoyo.com/main/news/detail/28835 |
@@ -19,7 +20,6 @@
 | 《原神》4.1版本「向深水中的晨星」前瞻特别节目回顾长图 | https://ys.mihoyo.com/main/news/detail/28831 |
 | 《原神》4.1版本「向深水中的晨星」前瞻特别节目 | https://ys.mihoyo.com/main/news/detail/28830 |
 | 《原神》三周年玩家群像短片——守候的足迹 | https://ys.mihoyo.com/main/news/detail/28829 |
-| 《原神》4.1版本PV：「向深水中的晨星」 | https://ys.mihoyo.com/main/news/detail/28828 |
 
 
 ## 米游社商品
