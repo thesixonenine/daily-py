@@ -88,18 +88,18 @@
 <details><summary>Details</summary>
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 2023082211691 | 狂沙的呼唤系列 亚克力装饰画-夏彦 | 15 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/cb1f59858b1d90ce8fa03a2c44338db7_7926428735542929574.jpg) |
-| 2023082211680 | 狂沙的呼唤系列 亚克力装饰画-左然 | 15 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/752d24f60baf8cc19e6a73171051ec9d_1974984383789867230.jpg) |
-| 2023082211505 | 狂沙的呼唤系列 亚克力装饰画-莫弈 | 15 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/f295bc25c402eee960efa07510bd24e7_183110895693410832.jpg) |
-| 2023082211643 | 狂沙的呼唤系列 亚克力装饰画-陆景和 | 15 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/bac3906051ab53be9c9f002fe0f186b2_5441276485454427882.jpg) |
-| 2023082211874 | 假日环游系列 Q版PVC卡套-夏彦 | 15 | 1 | 8700 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/45246c8c0d0525489c0d5d4572c44234_1908377551763699916.jpg) |
-| 2023082211657 | 假日环游系列 Q版PVC卡套-左然 | 15 | 1 | 8700 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/1d6854e0b9f24e818c75094ff024a9ba_7955739066417077264.jpg) |
-| 2023082211226 | 假日环游系列 Q版PVC卡套-莫弈 | 15 | 1 | 8700 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/73bffc42ce4c94d755b7ebb725361fd0_4746077930323435476.jpg) |
-| 2023082211747 | 假日环游系列 Q版PVC卡套-陆景和 | 15 | 1 | 8700 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/b0d42c4ae9161ee6123860fa0f5794fc_7636225237272068290.jpg) |
-| 2023082211700 | 夏日系列 Q版流沙杯垫-夏彦 | 15 | 1 | 8700 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/e9555aa8e5605efa7c1cbe75165863b6_3992192251186336281.jpg) |
-| 2023082211912 | 夏日系列 Q版流沙杯垫-左然 | 15 | 1 | 8700 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/ce645092570c36683205a8eebcbbfb37_8731652070601380217.jpg) |
-| 2023082211585 | 夏日系列 Q版流沙杯垫-莫弈 | 15 | 1 | 8700 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/6382ca4d1e96a2ab3b8dfb26b8e06a2d_460788908830902896.jpg) |
-| 2023082211314 | 夏日系列 Q版流沙杯垫-陆景和 | 15 | 1 | 8700 | [图](https://bbs-static.miyoushe.com/static/2023/06/07/5406a2c0892326107e0a4baacbf22fe0_574102993185595152.jpg) |
+| 2023082211691 | 狂沙的呼唤系列 亚克力装饰画-夏彦 | 0 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/cb1f59858b1d90ce8fa03a2c44338db7_7926428735542929574.jpg) |
+| 2023082211680 | 狂沙的呼唤系列 亚克力装饰画-左然 | 0 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/752d24f60baf8cc19e6a73171051ec9d_1974984383789867230.jpg) |
+| 2023082211505 | 狂沙的呼唤系列 亚克力装饰画-莫弈 | 0 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/f295bc25c402eee960efa07510bd24e7_183110895693410832.jpg) |
+| 2023082211643 | 狂沙的呼唤系列 亚克力装饰画-陆景和 | 0 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/bac3906051ab53be9c9f002fe0f186b2_5441276485454427882.jpg) |
+| 2023082211874 | 假日环游系列 Q版PVC卡套-夏彦 | 0 | 1 | 8700 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/45246c8c0d0525489c0d5d4572c44234_1908377551763699916.jpg) |
+| 2023082211657 | 假日环游系列 Q版PVC卡套-左然 | 0 | 1 | 8700 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/1d6854e0b9f24e818c75094ff024a9ba_7955739066417077264.jpg) |
+| 2023082211226 | 假日环游系列 Q版PVC卡套-莫弈 | 0 | 1 | 8700 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/73bffc42ce4c94d755b7ebb725361fd0_4746077930323435476.jpg) |
+| 2023082211747 | 假日环游系列 Q版PVC卡套-陆景和 | 0 | 1 | 8700 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/b0d42c4ae9161ee6123860fa0f5794fc_7636225237272068290.jpg) |
+| 2023082211700 | 夏日系列 Q版流沙杯垫-夏彦 | 0 | 1 | 8700 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/e9555aa8e5605efa7c1cbe75165863b6_3992192251186336281.jpg) |
+| 2023082211912 | 夏日系列 Q版流沙杯垫-左然 | 0 | 1 | 8700 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/ce645092570c36683205a8eebcbbfb37_8731652070601380217.jpg) |
+| 2023082211585 | 夏日系列 Q版流沙杯垫-莫弈 | 0 | 1 | 8700 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/6382ca4d1e96a2ab3b8dfb26b8e06a2d_460788908830902896.jpg) |
+| 2023082211314 | 夏日系列 Q版流沙杯垫-陆景和 | 0 | 1 | 8700 | [图](https://bbs-static.miyoushe.com/static/2023/06/07/5406a2c0892326107e0a4baacbf22fe0_574102993185595152.jpg) |
 | 2020091012247 | 未名晶片×100 | 0 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2020/09/10/3ec51e35f50fb60eda4705778177c24b_3871479849056199956.png) |
 
 </details>
