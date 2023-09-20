@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 「原神音乐听歌报告」——《原神》音乐三周年宣传H5正式上线 | https://ys.mihoyo.com/main/news/detail/28846 |
 | 【蒸汽鸟报特刊】4.1版本新区域展示页上线！ | https://ys.mihoyo.com/main/news/detail/28844 |
 | 《原神》三周年配音演员祝福-「来自幕后的心意」 | https://ys.mihoyo.com/main/news/detail/28838 |
 | 4.1新版本「仿若无因飘落的轻雨」先行展示页现已开启！ | https://ys.mihoyo.com/main/news/detail/28837 |
@@ -19,7 +20,6 @@
 | 《原神》首充双倍返利重置说明 | https://ys.mihoyo.com/main/news/detail/28833 |
 | 《云·原神》网页版桌面端现已开放！|	随时随地进入异想世界 | https://ys.mihoyo.com/main/news/detail/28832 |
 | 《原神》4.1版本「向深水中的晨星」前瞻特别节目回顾长图 | https://ys.mihoyo.com/main/news/detail/28831 |
-| 《原神》4.1版本「向深水中的晨星」前瞻特别节目 | https://ys.mihoyo.com/main/news/detail/28830 |
 
 
 ## 米游社商品
@@ -29,21 +29,21 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 2023080812499 | 摩拉*50000 | 4000 | 1 | 1500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/d63798a398c18de7f3ce23b7e1dcd02f_3159879231696238340.png) |
-| 2023080812708 | 大英雄的经验*5 | 4000 | 1 | 1500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/468097d8c7fb608f3a23d057d871e48a_7303233958715687443.png) |
-| 2023080811988 | 2022线上音乐会系列 迷你口琴项链-云堇 | 10 | 1 | 30000 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/757d25b924e3fc8c744933e19a648a47_6867639912243321727.jpg) |
-| 2023080811478 | 2022线上音乐会系列 迷你口琴项链-辛焱 | 10 | 1 | 30000 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/23c409c532c23ce716538d29cf8f74c2_2882935075615011708.jpg) |
-| 2023080811522 | 2022线上音乐会系列 迷你口琴项链-申鹤 | 10 | 1 | 30000 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/ae660cdc176faed3d36b5016958f2362_2971065954446049937.jpg) |
-| 2023080811859 | 提瓦特动物园系列 Q版夜枭卡套 | 10 | 1 | 15700 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/b7d81c94fde9c84a7e85dd1c623b7872_6749997193117044505.jpg) |
-| 2023080811323 | 提瓦特动物园主题系列 毛绒团子-香菱 | 10 | 1 | 13800 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/53adb58ecb6e5b7ac818d15bfefb1e8e_3963331225683824430.jpg) |
-| 2023080811726 | 提瓦特动物园主题系列 毛绒团子-菲谢尔 | 10 | 1 | 13800 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/1b68e5123c9fc5407a4ad9fcadb8ffb7_4749307881690250072.jpg) |
-| 2023080811214 | 提瓦特动物园主题系列 毛绒团子-八重神子 | 10 | 1 | 13800 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/8712a33335aa713fca67bce1c1c914c8_4484423968063270854.jpg) |
-| 2023080811857 | 尘世掠影系列 仿胶片书签套组-璃月 | 10 | 1 | 13400 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/6dab334f6be033e810fe42ce3e103b3b_2212280713430561092.jpg) |
-| 2023080811218 | 稻妻城主题系列 人物亚克力立牌-神里绫人 | 10 | 1 | 11300 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/c7b7581c4c0e675df5423f5387da1832_4565912378744098908.jpg) |
-| 2023080811396 | 稻妻城主题系列 人物亚克力立牌-宵宫 | 10 | 1 | 11300 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/d4859148492b600d7651d0481f4e022c_4621794962581959891.jpg) |
-| 2023080811933 | 璃月港主题系列 人物亚克力立牌-凝光 | 10 | 1 | 11300 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/a037900d8c5cdeb10895c68e4bac6b74_1569673349502224929.jpg) |
+| 2023080812499 | 摩拉*50000 | 0 | 1 | 1500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/d63798a398c18de7f3ce23b7e1dcd02f_3159879231696238340.png) |
+| 2023080812708 | 大英雄的经验*5 | 0 | 1 | 1500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/468097d8c7fb608f3a23d057d871e48a_7303233958715687443.png) |
 | 2023080812322 | 原石*60 | 0 | 1 | 1800 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/dab394b1516c58a00b91f8dba9756110_8904801501338765557.png) |
 | 2023080812561 | 原石*150 | 0 | 1 | 4500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/dab394b1516c58a00b91f8dba9756110_8904801501338765557.png) |
+| 2023080811988 | 2022线上音乐会系列 迷你口琴项链-云堇 | 0 | 1 | 30000 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/757d25b924e3fc8c744933e19a648a47_6867639912243321727.jpg) |
+| 2023080811478 | 2022线上音乐会系列 迷你口琴项链-辛焱 | 0 | 1 | 30000 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/23c409c532c23ce716538d29cf8f74c2_2882935075615011708.jpg) |
+| 2023080811522 | 2022线上音乐会系列 迷你口琴项链-申鹤 | 0 | 1 | 30000 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/ae660cdc176faed3d36b5016958f2362_2971065954446049937.jpg) |
+| 2023080811859 | 提瓦特动物园系列 Q版夜枭卡套 | 0 | 1 | 15700 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/b7d81c94fde9c84a7e85dd1c623b7872_6749997193117044505.jpg) |
+| 2023080811323 | 提瓦特动物园主题系列 毛绒团子-香菱 | 0 | 1 | 13800 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/53adb58ecb6e5b7ac818d15bfefb1e8e_3963331225683824430.jpg) |
+| 2023080811726 | 提瓦特动物园主题系列 毛绒团子-菲谢尔 | 0 | 1 | 13800 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/1b68e5123c9fc5407a4ad9fcadb8ffb7_4749307881690250072.jpg) |
+| 2023080811214 | 提瓦特动物园主题系列 毛绒团子-八重神子 | 0 | 1 | 13800 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/8712a33335aa713fca67bce1c1c914c8_4484423968063270854.jpg) |
+| 2023080811857 | 尘世掠影系列 仿胶片书签套组-璃月 | 0 | 1 | 13400 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/6dab334f6be033e810fe42ce3e103b3b_2212280713430561092.jpg) |
+| 2023080811218 | 稻妻城主题系列 人物亚克力立牌-神里绫人 | 0 | 1 | 11300 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/c7b7581c4c0e675df5423f5387da1832_4565912378744098908.jpg) |
+| 2023080811396 | 稻妻城主题系列 人物亚克力立牌-宵宫 | 0 | 1 | 11300 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/d4859148492b600d7651d0481f4e022c_4621794962581959891.jpg) |
+| 2023080811933 | 璃月港主题系列 人物亚克力立牌-凝光 | 0 | 1 | 11300 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/a037900d8c5cdeb10895c68e4bac6b74_1569673349502224929.jpg) |
 
 
 
