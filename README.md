@@ -108,7 +108,6 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 2023082311786 | miYoSummer Q版亚克力立牌-符华 | 0 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2023/08/23/eee2bad100d9fb55ee498ac337f308b1_6727547044365567387.jpg) |
 | 2021063012200 | 碎裂晓残月*1 | 0 | 10 | 1620 | [图](https://webstatic.mihoyo.com/upload/shop/2021/06/30/d8278c3ecdf6d15a3e737325d6a70077_1781834727820640109.png) |
 | 2021063012835 | 碎裂三叶青*1 | 0 | 10 | 1620 | [图](https://webstatic.mihoyo.com/upload/shop/2021/06/30/68bfd2dee7eaa421886f9ef5d23b470d_7787909581169629138.png) |
 | 2021063012515 | 源初虹石*1 | 0 | 2 | 2160 | [图](https://webstatic.mihoyo.com/upload/shop/2021/06/30/969ba1a37464eeccf2b8ca2b61c9c594_7589959260977616587.png) |
