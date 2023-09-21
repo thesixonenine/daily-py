@@ -10,6 +10,8 @@
 
 | title | url |
 |:---:|:---:|
+| 「我既认可我自身工作的价值，也认同枫丹大众所作所为的意义。」 | https://ys.mihoyo.com/main/news/detail/28862 |
+| 《原神》那维莱特角色PV——「水中之眼」 | https://ys.mihoyo.com/main/news/detail/28861 |
 | 「原神音乐听歌报告」——《原神》音乐三周年宣传H5正式上线 | https://ys.mihoyo.com/main/news/detail/28846 |
 | 【蒸汽鸟报特刊】4.1版本新区域展示页上线！ | https://ys.mihoyo.com/main/news/detail/28844 |
 | 《原神》三周年配音演员祝福-「来自幕后的心意」 | https://ys.mihoyo.com/main/news/detail/28838 |
@@ -18,8 +20,6 @@
 | 《原神》「旅闻妙饰」三周年头像挂件征集活动现已开启 | https://ys.mihoyo.com/main/news/detail/28835 |
 | 「咏歌与凯旋」：《原神》枫丹篇OST宣传MV   | https://ys.mihoyo.com/main/news/detail/28834 |
 | 《原神》首充双倍返利重置说明 | https://ys.mihoyo.com/main/news/detail/28833 |
-| 《云·原神》网页版桌面端现已开放！|	随时随地进入异想世界 | https://ys.mihoyo.com/main/news/detail/28832 |
-| 《原神》4.1版本「向深水中的晨星」前瞻特别节目回顾长图 | https://ys.mihoyo.com/main/news/detail/28831 |
 
 
 ## 米游社商品
@@ -140,12 +140,12 @@
 | 2023080315602 | 【创小摊】运费减7元优惠券 | 3000 | 0 | 1750 | [图](https://bbs-static.miyoushe.com/static/2023/08/03/a2a92f3c6b2014b123e54f953a0cea96_6783669599338469346.png) |
 | 2023080315559 | 【创小摊】实物周边满5.01元减5元优惠券 | 4000 | 0 | 1250 | [图](https://bbs-static.miyoushe.com/static/2023/08/03/d1de36d5410b0b57395f1a44baa7d825_6582645165538115346.jpg) |
 | 2023080315274 | 【创小摊】实物周边满60元减8元优惠券 | 1000 | 0 | 2000 | [图](https://bbs-static.miyoushe.com/static/2023/08/03/1ea4d31877f87df19ab2faa2f5f8c795_7334063888172602390.png) |
-| 2023082514691 | 【米游社】小米 Air2 SE真无线蓝牙耳机 | 10 | 1 | 30000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/12/22/e3f6c0129cf245e9cc1ff417d582518d_9120783053330401060.jpg) |
-| 2023082514241 | 【米游社】智能人体感应灯小夜灯 | 15 | 1 | 18500 | [图](https://webstatic.mihoyo.com/upload/shop/2023/02/07/d468523d7604d84b1a946f6393b28c4f_1607574744281710626.jpg) |
-| 2023082511289 | 【米游社】miYoSummer Q版亚克力立牌-鹿鸣 | 106 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2023/08/25/a98789b6c544e2dcbc45c990745cc830_5920217269245247179.jpg) |
-| 2023082511745 | 【米游社】miYoSummer 都市重构系列 Q版抱枕 | 17 | 1 | 13800 | [图](https://bbs-static.miyoushe.com/static/2023/06/27/163e51aa6507a53d983b751031852e2b_1687644664360006160.jpg) |
-| 2023082511973 | 【米游社】鹊巧佳意系列 亚克力立牌 | 17 | 1 | 13400 | [图](https://bbs-static.miyoushe.com/static/2023/04/27/53197e9c7e5e6d03176650d5ae0ee8c0_4716853998982683667.jpg) |
+| 2023082511289 | 【米游社】miYoSummer Q版亚克力立牌-鹿鸣 | 0 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2023/08/25/a98789b6c544e2dcbc45c990745cc830_5920217269245247179.jpg) |
 | 2023021012469 | 【未定事件簿】「情诗」（永久） | 0 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/12/23/faba435917f41dfdce30440435a61cf6_5477568449308330917.jpg) |
+| 2023082514691 | 【米游社】小米 Air2 SE真无线蓝牙耳机 | 0 | 1 | 30000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/12/22/e3f6c0129cf245e9cc1ff417d582518d_9120783053330401060.jpg) |
+| 2023082514241 | 【米游社】智能人体感应灯小夜灯 | 0 | 1 | 18500 | [图](https://webstatic.mihoyo.com/upload/shop/2023/02/07/d468523d7604d84b1a946f6393b28c4f_1607574744281710626.jpg) |
+| 2023082511745 | 【米游社】miYoSummer 都市重构系列 Q版抱枕 | 0 | 1 | 13800 | [图](https://bbs-static.miyoushe.com/static/2023/06/27/163e51aa6507a53d983b751031852e2b_1687644664360006160.jpg) |
+| 2023082511973 | 【米游社】鹊巧佳意系列 亚克力立牌 | 0 | 1 | 13400 | [图](https://bbs-static.miyoushe.com/static/2023/04/27/53197e9c7e5e6d03176650d5ae0ee8c0_4716853998982683667.jpg) |
 | 2023082412667 | 【未定事件簿】同人-夏夜梦呓（永久） | 0 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/08/24/a261d42987b48460495a1493ebd3eef3_1073971432343759472.jpg) |
 | 2023082412937 | 【未定事件簿】同人-拾影撷光（永久） | 0 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/08/24/28011fd0973ae829cd21b4356b449ecc_5117692917088856939.jpg) |
 | 2023082412738 | 【未定事件簿】同人-书信隽永（永久） | 0 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/08/24/6f53aaa9bb634bf277e41dc9b6de3772_4664661704381665223.jpg) |
