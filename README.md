@@ -10,6 +10,8 @@
 
 | title | url |
 |:---:|:---:|
+| 4.1版本「向深水中的晨星」全新武器说明第一期 | https://ys.mihoyo.com/main/news/detail/28875 |
+| 「倏忽雨止」——《原神》新角色：那维莱特分享H5正式上线 | https://ys.mihoyo.com/main/news/detail/28874 |
 | 「我既认可我自身工作的价值，也认同枫丹大众所作所为的意义。」 | https://ys.mihoyo.com/main/news/detail/28862 |
 | 《原神》那维莱特角色PV——「水中之眼」 | https://ys.mihoyo.com/main/news/detail/28861 |
 | 「原神音乐听歌报告」——《原神》音乐三周年宣传H5正式上线 | https://ys.mihoyo.com/main/news/detail/28846 |
@@ -18,8 +20,6 @@
 | 4.1新版本「仿若无因飘落的轻雨」先行展示页现已开启！ | https://ys.mihoyo.com/main/news/detail/28837 |
 | 「地脉移涌」活动：「藏金之花」「启示之花」双倍掉落！ | https://ys.mihoyo.com/main/news/detail/28836 |
 | 《原神》「旅闻妙饰」三周年头像挂件征集活动现已开启 | https://ys.mihoyo.com/main/news/detail/28835 |
-| 「咏歌与凯旋」：《原神》枫丹篇OST宣传MV   | https://ys.mihoyo.com/main/news/detail/28834 |
-| 《原神》首充双倍返利重置说明 | https://ys.mihoyo.com/main/news/detail/28833 |
 
 
 ## 米游社商品
@@ -30,9 +30,9 @@
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 2023080812499 | 摩拉*50000 | 0 | 1 | 1500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/d63798a398c18de7f3ce23b7e1dcd02f_3159879231696238340.png) |
-| 2023080812708 | 大英雄的经验*5 | 0 | 1 | 1500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/468097d8c7fb608f3a23d057d871e48a_7303233958715687443.png) |
 | 2023080812322 | 原石*60 | 0 | 1 | 1800 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/dab394b1516c58a00b91f8dba9756110_8904801501338765557.png) |
 | 2023080812561 | 原石*150 | 0 | 1 | 4500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/dab394b1516c58a00b91f8dba9756110_8904801501338765557.png) |
+| 2023080812708 | 大英雄的经验*5 | 0 | 1 | 1500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/468097d8c7fb608f3a23d057d871e48a_7303233958715687443.png) |
 | 2023080811988 | 2022线上音乐会系列 迷你口琴项链-云堇 | 0 | 1 | 30000 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/757d25b924e3fc8c744933e19a648a47_6867639912243321727.jpg) |
 | 2023080811478 | 2022线上音乐会系列 迷你口琴项链-辛焱 | 0 | 1 | 30000 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/23c409c532c23ce716538d29cf8f74c2_2882935075615011708.jpg) |
 | 2023080811522 | 2022线上音乐会系列 迷你口琴项链-申鹤 | 0 | 1 | 30000 | [图](https://bbs-static.miyoushe.com/static/2023/08/08/ae660cdc176faed3d36b5016958f2362_2971065954446049937.jpg) |
