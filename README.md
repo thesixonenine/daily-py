@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 4.1版本「七圣召唤」更新说明 | https://ys.mihoyo.com/main/news/detail/28878 |
 | 4.1版本「向深水中的晨星」全新武器说明第一期 | https://ys.mihoyo.com/main/news/detail/28875 |
 | 「倏忽雨止」——《原神》新角色：那维莱特分享H5正式上线 | https://ys.mihoyo.com/main/news/detail/28874 |
 | 「我既认可我自身工作的价值，也认同枫丹大众所作所为的意义。」 | https://ys.mihoyo.com/main/news/detail/28862 |
@@ -19,7 +20,6 @@
 | 《原神》三周年配音演员祝福-「来自幕后的心意」 | https://ys.mihoyo.com/main/news/detail/28838 |
 | 4.1新版本「仿若无因飘落的轻雨」先行展示页现已开启！ | https://ys.mihoyo.com/main/news/detail/28837 |
 | 「地脉移涌」活动：「藏金之花」「启示之花」双倍掉落！ | https://ys.mihoyo.com/main/news/detail/28836 |
-| 《原神》「旅闻妙饰」三周年头像挂件征集活动现已开启 | https://ys.mihoyo.com/main/news/detail/28835 |
 
 
 ## 米游社商品
