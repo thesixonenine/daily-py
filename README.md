@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 菲米尼生日快乐｜你一直这么盯着我的话，我会紧张得说不出话的… | https://ys.mihoyo.com/main/news/detail/28880 |
 | 「岁旅拾珍」感恩答谢 | https://ys.mihoyo.com/main/news/detail/28879 |
 | 4.1版本「七圣召唤」更新说明 | https://ys.mihoyo.com/main/news/detail/28878 |
 | 4.1版本「向深水中的晨星」全新武器说明第一期 | https://ys.mihoyo.com/main/news/detail/28875 |
@@ -19,7 +20,6 @@
 | 「原神音乐听歌报告」——《原神》音乐三周年宣传H5正式上线 | https://ys.mihoyo.com/main/news/detail/28846 |
 | 【蒸汽鸟报特刊】4.1版本新区域展示页上线！ | https://ys.mihoyo.com/main/news/detail/28844 |
 | 《原神》三周年配音演员祝福-「来自幕后的心意」 | https://ys.mihoyo.com/main/news/detail/28838 |
-| 4.1新版本「仿若无因飘落的轻雨」先行展示页现已开启！ | https://ys.mihoyo.com/main/news/detail/28837 |
 
 
 ## 米游社商品
