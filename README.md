@@ -10,16 +10,16 @@
 
 | title | url |
 |:---:|:---:|
-| 4.1版本更新维护预告 | https://ys.mihoyo.com/main/news/detail/28890 |
-| 菲米尼生日快乐｜你一直这么盯着我的话，我会紧张得说不出话的… | https://ys.mihoyo.com/main/news/detail/28880 |
-| 「岁旅拾珍」感恩答谢 | https://ys.mihoyo.com/main/news/detail/28879 |
-| 4.1版本「七圣召唤」更新说明 | https://ys.mihoyo.com/main/news/detail/28878 |
-| 4.1版本「向深水中的晨星」全新武器说明第一期 | https://ys.mihoyo.com/main/news/detail/28875 |
-| 「倏忽雨止」——《原神》新角色：那维莱特分享H5正式上线 | https://ys.mihoyo.com/main/news/detail/28874 |
-| 「我既认可我自身工作的价值，也认同枫丹大众所作所为的意义。」 | https://ys.mihoyo.com/main/news/detail/28862 |
-| 《原神》那维莱特角色PV——「水中之眼」 | https://ys.mihoyo.com/main/news/detail/28861 |
-| 「原神音乐听歌报告」——《原神》音乐三周年宣传H5正式上线 | https://ys.mihoyo.com/main/news/detail/28846 |
-| 【蒸汽鸟报特刊】4.1版本新区域展示页上线！ | https://ys.mihoyo.com/main/news/detail/28844 |
+| 4.1版本 「向深水中的晨星」内容专题页上线！ | https://ys.mihoyo.com/main/news/detail/28900 |
+| 「向深水中的晨星」4.1版本活动速递第一期 | https://ys.mihoyo.com/main/news/detail/28899 |
+| 「沉星纪行」活动说明 | https://ys.mihoyo.com/main/news/detail/28898 |
+|  「冒险助力礼包」第26期限时上架 | https://ys.mihoyo.com/main/news/detail/28897 |
+| 「潮涌之章」传说任务说明 | https://ys.mihoyo.com/main/news/detail/28896 |
+| 新剧情开启：魔神任务第四章·第三幕、第四幕 | https://ys.mihoyo.com/main/news/detail/28895 |
+| 「七圣召唤」铸境研炼：巧策进斗 | https://ys.mihoyo.com/main/news/detail/28894 |
+| 「神铸赋形」祈愿：「法器·万世流涌大典」「长柄武器·护摩之杖」概率UP！ | https://ys.mihoyo.com/main/news/detail/28893 |
+| 「赤团开时」祈愿：「雪霁梅香·胡桃(火)」概率UP！ | https://ys.mihoyo.com/main/news/detail/28892 |
+| 「渊海界令」祈愿：「谕告的潮音·那维莱特(水)」概率UP！ | https://ys.mihoyo.com/main/news/detail/28891 |
 
 
 ## 米游社商品
@@ -68,7 +68,7 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 2023042712873 | 水晶*100 | 0 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2020/06/18/ccf130fa959888e48af399799ac91458_2459754489211937281.png) |
+| 2023042712873 | 水晶*100 | 11250 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2020/06/18/ccf130fa959888e48af399799ac91458_2459754489211937281.png) |
 | 215791797313419356364222347148 | 逆熵·虚数核心*5 | 0 | 2 | 1200 | [图](https://webstatic.mihoyo.com/upload/shop/2021/04/09/714c64b6547f2a1274b1524fddc7febb_2808239829919819812.png) |
 | 2021040912146 | 高级技能材料*5 | 0 | 1 | 1800 | [图](https://webstatic.mihoyo.com/upload/shop/2021/04/09/48752dc5ab70c818b6b72a6513c95f2f_5640911369522514077.png) |
 | 21579179504316812467643946757 | 体力药水*1 | 0 | 2 | 370 | [图](https://webstatic.mihoyo.com/upload/shop/2021/04/09/9ccf0f785763dad642281e90b1a925c7_1345306158854300132.png) |
@@ -88,6 +88,22 @@
 <details><summary>Details</summary>
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| 2023092111135 | 莫弈生日新品周边组合（生日特价） | 0 | 1 | 520 | [图](https://bbs-static.miyoushe.com/static/2023/09/21/90891f1776097807041c2abe2adb88be_9051874578409774118.jpg) |
+| 2023091911570 | 岁许佳期系列 莫弈生日立牌（生日半价） | 0 | 1 | 4400 | [图](https://bbs-static.miyoushe.com/static/2023/09/19/df5d3a9df2649fbcff6f4bb40981a960_1200297986613902248.JPG) |
+| 2023091911687 | 岁许佳期系列 莫弈生日装饰色纸（生日半价） | 0 | 1 | 3200 | [图](https://bbs-static.miyoushe.com/static/2023/09/19/6f69b92f2770e7e4437bcc173fab0c35_7577496831907572411.JPG) |
+| 2023091911581 | 沐光偕愿系列 莫弈生日亚克力装饰画（生日半价） | 0 | 1 | 5500 | [图](https://bbs-static.miyoushe.com/static/2023/09/19/27f88e588a99dc0c1ad61eb04202e4ff_3168130424216165479.jpg) |
+| 2023091911584 | 煦风恋旅系列 纪念活页本-陆景和 | 0 | 1 | 10400 | [图](https://bbs-static.miyoushe.com/static/2023/09/19/4e8332d9f0e337e63bbdfaafdf85c1f3_6257341093698800662.JPG) |
+| 2023091911252 | 煦风恋旅系列 纪念活页本-莫弈 | 0 | 1 | 10400 | [图](https://bbs-static.miyoushe.com/static/2023/09/19/1f3a8ccee04c8628af6a5a36c3c2b42c_5525388712789116330.JPG) |
+| 2023091911109 | 煦风恋旅系列 纪念活页本-左然 | 0 | 1 | 10400 | [图](https://bbs-static.miyoushe.com/static/2023/09/19/437a0ab7edf7019a21ff80f36c3a4b5d_6230226842835958732.JPG) |
+| 2023091911356 | 煦风恋旅系列 纪念活页本-夏彦 | 0 | 1 | 10400 | [图](https://bbs-static.miyoushe.com/static/2023/09/19/90d21eafc02cda73709c127e535017a1_2959132884850164448.JPG) |
+| 2023091911456 | 随行系列 刺绣棒球帽-陆景和 | 0 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/09/19/4fca57b78f436cc60c1a5458b8bab15b_2811534072438095453.JPG) |
+| 2023091911579 | 随行系列 刺绣棒球帽-莫弈 | 0 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/09/19/2b058bedf03216875b14dc367b50b025_804377799817179745.JPG) |
+| 2023091911474 | 随行系列 刺绣棒球帽-左然 | 0 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/09/19/1c33aa6973f7ca15dcc27fc87c6e1033_2960160191307143412.JPG) |
+| 2023091911208 | 随行系列 刺绣棒球帽-夏彦 | 0 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/09/19/9efebae1e951360d9a4338c16ed78a45_5865247239369727503.JPG) |
+| 2023091911675 | 约定之日系列 亚克力装饰画-陆景和 | 0 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/09/19/d8e2d600c62faef4313676775a20cbfa_5948933044269588356.JPG) |
+| 2023091911387 | 约定之日系列 亚克力装饰画-莫弈 | 0 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/09/19/d9081b3720c6bc4b682a5a9f89e105db_3970126414296968267.JPG) |
+| 2023091911400 | 约定之日系列 亚克力装饰画-左然 | 0 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/09/19/a8f180817b5f2f9269e438866bfd7a57_333980999462443052.JPG) |
+| 2023091911686 | 约定之日系列 亚克力装饰画-夏彦 | 0 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/09/19/bb6c4d55f73cf1160dd98fdeeae3a48e_291859624086921520.JPG) |
 | 2023082211691 | 狂沙的呼唤系列 亚克力装饰画-夏彦 | 0 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/cb1f59858b1d90ce8fa03a2c44338db7_7926428735542929574.jpg) |
 | 2023082211680 | 狂沙的呼唤系列 亚克力装饰画-左然 | 0 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/752d24f60baf8cc19e6a73171051ec9d_1974984383789867230.jpg) |
 | 2023082211505 | 狂沙的呼唤系列 亚克力装饰画-莫弈 | 0 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/f295bc25c402eee960efa07510bd24e7_183110895693410832.jpg) |
@@ -100,7 +116,7 @@
 | 2023082211912 | 夏日系列 Q版流沙杯垫-左然 | 0 | 1 | 8700 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/ce645092570c36683205a8eebcbbfb37_8731652070601380217.jpg) |
 | 2023082211585 | 夏日系列 Q版流沙杯垫-莫弈 | 0 | 1 | 8700 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/6382ca4d1e96a2ab3b8dfb26b8e06a2d_460788908830902896.jpg) |
 | 2023082211314 | 夏日系列 Q版流沙杯垫-陆景和 | 0 | 1 | 8700 | [图](https://bbs-static.miyoushe.com/static/2023/06/07/5406a2c0892326107e0a4baacbf22fe0_574102993185595152.jpg) |
-| 2020091012247 | 未名晶片×100 | 0 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2020/09/10/3ec51e35f50fb60eda4705778177c24b_3871479849056199956.png) |
+| 2020091012247 | 未名晶片×100 | 300 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2020/09/10/3ec51e35f50fb60eda4705778177c24b_3871479849056199956.png) |
 
 </details>
 
@@ -140,6 +156,10 @@
 | 2023080315602 | 【创小摊】运费减7元优惠券 | 3000 | 0 | 1750 | [图](https://bbs-static.miyoushe.com/static/2023/08/03/a2a92f3c6b2014b123e54f953a0cea96_6783669599338469346.png) |
 | 2023080315559 | 【创小摊】实物周边满5.01元减5元优惠券 | 4000 | 0 | 1250 | [图](https://bbs-static.miyoushe.com/static/2023/08/03/d1de36d5410b0b57395f1a44baa7d825_6582645165538115346.jpg) |
 | 2023080315274 | 【创小摊】实物周边满60元减8元优惠券 | 1000 | 0 | 2000 | [图](https://bbs-static.miyoushe.com/static/2023/08/03/1ea4d31877f87df19ab2faa2f5f8c795_7334063888172602390.png) |
+| 2023091912956 | 【未定事件簿】莫弈生贺头像挂件「沐光偕愿」（30天） | 0 | 1 | 1000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/09/20/192602f2d60df9eb1405deb95e2ba075_951298184266685014.jpg) |
+| 2023091912794 | 【未定事件簿】莫弈生贺头像挂件「岁许佳期」（30天） | 0 | 1 | 1000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/09/20/3c664303163539fa94e87f3377abdb9f_6381186680513547900.jpg) |
+| 2023091912890 | 【未定事件簿】莫弈生贺头像挂件「沐光偕愿」（永久） | 0 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/09/20/192602f2d60df9eb1405deb95e2ba075_951298184266685014.jpg) |
+| 2023091912774 | 【未定事件簿】莫弈生贺头像挂件「岁许佳期」（永久） | 0 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/09/20/3c664303163539fa94e87f3377abdb9f_6381186680513547900.jpg) |
 | 2023021012469 | 【未定事件簿】「情诗」（永久） | 0 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/12/23/faba435917f41dfdce30440435a61cf6_5477568449308330917.jpg) |
 | 2023082514691 | 【米游社】小米 Air2 SE真无线蓝牙耳机 | 0 | 1 | 30000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/12/22/e3f6c0129cf245e9cc1ff417d582518d_9120783053330401060.jpg) |
 | 2023082514241 | 【米游社】智能人体感应灯小夜灯 | 0 | 1 | 18500 | [图](https://webstatic.mihoyo.com/upload/shop/2023/02/07/d468523d7604d84b1a946f6393b28c4f_1607574744281710626.jpg) |
