@@ -88,7 +88,6 @@
 <details><summary>Details</summary>
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 2023092111135 | 莫弈生日新品周边组合（生日特价） | 0 | 1 | 520 | [图](https://bbs-static.miyoushe.com/static/2023/09/21/90891f1776097807041c2abe2adb88be_9051874578409774118.jpg) |
 | 2023091911570 | 岁许佳期系列 莫弈生日立牌（生日半价） | 0 | 1 | 4400 | [图](https://bbs-static.miyoushe.com/static/2023/09/19/df5d3a9df2649fbcff6f4bb40981a960_1200297986613902248.JPG) |
 | 2023091911687 | 岁许佳期系列 莫弈生日装饰色纸（生日半价） | 0 | 1 | 3200 | [图](https://bbs-static.miyoushe.com/static/2023/09/19/6f69b92f2770e7e4437bcc173fab0c35_7577496831907572411.JPG) |
 | 2023091911581 | 沐光偕愿系列 莫弈生日亚克力装饰画（生日半价） | 0 | 1 | 5500 | [图](https://bbs-static.miyoushe.com/static/2023/09/19/27f88e588a99dc0c1ad61eb04202e4ff_3168130424216165479.jpg) |
