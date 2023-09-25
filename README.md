@@ -10,6 +10,8 @@
 
 | title | url |
 |:---:|:---:|
+| 「真实至上，故事超群！」 | https://ys.mihoyo.com/main/news/detail/28910 |
+| 永世领唱，无尽圆舞 | https://ys.mihoyo.com/main/news/detail/28909 |
 | 4.1版本 「向深水中的晨星」内容专题页上线！ | https://ys.mihoyo.com/main/news/detail/28900 |
 | 「向深水中的晨星」4.1版本活动速递第一期 | https://ys.mihoyo.com/main/news/detail/28899 |
 | 「沉星纪行」活动说明 | https://ys.mihoyo.com/main/news/detail/28898 |
@@ -18,8 +20,6 @@
 | 新剧情开启：魔神任务第四章·第三幕、第四幕 | https://ys.mihoyo.com/main/news/detail/28895 |
 | 「七圣召唤」铸境研炼：巧策进斗 | https://ys.mihoyo.com/main/news/detail/28894 |
 | 「神铸赋形」祈愿：「法器·万世流涌大典」「长柄武器·护摩之杖」概率UP！ | https://ys.mihoyo.com/main/news/detail/28893 |
-| 「赤团开时」祈愿：「雪霁梅香·胡桃(火)」概率UP！ | https://ys.mihoyo.com/main/news/detail/28892 |
-| 「渊海界令」祈愿：「谕告的潮音·那维莱特(水)」概率UP！ | https://ys.mihoyo.com/main/news/detail/28891 |
 
 
 ## 米游社商品
