@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 「向深水中的晨星」4.1版本更新说明 | https://ys.mihoyo.com/main/news/detail/28936 |
 | 原神4.1版本微博限时表情活动预告 | https://ys.mihoyo.com/main/news/detail/28930 |
 | 微信视频号《原神》4.1版本视频征集&amp;直播招募活动即将开启 | https://ys.mihoyo.com/main/news/detail/28929 |
 | 小红书《原神》4.1版本笔记征集活动即将开启 | https://ys.mihoyo.com/main/news/detail/28928 |
@@ -19,7 +20,6 @@
 | 抖音《原神》4.1版本创作者激励计划&amp;直播激励活动即将开启 | https://ys.mihoyo.com/main/news/detail/28924 |
 | B站《原神》4.1版本创作者激励计划即将开启 | https://ys.mihoyo.com/main/news/detail/28923 |
 | 「欢赏流华」累计登录活动 | https://ys.mihoyo.com/main/news/detail/28922 |
-| 「集光撷彩」活动：回收水母挑战 | https://ys.mihoyo.com/main/news/detail/28921 |
 
 
 ## 米游社商品
