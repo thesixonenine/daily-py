@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 一路上鲜花和掌声围绕着你，许个心愿吧，我们最重要的伙伴。 | https://ys.mihoyo.com/main/news/detail/28972 |
 | 原神三周年微博限时表情活动预告 | https://ys.mihoyo.com/main/news/detail/28955 |
 | 《原神》「壁纸放送」 | https://ys.mihoyo.com/main/news/detail/28949 |
 | 《原神》三周年QQ频道专属福利活动现已开启 | https://ys.mihoyo.com/main/news/detail/28948 |
@@ -19,7 +20,6 @@
 | 《原神》拾枝杂谈-「那维莱特：古世行律」 | https://ys.mihoyo.com/main/news/detail/28944 |
 | 空中楼阁？海谷谜窟？——4.1版本枫丹探索小贴士 | https://ys.mihoyo.com/main/news/detail/28938 |
 | 4.1版本超话签到活动第一期 | https://ys.mihoyo.com/main/news/detail/28937 |
-| 「向深水中的晨星」4.1版本更新说明 | https://ys.mihoyo.com/main/news/detail/28936 |
 
 
 ## 米游社商品
