@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 微博《原神》4.1版本创作者激励计划现已开启 | https://ys.mihoyo.com/main/news/detail/29024 |
 | 《云·原神》网页版移动端现已开放！| 随时随地进入异想世界 | https://ys.mihoyo.com/main/news/detail/29023 |
 | 神里绫华生日快乐｜谢谢你一直给我寄信，向我诉说这些动人的故事。 | https://ys.mihoyo.com/main/news/detail/29022 |
 | 《原神》提瓦特冒险纪念视频：旅行三周年手札 | https://ys.mihoyo.com/main/news/detail/29021 |
@@ -19,7 +20,6 @@
 | 《原神》「壁纸放送」 | https://ys.mihoyo.com/main/news/detail/28949 |
 | 《原神》三周年QQ频道专属福利活动现已开启 | https://ys.mihoyo.com/main/news/detail/28948 |
 | 《原神》3周年微信游戏圈福利一览 | https://ys.mihoyo.com/main/news/detail/28947 |
-| 「旅闻妙饰」《原神》三周年微博专属饰品活动即将开启 | https://ys.mihoyo.com/main/news/detail/28946 |
 
 
 ## 米游社商品
