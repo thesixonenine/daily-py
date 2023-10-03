@@ -10,6 +10,8 @@
 
 | title | url |
 |:---:|:---:|
+| 「远寄佳音」——《原神》枫丹篇OST宣传H5正式上线 | https://ys.mihoyo.com/main/news/detail/29058 |
+| 《原神》过场动画-「为时尚早」 | https://ys.mihoyo.com/main/news/detail/29056 |
 | 「原神交响音乐会2023——上海梅奔场」精彩回顾 | https://ys.mihoyo.com/main/news/detail/29055 |
 | 《原神》枫丹篇OST现已正式上线。 | https://ys.mihoyo.com/main/news/detail/29054 |
 | 「《原神》枫丹篇OST即将上线 」 | https://ys.mihoyo.com/main/news/detail/29050 |
@@ -18,8 +20,6 @@
 | 微博《原神》4.1版本创作者激励计划现已开启 | https://ys.mihoyo.com/main/news/detail/29024 |
 | 《云·原神》网页版移动端现已开放！| 随时随地进入异想世界 | https://ys.mihoyo.com/main/news/detail/29023 |
 | 神里绫华生日快乐｜谢谢你一直给我寄信，向我诉说这些动人的故事。 | https://ys.mihoyo.com/main/news/detail/29022 |
-| 《原神》提瓦特冒险纪念视频：旅行三周年手札 | https://ys.mihoyo.com/main/news/detail/29021 |
-| 【网页活动上线】尘星旅梦——参与可得原石等游戏内奖励。 | https://ys.mihoyo.com/main/news/detail/28973 |
 
 
 ## 米游社商品
