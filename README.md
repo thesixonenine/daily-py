@@ -10,6 +10,9 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》「尘星旅梦」网页活动壁纸展示-第一弹 | https://ys.mihoyo.com/main/news/detail/29061 |
+| 「嘟嘟可轰轰奇遇记」活动：趣味炸鱼挑战 | https://ys.mihoyo.com/main/news/detail/29060 |
+| 旅人的徜徉——《原神》枫丹音乐的幕后 | https://ys.mihoyo.com/main/news/detail/29059 |
 | 「远寄佳音」——《原神》枫丹篇OST宣传H5正式上线 | https://ys.mihoyo.com/main/news/detail/29058 |
 | 《原神》过场动画-「为时尚早」 | https://ys.mihoyo.com/main/news/detail/29056 |
 | 「原神交响音乐会2023——上海梅奔场」精彩回顾 | https://ys.mihoyo.com/main/news/detail/29055 |
@@ -17,9 +20,6 @@
 | 「《原神》枫丹篇OST即将上线 」 | https://ys.mihoyo.com/main/news/detail/29050 |
 | 《原神》「流光拾遗之旅」——仙闻篇·顾绣 | https://ys.mihoyo.com/main/news/detail/29049 |
 |  中秋快乐｜「今人不见古时月，今月曾经照古人」 | https://ys.mihoyo.com/main/news/detail/29048 |
-| 微博《原神》4.1版本创作者激励计划现已开启 | https://ys.mihoyo.com/main/news/detail/29024 |
-| 《云·原神》网页版移动端现已开放！| 随时随地进入异想世界 | https://ys.mihoyo.com/main/news/detail/29023 |
-| 神里绫华生日快乐｜谢谢你一直给我寄信，向我诉说这些动人的故事。 | https://ys.mihoyo.com/main/news/detail/29022 |
 
 
 ## 米游社商品
