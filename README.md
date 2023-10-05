@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 「嘟嘟奇遇，轰轰开玩！」——「嘟嘟可轰轰奇遇记」活动贴士 | https://ys.mihoyo.com/main/news/detail/29062 |
 | 《原神》「尘星旅梦」网页活动壁纸展示-第一弹 | https://ys.mihoyo.com/main/news/detail/29061 |
 | 「嘟嘟可轰轰奇遇记」活动：趣味炸鱼挑战 | https://ys.mihoyo.com/main/news/detail/29060 |
 | 旅人的徜徉——《原神》枫丹音乐的幕后 | https://ys.mihoyo.com/main/news/detail/29059 |
@@ -19,7 +20,6 @@
 | 《原神》枫丹篇OST现已正式上线。 | https://ys.mihoyo.com/main/news/detail/29054 |
 | 「《原神》枫丹篇OST即将上线 」 | https://ys.mihoyo.com/main/news/detail/29050 |
 | 《原神》「流光拾遗之旅」——仙闻篇·顾绣 | https://ys.mihoyo.com/main/news/detail/29049 |
-|  中秋快乐｜「今人不见古时月，今月曾经照古人」 | https://ys.mihoyo.com/main/news/detail/29048 |
 
 
 ## 米游社商品
@@ -97,6 +97,13 @@
 | 215791797313419356364222347148 | 逆熵·虚数核心*5 | 0 | 2 | 1200 | [图](https://webstatic.mihoyo.com/upload/shop/2021/04/09/714c64b6547f2a1274b1524fddc7febb_2808239829919819812.png) |
 | 2021040912146 | 高级技能材料*5 | 0 | 1 | 1800 | [图](https://webstatic.mihoyo.com/upload/shop/2021/04/09/48752dc5ab70c818b6b72a6513c95f2f_5640911369522514077.png) |
 | 21579179504316812467643946757 | 体力药水*1 | 0 | 2 | 370 | [图](https://webstatic.mihoyo.com/upload/shop/2021/04/09/9ccf0f785763dad642281e90b1a925c7_1345306158854300132.png) |
+| 2023092711115 | 文字梗系列 主题折扇-北斗诛邪除凶去秧 | 20 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/09/27/e1a6fb8e44a2ea50963ead71c947470d_6300636358421863609.jpg) |
+| 2023092711399 | 桂月迎秋系列 立牌-布洛妮娅 | 20 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/09/27/c6ef8c28c4bf6d0a3fb59b97585d64e3_7033123569223939532.jpg) |
+| 2023092711153 | 桂月迎秋系列 立牌-芽衣 | 20 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/09/27/3c456a2c751a5068869a2c47774767dd_2736558051653870535.jpg) |
+| 2023092711625 | 爱莉希雅·粉色甜心小姐亚克力立牌 | 20 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/09/27/2ba63323289866efa37dacf8ea28af0e_9060508088274771445.jpg) |
+| 2023092711340 | 纯真梦歌系列亚克力收藏画 | 20 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/09/27/77c563d89736d90f15cd5482e3579b9c_7251017282989128168.jpg) |
+| 2023092711979 | 游戏CG系列明信片套组-6.3-6.5 | 20 | 1 | 13100 | [图](https://bbs-static.miyoushe.com/static/2023/09/27/ea48ebe8a809d0cb98fb3276e8276035_8794668516713619647.jpg) |
+| 2023092711347 | 游戏CG系列明信片套组-6.0-6.2 | 20 | 1 | 13100 | [图](https://bbs-static.miyoushe.com/static/2023/09/27/9c5ec5f9b919634cdc601a278d0153d7_1701980034944904592.jpg) |
 | 2023082311534 | 2022miYoSummer Q版软胶磁贴-崩坏3 | 0 | 1 | 4300 | [图](https://bbs-static.miyoushe.com/static/2023/08/23/543587943a30b203ce328920f8b010e0_3228929270985391465.jpg) |
 | 2023082311925 | 服装立绘系列 立牌-天元骑英 | 0 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/23/676e897a306b422b71cf346808cae330_4313315602718701232.jpg) |
 | 2023082311610 | 服装立绘系列 立牌-百鬼天暝 | 0 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/23/9393e6f6eaf318449ca307ba1729e143_6559972539855319631.jpg) |
