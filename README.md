@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 行秋生日快乐｜你说这个绝云椒椒？嘘！嘘！ | https://ys.mihoyo.com/main/news/detail/29106 |
 | 《原神》「尘星旅梦」网页活动壁纸展示-第三弹 | https://ys.mihoyo.com/main/news/detail/29069 |
 | 《原神》「尘星旅梦」网页活动壁纸展示-第二弹 | https://ys.mihoyo.com/main/news/detail/29063 |
 | 「嘟嘟奇遇，轰轰开玩！」——「嘟嘟可轰轰奇遇记」活动贴士 | https://ys.mihoyo.com/main/news/detail/29062 |
@@ -19,7 +20,6 @@
 | 「远寄佳音」——《原神》枫丹篇OST宣传H5正式上线 | https://ys.mihoyo.com/main/news/detail/29058 |
 | 《原神》过场动画-「为时尚早」 | https://ys.mihoyo.com/main/news/detail/29056 |
 | 「原神交响音乐会2023——上海梅奔场」精彩回顾 | https://ys.mihoyo.com/main/news/detail/29055 |
-| 《原神》枫丹篇OST现已正式上线。 | https://ys.mihoyo.com/main/news/detail/29054 |
 
 
 ## 米游社商品
