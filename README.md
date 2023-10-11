@@ -10,6 +10,8 @@
 
 | title | url |
 |:---:|:---:|
+| 「寂罪的密使」·莱欧斯利——「理论上来讲，完全不认识我的人会比较幸福。」 | https://ys.mihoyo.com/main/news/detail/29138 |
+| 《原神》莱欧斯利角色PV——「必要流程」 | https://ys.mihoyo.com/main/news/detail/29135 |
 | 「游水酝诗籍」玩法说明 | https://ys.mihoyo.com/main/news/detail/29134 |
 | 「游水酝诗籍 」活动：参与获得活动专属武器「法器·无垠蔚蓝之歌」 | https://ys.mihoyo.com/main/news/detail/29132 |
 | 行秋生日快乐｜你说这个绝云椒椒？嘘！嘘！ | https://ys.mihoyo.com/main/news/detail/29106 |
@@ -18,8 +20,6 @@
 | 「嘟嘟奇遇，轰轰开玩！」——「嘟嘟可轰轰奇遇记」活动贴士 | https://ys.mihoyo.com/main/news/detail/29062 |
 | 《原神》「尘星旅梦」网页活动壁纸展示-第一弹 | https://ys.mihoyo.com/main/news/detail/29061 |
 | 「嘟嘟可轰轰奇遇记」活动：趣味炸鱼挑战 | https://ys.mihoyo.com/main/news/detail/29060 |
-| 旅人的徜徉——《原神》枫丹音乐的幕后 | https://ys.mihoyo.com/main/news/detail/29059 |
-| 「远寄佳音」——《原神》枫丹篇OST宣传H5正式上线 | https://ys.mihoyo.com/main/news/detail/29058 |
 
 
 ## 米游社商品
@@ -183,6 +183,11 @@
 | 2023080315602 | 【创小摊】运费减7元优惠券 | 5000 | 0 | 1750 | [图](https://bbs-static.miyoushe.com/static/2023/08/03/a2a92f3c6b2014b123e54f953a0cea96_6783669599338469346.png) |
 | 2023080315559 | 【创小摊】实物周边满5.01元减5元优惠券 | 8000 | 0 | 1250 | [图](https://bbs-static.miyoushe.com/static/2023/08/03/d1de36d5410b0b57395f1a44baa7d825_6582645165538115346.jpg) |
 | 2023080315274 | 【创小摊】实物周边满60元减8元优惠券 | 3000 | 0 | 2000 | [图](https://bbs-static.miyoushe.com/static/2023/08/03/1ea4d31877f87df19ab2faa2f5f8c795_7334063888172602390.png) |
+| 2023100914104 | 【米游社】GameSir盖世小鸡 X2蓝牙版拉伸游戏手柄 | 5 | 1 | 73400 | [图](https://bbs-static.miyoushe.com/static/2023/10/09/ee0522a69707532f27b11a181d837403_8308300349604736236.JPG) |
+| 2023100914133 | 【米游社】小米 Air2 SE真无线蓝牙耳机 | 10 | 1 | 30000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/12/22/e3f6c0129cf245e9cc1ff417d582518d_9120783053330401060.jpg) |
+| 2023100911725 | 【米游社】心动滋味系列亚克力装饰画 | 15 | 1 | 11100 | [图](https://bbs-static.miyoushe.com/static/2023/10/09/7c5a2eb186bb763967e9826c75e30e89_5914644860665893098.JPG) |
+| 2023100911466 | 【米游社】miYoSummer 都市重构系列 Q版抱枕 | 15 | 1 | 13800 | [图](https://bbs-static.miyoushe.com/static/2023/06/27/163e51aa6507a53d983b751031852e2b_1687644664360006160.jpg) |
+| 2023100911190 | 【米游社】米游鸽姬毛绒按摩捶 | 15 | 1 | 11100 | [图](https://bbs-static.miyoushe.com/static/2023/10/09/a2c1c52552408632c8aff0f7b9c2810e_4205274625589240208.JPG) |
 | 2023091912956 | 【未定事件簿】莫弈生贺头像挂件「沐光偕愿」（30天） | 0 | 1 | 1000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/09/20/192602f2d60df9eb1405deb95e2ba075_951298184266685014.jpg) |
 | 2023021012469 | 【未定事件簿】「情诗」（永久） | 0 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/12/23/faba435917f41dfdce30440435a61cf6_5477568449308330917.jpg) |
 | 2023091912794 | 【未定事件簿】莫弈生贺头像挂件「岁许佳期」（30天） | 0 | 1 | 1000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/09/20/3c664303163539fa94e87f3377abdb9f_6381186680513547900.jpg) |
