@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 「游水酝诗籍」玩法说明 | https://ys.mihoyo.com/main/news/detail/29134 |
 | 「游水酝诗籍 」活动：参与获得活动专属武器「法器·无垠蔚蓝之歌」 | https://ys.mihoyo.com/main/news/detail/29132 |
 | 行秋生日快乐｜你说这个绝云椒椒？嘘！嘘！ | https://ys.mihoyo.com/main/news/detail/29106 |
 | 《原神》「尘星旅梦」网页活动壁纸展示-第三弹 | https://ys.mihoyo.com/main/news/detail/29069 |
@@ -19,7 +20,6 @@
 | 「嘟嘟可轰轰奇遇记」活动：趣味炸鱼挑战 | https://ys.mihoyo.com/main/news/detail/29060 |
 | 旅人的徜徉——《原神》枫丹音乐的幕后 | https://ys.mihoyo.com/main/news/detail/29059 |
 | 「远寄佳音」——《原神》枫丹篇OST宣传H5正式上线 | https://ys.mihoyo.com/main/news/detail/29058 |
-| 《原神》过场动画-「为时尚早」 | https://ys.mihoyo.com/main/news/detail/29056 |
 
 
 ## 米游社商品
