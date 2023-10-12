@@ -10,6 +10,8 @@
 
 | title | url |
 |:---:|:---:|
+| 4.1版本「向深水中的晨星」全新武器说明第二期 | https://ys.mihoyo.com/main/news/detail/29141 |
+| 「机关轰鸣中」——《原神》新角色：莱欧斯利分享H5正式上线。 | https://ys.mihoyo.com/main/news/detail/29140 |
 | 「寂罪的密使」·莱欧斯利——「理论上来讲，完全不认识我的人会比较幸福。」 | https://ys.mihoyo.com/main/news/detail/29138 |
 | 《原神》莱欧斯利角色PV——「必要流程」 | https://ys.mihoyo.com/main/news/detail/29135 |
 | 「游水酝诗籍」玩法说明 | https://ys.mihoyo.com/main/news/detail/29134 |
@@ -18,8 +20,6 @@
 | 《原神》「尘星旅梦」网页活动壁纸展示-第三弹 | https://ys.mihoyo.com/main/news/detail/29069 |
 | 《原神》「尘星旅梦」网页活动壁纸展示-第二弹 | https://ys.mihoyo.com/main/news/detail/29063 |
 | 「嘟嘟奇遇，轰轰开玩！」——「嘟嘟可轰轰奇遇记」活动贴士 | https://ys.mihoyo.com/main/news/detail/29062 |
-| 《原神》「尘星旅梦」网页活动壁纸展示-第一弹 | https://ys.mihoyo.com/main/news/detail/29061 |
-| 「嘟嘟可轰轰奇遇记」活动：趣味炸鱼挑战 | https://ys.mihoyo.com/main/news/detail/29060 |
 
 
 ## 米游社商品
