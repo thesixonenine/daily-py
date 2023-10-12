@@ -90,9 +90,6 @@
 | 2023100911773 | 发车倒计时系列 马口铁徽章-卡芙卡 | 10 | 1 | 3500 | [图](https://bbs-static.miyoushe.com/static/2023/10/09/94d2a581a37031f1eaac100f6fd31f5d_7067101419617661875.jpg) |
 | 2023100911980 | 发车倒计时系列 流沙挂件-布洛妮娅 | 10 | 1 | 8800 | [图](https://bbs-static.miyoushe.com/static/2023/10/09/7e078a9afaeb76ab3d0c5b59906ec669_3211734936601906442.jpg) |
 | 2023100911125 | 角色立绘系列 立牌-卢卡 | 10 | 1 | 13400 | [图](https://bbs-static.miyoushe.com/static/2023/10/09/0c4b04ba22f2685d3a4026722b7c386e_7536965412494044902.jpg) |
-| 2023082312221 | 星琼*60 | 0 | 1 | 1800 | [图](https://bbs-static.miyoushe.com/static/2023/04/17/4bfddac07bede076d69b6332f5e55882_543536464151551139.jpg) |
-| 2023082312320 | 漫游指南*5 | 0 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/04/18/e2f396d2c8d71b9a35cd00d39073a4e0_3488777836284613284.jpg) |
-| 2023082312382 | 信用点*50000 | 0 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/04/18/1486da72d8a3de6082168439a0034bc7_8695790455774052628.jpg) |
 | 2023082311492 | 角色立绘系列 亚克力挂件-卡芙卡 | 0 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2023/08/23/165dac12a4fadd9a011c48926924fa27_6249103336492528712.jpg) |
 | 2023082311231 | 光锥系列 厚亚克力挂件-如泥酣眠 | 0 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/23/edf896b9d170ab7fd7947810b5e47335_8693397011790545243.jpg) |
 | 2023082311545 | 光锥系列 亚克力色纸-只需等待 | 0 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/23/88015b2ffa6321852162c62f04cfb74e_7607178229578609246.jpg) |
