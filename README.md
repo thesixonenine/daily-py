@@ -162,6 +162,9 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| 2023101311509 | 琪亚娜星光乐耀镭射立牌 | 25 | 1 | 11000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/12/26/2debcdedca53f8689f7439a42b2f46f5_4159131083373789447.jpg) |
+| 2023101311370 | CG大鼠标垫-冬日信函 | 25 | 1 | 13800 | [图](https://bbs-static.miyoushe.com/static/2023/06/27/1d88e108f10b715b262b4e9c56cfcdda_3435684959973850584.jpg) |
+| 2023101311759 | 梦想通路抱枕 | 25 | 1 | 13800 | [图](https://webstatic.mihoyo.com/upload/shop/2021/09/09/05a477cd855efd1894e0985231082054_2844981478307861184.png) |
 | 2021063012200 | 碎裂晓残月*1 | 0 | 10 | 1620 | [图](https://webstatic.mihoyo.com/upload/shop/2021/06/30/d8278c3ecdf6d15a3e737325d6a70077_1781834727820640109.png) |
 | 2021063012835 | 碎裂三叶青*1 | 0 | 10 | 1620 | [图](https://webstatic.mihoyo.com/upload/shop/2021/06/30/68bfd2dee7eaa421886f9ef5d23b470d_7787909581169629138.png) |
 | 2021063012515 | 源初虹石*1 | 0 | 2 | 2160 | [图](https://webstatic.mihoyo.com/upload/shop/2021/06/30/969ba1a37464eeccf2b8ca2b61c9c594_7589959260977616587.png) |
@@ -194,6 +197,8 @@
 | 2023080315602 | 【创小摊】运费减7元优惠券 | 5000 | 0 | 1750 | [图](https://bbs-static.miyoushe.com/static/2023/08/03/a2a92f3c6b2014b123e54f953a0cea96_6783669599338469346.png) |
 | 2023080315559 | 【创小摊】实物周边满5.01元减5元优惠券 | 8000 | 0 | 1250 | [图](https://bbs-static.miyoushe.com/static/2023/08/03/d1de36d5410b0b57395f1a44baa7d825_6582645165538115346.jpg) |
 | 2023080315274 | 【创小摊】实物周边满60元减8元优惠券 | 3000 | 0 | 2000 | [图](https://bbs-static.miyoushe.com/static/2023/08/03/1ea4d31877f87df19ab2faa2f5f8c795_7334063888172602390.png) |
+| 2023101312810 | 【崩坏学园2】「新长空开学季」（永久） | 0 | 1 | 2888 | [图](https://bbs-static.miyoushe.com/static/2023/10/13/bf9abe2a7b4a5fe0dd395e0084bca255_306557785620946960.jpg) |
+| 2023101312535 | 【崩坏学园2】「新长空开学季」（30天） | 0 | 1 | 888 | [图](https://bbs-static.miyoushe.com/static/2023/10/13/bf9abe2a7b4a5fe0dd395e0084bca255_306557785620946960.jpg) |
 | 2023100914104 | 【米游社】GameSir盖世小鸡 X2蓝牙版拉伸游戏手柄 | 5 | 1 | 73400 | [图](https://bbs-static.miyoushe.com/static/2023/10/09/ee0522a69707532f27b11a181d837403_8308300349604736236.JPG) |
 | 2023100914133 | 【米游社】小米 Air2 SE真无线蓝牙耳机 | 10 | 1 | 30000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/12/22/e3f6c0129cf245e9cc1ff417d582518d_9120783053330401060.jpg) |
 | 2023100911725 | 【米游社】心动滋味系列亚克力装饰画 | 15 | 1 | 11100 | [图](https://bbs-static.miyoushe.com/static/2023/10/09/7c5a2eb186bb763967e9826c75e30e89_5914644860665893098.JPG) |
