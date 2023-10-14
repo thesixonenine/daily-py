@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》「旅行三周年手札」壁纸展示 | https://ys.mihoyo.com/main/news/detail/29167 |
 | 「守狱犬之章」传说任务说明 | https://ys.mihoyo.com/main/news/detail/29166 |
 | 「向深水中的晨星」4.1版本活动速递第二期 | https://ys.mihoyo.com/main/news/detail/29165 |
 | 「神铸赋形」祈愿：「法器·金流监督」「弓·终末嗟叹之诗」概率UP！ | https://ys.mihoyo.com/main/news/detail/29164 |
@@ -19,7 +20,6 @@
 | 「机关轰鸣中」——《原神》新角色：莱欧斯利分享H5正式上线。 | https://ys.mihoyo.com/main/news/detail/29140 |
 | 「寂罪的密使」·莱欧斯利——「理论上来讲，完全不认识我的人会比较幸福。」 | https://ys.mihoyo.com/main/news/detail/29138 |
 | 《原神》莱欧斯利角色PV——「必要流程」 | https://ys.mihoyo.com/main/news/detail/29135 |
-| 「游水酝诗籍」玩法说明 | https://ys.mihoyo.com/main/news/detail/29134 |
 
 
 ## 米游社商品
