@@ -10,6 +10,9 @@
 
 | title | url |
 |:---:|:---:|
+| 「星之归还」系统维护说明 | https://ys.mihoyo.com/main/news/detail/29180 |
+| 《原神》角色演示-「莱欧斯利：即兴发挥」 | https://ys.mihoyo.com/main/news/detail/29179 |
+| 辛焱生日快乐｜快到前排来，我给你准备好了亲友专属特等席 | https://ys.mihoyo.com/main/news/detail/29178 |
 | 《原神》「旅行三周年手札」壁纸展示 | https://ys.mihoyo.com/main/news/detail/29167 |
 | 「守狱犬之章」传说任务说明 | https://ys.mihoyo.com/main/news/detail/29166 |
 | 「向深水中的晨星」4.1版本活动速递第二期 | https://ys.mihoyo.com/main/news/detail/29165 |
@@ -17,9 +20,6 @@
 | 「杯装之诗」祈愿：「风色诗人·温迪(风)」概率UP！ | https://ys.mihoyo.com/main/news/detail/29163 |
 | 「劫中泛滥」祈愿：「寂罪的密使·莱欧斯利(冰)」概率UP！ | https://ys.mihoyo.com/main/news/detail/29162 |
 | 4.1版本「向深水中的晨星」全新武器说明第二期 | https://ys.mihoyo.com/main/news/detail/29141 |
-| 「机关轰鸣中」——《原神》新角色：莱欧斯利分享H5正式上线。 | https://ys.mihoyo.com/main/news/detail/29140 |
-| 「寂罪的密使」·莱欧斯利——「理论上来讲，完全不认识我的人会比较幸福。」 | https://ys.mihoyo.com/main/news/detail/29138 |
-| 《原神》莱欧斯利角色PV——「必要流程」 | https://ys.mihoyo.com/main/news/detail/29135 |
 
 
 ## 米游社商品
