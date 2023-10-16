@@ -184,8 +184,6 @@
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 2023092712130 | 【原神】三周年头像挂件「共赴盛会」（永久） | 0 | 1 | 1 | [图](https://bbs-static.miyoushe.com/static/2023/09/27/9d3bf4a7e79f3c7ede11aad47b50699d_7803866228627337094.jpg) |
-| 2023092712350 | 【未定事件簿】头像挂件「最后的龙息」（永久） | 0 | 1 | 3000 | [图](https://bbs-static.miyoushe.com/static/2023/09/27/ca65ada5e68ab782de1d398dfb7a6c12_7972700608730759116.jpg) |
-| 2023092712737 | 【未定事件簿】头像挂件「最后的龙息」（30天） | 0 | 1 | 1000 | [图](https://bbs-static.miyoushe.com/static/2023/09/27/ca65ada5e68ab782de1d398dfb7a6c12_2521279632924333406.jpg) |
 | 2023080315882 | 【创小摊】运费减3元优惠券 | 12000 | 0 | 750 | [图](https://bbs-static.miyoushe.com/static/2023/08/03/1bf2e3c6083c432a4c9c5ca1e13a367b_4551099986920077267.png) |
 | 2023080315602 | 【创小摊】运费减7元优惠券 | 5000 | 0 | 1750 | [图](https://bbs-static.miyoushe.com/static/2023/08/03/a2a92f3c6b2014b123e54f953a0cea96_6783669599338469346.png) |
 | 2023080315559 | 【创小摊】实物周边满5.01元减5元优惠券 | 8000 | 0 | 1250 | [图](https://bbs-static.miyoushe.com/static/2023/08/03/d1de36d5410b0b57395f1a44baa7d825_6582645165538115346.jpg) |
