@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》拾枝杂谈-「莱欧斯利：今时新规」 | https://ys.mihoyo.com/main/news/detail/29184 |
 | 4.1版本超话签到活动第二期 | https://ys.mihoyo.com/main/news/detail/29183 |
 | 「星之归还」系统维护说明 | https://ys.mihoyo.com/main/news/detail/29180 |
 | 《原神》角色演示-「莱欧斯利：即兴发挥」 | https://ys.mihoyo.com/main/news/detail/29179 |
@@ -19,7 +20,6 @@
 | 「向深水中的晨星」4.1版本活动速递第二期 | https://ys.mihoyo.com/main/news/detail/29165 |
 | 「神铸赋形」祈愿：「法器·金流监督」「弓·终末嗟叹之诗」概率UP！ | https://ys.mihoyo.com/main/news/detail/29164 |
 | 「杯装之诗」祈愿：「风色诗人·温迪(风)」概率UP！ | https://ys.mihoyo.com/main/news/detail/29163 |
-| 「劫中泛滥」祈愿：「寂罪的密使·莱欧斯利(冰)」概率UP！ | https://ys.mihoyo.com/main/news/detail/29162 |
 
 
 ## 米游社商品
