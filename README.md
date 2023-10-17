@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 4.1版本超话签到活动第二期 | https://ys.mihoyo.com/main/news/detail/29183 |
 | 「星之归还」系统维护说明 | https://ys.mihoyo.com/main/news/detail/29180 |
 | 《原神》角色演示-「莱欧斯利：即兴发挥」 | https://ys.mihoyo.com/main/news/detail/29179 |
 | 辛焱生日快乐｜快到前排来，我给你准备好了亲友专属特等席 | https://ys.mihoyo.com/main/news/detail/29178 |
@@ -19,7 +20,6 @@
 | 「神铸赋形」祈愿：「法器·金流监督」「弓·终末嗟叹之诗」概率UP！ | https://ys.mihoyo.com/main/news/detail/29164 |
 | 「杯装之诗」祈愿：「风色诗人·温迪(风)」概率UP！ | https://ys.mihoyo.com/main/news/detail/29163 |
 | 「劫中泛滥」祈愿：「寂罪的密使·莱欧斯利(冰)」概率UP！ | https://ys.mihoyo.com/main/news/detail/29162 |
-| 4.1版本「向深水中的晨星」全新武器说明第二期 | https://ys.mihoyo.com/main/news/detail/29141 |
 
 
 ## 米游社商品
