@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 「人生的波峰与波谷」玩法小贴士 | https://ys.mihoyo.com/main/news/detail/29195 |
 | 「人生的波峰与波谷」活动：超高压冲击器测试 | https://ys.mihoyo.com/main/news/detail/29194 |
 | 「七圣召唤」热斗模式：全方位后援 | https://ys.mihoyo.com/main/news/detail/29193 |
 | 《原神》4.1版本表情包「派蒙的画作第27弹」现已上线 | https://ys.mihoyo.com/main/news/detail/29192 |
@@ -19,7 +20,6 @@
 | 《原神》拾枝杂谈-「莱欧斯利：今时新规」 | https://ys.mihoyo.com/main/news/detail/29184 |
 | 4.1版本超话签到活动第二期 | https://ys.mihoyo.com/main/news/detail/29183 |
 | 「星之归还」系统维护说明 | https://ys.mihoyo.com/main/news/detail/29180 |
-| 《原神》角色演示-「莱欧斯利：即兴发挥」 | https://ys.mihoyo.com/main/news/detail/29179 |
 
 
 ## 米游社商品
