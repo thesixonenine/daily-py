@@ -155,9 +155,9 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 2023101311509 | 琪亚娜星光乐耀镭射立牌 | 25 | 1 | 11000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/12/26/2debcdedca53f8689f7439a42b2f46f5_4159131083373789447.jpg) |
-| 2023101311370 | CG大鼠标垫-冬日信函 | 25 | 1 | 13800 | [图](https://bbs-static.miyoushe.com/static/2023/06/27/1d88e108f10b715b262b4e9c56cfcdda_3435684959973850584.jpg) |
-| 2023101311759 | 梦想通路抱枕 | 25 | 1 | 13800 | [图](https://webstatic.mihoyo.com/upload/shop/2021/09/09/05a477cd855efd1894e0985231082054_2844981478307861184.png) |
+| 2023101311509 | 琪亚娜星光乐耀镭射立牌 | 0 | 1 | 11000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/12/26/2debcdedca53f8689f7439a42b2f46f5_4159131083373789447.jpg) |
+| 2023101311370 | CG大鼠标垫-冬日信函 | 0 | 1 | 13800 | [图](https://bbs-static.miyoushe.com/static/2023/06/27/1d88e108f10b715b262b4e9c56cfcdda_3435684959973850584.jpg) |
+| 2023101311759 | 梦想通路抱枕 | 0 | 1 | 13800 | [图](https://webstatic.mihoyo.com/upload/shop/2021/09/09/05a477cd855efd1894e0985231082054_2844981478307861184.png) |
 | 2021063012200 | 碎裂晓残月*1 | 0 | 10 | 1620 | [图](https://webstatic.mihoyo.com/upload/shop/2021/06/30/d8278c3ecdf6d15a3e737325d6a70077_1781834727820640109.png) |
 | 2021063012835 | 碎裂三叶青*1 | 0 | 10 | 1620 | [图](https://webstatic.mihoyo.com/upload/shop/2021/06/30/68bfd2dee7eaa421886f9ef5d23b470d_7787909581169629138.png) |
 | 2021063012515 | 源初虹石*1 | 0 | 2 | 2160 | [图](https://webstatic.mihoyo.com/upload/shop/2021/06/30/969ba1a37464eeccf2b8ca2b61c9c594_7589959260977616587.png) |
