@@ -29,8 +29,6 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 2023092012371 | 原石*60 | 0 | 1 | 1800 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/dab394b1516c58a00b91f8dba9756110_8904801501338765557.png) |
-| 2023092012397 | 原石*150 | 0 | 1 | 4500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/dab394b1516c58a00b91f8dba9756110_8904801501338765557.png) |
 | 2023092012218 | 大英雄的经验*5 | 4000 | 1 | 1500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/468097d8c7fb608f3a23d057d871e48a_7303233958715687443.png) |
 | 2023092012398 | 摩拉*50000 | 4000 | 1 | 1500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/d63798a398c18de7f3ce23b7e1dcd02f_3159879231696238340.png) |
 | 2023092011466 | 2022miYoSummer Q版软胶磁贴 | 20 | 1 | 4400 | [图](https://bbs-static.miyoushe.com/static/2023/09/20/51b3a6826da8ba9026b1d7066e67d789_3456489672721689396.JPG) |
@@ -46,12 +44,7 @@
 | 2023092011167 | 旅行者主题系列 人物亚克力立牌 旅行者男-空 | 10 | 1 | 11500 | [图](https://webstatic.mihoyo.com/upload/shop/2023/02/23/6ec8560c632568587698213af089f733_8359159772963319706.jpg) |
 | 2023092011778 | 旅行者主题系列 人物亚克力立牌 旅行者女-荧 | 10 | 1 | 11500 | [图](https://webstatic.mihoyo.com/upload/shop/2023/02/23/247af27e6e2115d5a0fbbbbbb8f4b795_7475772646023177218.jpg) |
 | 2023092011707 | 旅行者主题系列 人物亚克力立牌-派蒙 | 10 | 1 | 11500 | [图](https://webstatic.mihoyo.com/upload/shop/2023/02/23/08649183ad904a87626ec0c4e325957c_6341825927693623369.jpg) |
-| 2023091511414 | 【派蒙美味料理】神铸赋形系列 武器金属挂件-天空之翼 | 0 | 1 | 9000 | [图](https://bbs-static.miyoushe.com/static/2023/09/15/b52bd9e4e6cc250921772eec9ba939c1_4695128908931489113.jpg) |
-| 2023091511358 | 【派蒙美味料理】原神主题系列 鼠标垫-花海双星 | 0 | 1 | 15000 | [图](https://webstatic.mihoyo.com/upload/shop/2021/04/07/6aeb19f7ca67372e9e37121ee7caf214_5396391518075720393.png) |
 | 2023091511335 | 【派蒙美味料理】《风与牧歌之城》OST礼盒 | 0 | 1 | 98000 | [图](https://bbs-static.miyoushe.com/static/2023/09/15/64acf89aa54a0dfbed2aa64bd005d081_6186469798923670614.jpg) |
-| 2023091511884 | 【派蒙美味料理】诡奇变装主题系列 笔架摆件-达达利亚 | 0 | 1 | 11000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/11/30/c0b18004754b03773a073eedbe4c5fa1_3805169739345099913.jpg) |
-| 2023091511998 | 【派蒙美味料理】诡奇变装主题系列 笔架摆件-魈 | 0 | 1 | 11000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/11/30/c0b33af15c2f97db75edab47922e05c8_5542256094904705973.jpg) |
-| 2023091511164 | 【派蒙美味料理】诡奇变装主题系列 笔架摆件-胡桃 | 0 | 1 | 11000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/11/30/f9c23b5555994bf61a4d52f249b6b909_2602521320571434256.jpg) |
 | 2023091511796 | 【派蒙美味料理】捣蛋派对主题系列 拼图-温迪 | 0 | 1 | 12000 | [图](https://webstatic.mihoyo.com/upload/shop/2021/12/03/eefebd6de376bbe34f4270da2828515f_3068724649515738786.jpg) |
 | 2023091511360 | 【派蒙美味料理】捣蛋派对主题系列 拼图-可莉 | 0 | 1 | 12000 | [图](https://webstatic.mihoyo.com/upload/shop/2021/12/03/c820c9fb472797061a5dda7ddee437ad_8051847927156453662.jpg) |
 | 2023091511200 | 【派蒙美味料理】捣蛋派对主题系列 拼图-凯亚 | 0 | 1 | 12000 | [图](https://webstatic.mihoyo.com/upload/shop/2021/12/03/73ed29d777c4d040a993915eea923616_7984822735240182117.jpg) |
@@ -64,10 +57,17 @@
 | 2023091411588 | 【派蒙美味料理】捣蛋派对主题系列 场景小立牌-可莉 | 0 | 1 | 12000 | [图](https://webstatic.mihoyo.com/upload/shop/2021/12/30/8c8802aa6a08f2f9739d5b888504dbb3_6313552815713794482.jpg) |
 | 2023091411969 | 【派蒙美味料理】捣蛋派对主题系列 贴纸套 | 0 | 1 | 3600 | [图](https://webstatic.mihoyo.com/upload/shop/2022/09/16/d81b06740f5d2dd906d14b6110d8838d_2338045438817794063.jpg) |
 | 2023101711683 | 【派蒙美味料理】蒙德城主题系列 人物亚克力立牌-菲谢尔 | 0 | 1 | 11500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/11/04/2e265121db8cba826c4e11bd68da5f6c_3125963914042468386.jpg) |
+| 2023092012397 | 原石*150 | 0 | 1 | 4500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/dab394b1516c58a00b91f8dba9756110_8904801501338765557.png) |
+| 2023092012371 | 原石*60 | 0 | 1 | 1800 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/dab394b1516c58a00b91f8dba9756110_8904801501338765557.png) |
+| 2023091511414 | 【派蒙美味料理】神铸赋形系列 武器金属挂件-天空之翼 | 0 | 1 | 9000 | [图](https://bbs-static.miyoushe.com/static/2023/09/15/b52bd9e4e6cc250921772eec9ba939c1_4695128908931489113.jpg) |
 | 2023091511455 | 【派蒙美味料理】神铸赋形系列 武器金属挂件-狼的末路 | 0 | 1 | 9000 | [图](https://bbs-static.miyoushe.com/static/2023/09/15/e94788e91138167586d8ebf1fc19eb8d_1919547435419692100.jpg) |
 | 2023091511487 | 【派蒙美味料理】尘世闲游系列 仙祖法蜕 | 0 | 1 | 34000 | [图](https://bbs-static.miyoushe.com/static/2023/09/15/0f2ccaa69d3d3d39609f6519163ff80d_7400836915042286920.jpg) |
+| 2023091511358 | 【派蒙美味料理】原神主题系列 鼠标垫-花海双星 | 0 | 1 | 15000 | [图](https://webstatic.mihoyo.com/upload/shop/2021/04/07/6aeb19f7ca67372e9e37121ee7caf214_5396391518075720393.png) |
 | 2023091511417 | 【派蒙美味料理】原神主题系列 鼠标垫-飞彩镌流年 | 0 | 1 | 13800 | [图](https://webstatic.mihoyo.com/upload/shop/2022/08/17/b07181670188dcf8e661a779ea9dfce1_7540875912539627190.jpg) |
 | 2023091511516 | 【派蒙美味料理】群玉掩月纸雕灯 凝光收藏装饰 | 0 | 1 | 34000 | [图](https://webstatic.mihoyo.com/upload/shop/2021/03/03/5d002150390f39ea33ebef9ef06778eb_3349498275512716720.png) |
+| 2023091511884 | 【派蒙美味料理】诡奇变装主题系列 笔架摆件-达达利亚 | 0 | 1 | 11000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/11/30/c0b18004754b03773a073eedbe4c5fa1_3805169739345099913.jpg) |
+| 2023091511998 | 【派蒙美味料理】诡奇变装主题系列 笔架摆件-魈 | 0 | 1 | 11000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/11/30/c0b33af15c2f97db75edab47922e05c8_5542256094904705973.jpg) |
+| 2023091511164 | 【派蒙美味料理】诡奇变装主题系列 笔架摆件-胡桃 | 0 | 1 | 11000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/11/30/f9c23b5555994bf61a4d52f249b6b909_2602521320571434256.jpg) |
 | 2023091411528 | 【派蒙美味料理】Q版人物系列 卡套-魈 | 0 | 1 | 13400 | [图](https://bbs-static.miyoushe.com/static/2023/09/14/99ee450b6fad21c96db3fc64b742d5ac_6951010663616341432.jpg) |
 
 
