@@ -47,7 +47,6 @@
 | 2023091511335 | 【派蒙美味料理】《风与牧歌之城》OST礼盒 | 0 | 1 | 98000 | [图](https://bbs-static.miyoushe.com/static/2023/09/15/64acf89aa54a0dfbed2aa64bd005d081_6186469798923670614.jpg) |
 | 2023091511200 | 【派蒙美味料理】捣蛋派对主题系列 拼图-凯亚 | 0 | 1 | 12000 | [图](https://webstatic.mihoyo.com/upload/shop/2021/12/03/73ed29d777c4d040a993915eea923616_7984822735240182117.jpg) |
 | 2023091511643 | 【派蒙美味料理】捣蛋派对主题系列 金属胸针-温迪 | 0 | 1 | 12000 | [图](https://webstatic.mihoyo.com/upload/shop/2021/12/31/8ebdd3dafb24b20ff82a616e3639bacc_323313987199835573.jpg) |
-| 2023091511323 | 【派蒙美味料理】捣蛋派对主题系列 金属胸针-可莉 | 0 | 1 | 12000 | [图](https://webstatic.mihoyo.com/upload/shop/2021/12/31/effcf28709437179c4de6d39bc9656dc_5776204703374495719.jpg) |
 | 2023091511640 | 【派蒙美味料理】捣蛋派对主题系列 金属胸针-凯亚 | 0 | 1 | 12000 | [图](https://webstatic.mihoyo.com/upload/shop/2021/12/31/303ceec2d5680a6ddc4bd1e2a8c81f39_7828594765559197117.jpg) |
 | 2023091411796 | 【派蒙美味料理】捣蛋派对主题系列 场景小立牌-菲谢尔 | 0 | 1 | 12000 | [图](https://webstatic.mihoyo.com/upload/shop/2021/12/30/50705be4720d06e3ecc5d9db97fdb63f_401965965396655906.jpg) |
 | 2023091411819 | 【派蒙美味料理】捣蛋派对主题系列 场景小立牌-温迪 | 0 | 1 | 12000 | [图](https://webstatic.mihoyo.com/upload/shop/2021/12/30/f806e69ef5b0b35512fc51160272fb52_3184528574146570006.jpg) |
@@ -67,6 +66,7 @@
 | 2023091511164 | 【派蒙美味料理】诡奇变装主题系列 笔架摆件-胡桃 | 0 | 1 | 11000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/11/30/f9c23b5555994bf61a4d52f249b6b909_2602521320571434256.jpg) |
 | 2023091511796 | 【派蒙美味料理】捣蛋派对主题系列 拼图-温迪 | 0 | 1 | 12000 | [图](https://webstatic.mihoyo.com/upload/shop/2021/12/03/eefebd6de376bbe34f4270da2828515f_3068724649515738786.jpg) |
 | 2023091511360 | 【派蒙美味料理】捣蛋派对主题系列 拼图-可莉 | 0 | 1 | 12000 | [图](https://webstatic.mihoyo.com/upload/shop/2021/12/03/c820c9fb472797061a5dda7ddee437ad_8051847927156453662.jpg) |
+| 2023091511323 | 【派蒙美味料理】捣蛋派对主题系列 金属胸针-可莉 | 0 | 1 | 12000 | [图](https://webstatic.mihoyo.com/upload/shop/2021/12/31/effcf28709437179c4de6d39bc9656dc_5776204703374495719.jpg) |
 | 2023091411969 | 【派蒙美味料理】捣蛋派对主题系列 贴纸套 | 0 | 1 | 3600 | [图](https://webstatic.mihoyo.com/upload/shop/2022/09/16/d81b06740f5d2dd906d14b6110d8838d_2338045438817794063.jpg) |
 | 2023091411528 | 【派蒙美味料理】Q版人物系列 卡套-魈 | 0 | 1 | 13400 | [图](https://bbs-static.miyoushe.com/static/2023/09/14/99ee450b6fad21c96db3fc64b742d5ac_6951010663616341432.jpg) |
 
