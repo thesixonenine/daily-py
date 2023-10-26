@@ -51,7 +51,6 @@
 | 2023091411796 | 【派蒙美味料理】捣蛋派对主题系列 场景小立牌-菲谢尔 | 0 | 1 | 12000 | [图](https://webstatic.mihoyo.com/upload/shop/2021/12/30/50705be4720d06e3ecc5d9db97fdb63f_401965965396655906.jpg) |
 | 2023091411819 | 【派蒙美味料理】捣蛋派对主题系列 场景小立牌-温迪 | 0 | 1 | 12000 | [图](https://webstatic.mihoyo.com/upload/shop/2021/12/30/f806e69ef5b0b35512fc51160272fb52_3184528574146570006.jpg) |
 | 2023091411746 | 【派蒙美味料理】捣蛋派对主题系列 场景小立牌-凯亚 | 0 | 1 | 12000 | [图](https://webstatic.mihoyo.com/upload/shop/2021/12/30/3a53fc017a9078db21881c1dddfad186_4194811940458028008.jpg) |
-| 2023091411588 | 【派蒙美味料理】捣蛋派对主题系列 场景小立牌-可莉 | 0 | 1 | 12000 | [图](https://webstatic.mihoyo.com/upload/shop/2021/12/30/8c8802aa6a08f2f9739d5b888504dbb3_6313552815713794482.jpg) |
 | 2023101711683 | 【派蒙美味料理】蒙德城主题系列 人物亚克力立牌-菲谢尔 | 0 | 1 | 11500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/11/04/2e265121db8cba826c4e11bd68da5f6c_3125963914042468386.jpg) |
 | 2023092012397 | 原石*150 | 0 | 1 | 4500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/dab394b1516c58a00b91f8dba9756110_8904801501338765557.png) |
 | 2023092012371 | 原石*60 | 0 | 1 | 1800 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/dab394b1516c58a00b91f8dba9756110_8904801501338765557.png) |
@@ -67,6 +66,7 @@
 | 2023091511796 | 【派蒙美味料理】捣蛋派对主题系列 拼图-温迪 | 0 | 1 | 12000 | [图](https://webstatic.mihoyo.com/upload/shop/2021/12/03/eefebd6de376bbe34f4270da2828515f_3068724649515738786.jpg) |
 | 2023091511360 | 【派蒙美味料理】捣蛋派对主题系列 拼图-可莉 | 0 | 1 | 12000 | [图](https://webstatic.mihoyo.com/upload/shop/2021/12/03/c820c9fb472797061a5dda7ddee437ad_8051847927156453662.jpg) |
 | 2023091511323 | 【派蒙美味料理】捣蛋派对主题系列 金属胸针-可莉 | 0 | 1 | 12000 | [图](https://webstatic.mihoyo.com/upload/shop/2021/12/31/effcf28709437179c4de6d39bc9656dc_5776204703374495719.jpg) |
+| 2023091411588 | 【派蒙美味料理】捣蛋派对主题系列 场景小立牌-可莉 | 0 | 1 | 12000 | [图](https://webstatic.mihoyo.com/upload/shop/2021/12/30/8c8802aa6a08f2f9739d5b888504dbb3_6313552815713794482.jpg) |
 | 2023091411969 | 【派蒙美味料理】捣蛋派对主题系列 贴纸套 | 0 | 1 | 3600 | [图](https://webstatic.mihoyo.com/upload/shop/2022/09/16/d81b06740f5d2dd906d14b6110d8838d_2338045438817794063.jpg) |
 | 2023091411528 | 【派蒙美味料理】Q版人物系列 卡套-魈 | 0 | 1 | 13400 | [图](https://bbs-static.miyoushe.com/static/2023/09/14/99ee450b6fad21c96db3fc64b742d5ac_6951010663616341432.jpg) |
 
@@ -190,12 +190,12 @@
 | 2023080315274 | 【创小摊】实物周边满60元减8元优惠券 | 3000 | 0 | 2000 | [图](https://bbs-static.miyoushe.com/static/2023/08/03/1ea4d31877f87df19ab2faa2f5f8c795_7334063888172602390.png) |
 | 2023101312810 | 【崩坏学园2】「新长空开学季」（永久） | 0 | 1 | 2888 | [图](https://bbs-static.miyoushe.com/static/2023/10/13/bf9abe2a7b4a5fe0dd395e0084bca255_306557785620946960.jpg) |
 | 2023101312535 | 【崩坏学园2】「新长空开学季」（30天） | 0 | 1 | 888 | [图](https://bbs-static.miyoushe.com/static/2023/10/13/bf9abe2a7b4a5fe0dd395e0084bca255_306557785620946960.jpg) |
+| 2023021012469 | 【未定事件簿】「情诗」（永久） | 0 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/12/23/faba435917f41dfdce30440435a61cf6_5477568449308330917.jpg) |
 | 2023100914104 | 【米游社】GameSir盖世小鸡 X2蓝牙版拉伸游戏手柄 | 0 | 1 | 73400 | [图](https://bbs-static.miyoushe.com/static/2023/10/09/ee0522a69707532f27b11a181d837403_8308300349604736236.JPG) |
 | 2023100914133 | 【米游社】小米 Air2 SE真无线蓝牙耳机 | 0 | 1 | 30000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/12/22/e3f6c0129cf245e9cc1ff417d582518d_9120783053330401060.jpg) |
 | 2023100911725 | 【米游社】心动滋味系列亚克力装饰画 | 0 | 1 | 11100 | [图](https://bbs-static.miyoushe.com/static/2023/10/09/7c5a2eb186bb763967e9826c75e30e89_5914644860665893098.JPG) |
 | 2023100911466 | 【米游社】miYoSummer 都市重构系列 Q版抱枕 | 0 | 1 | 13800 | [图](https://bbs-static.miyoushe.com/static/2023/06/27/163e51aa6507a53d983b751031852e2b_1687644664360006160.jpg) |
 | 2023100911190 | 【米游社】米游鸽姬毛绒按摩捶 | 0 | 1 | 11100 | [图](https://bbs-static.miyoushe.com/static/2023/10/09/a2c1c52552408632c8aff0f7b9c2810e_4205274625589240208.JPG) |
-| 2023021012469 | 【未定事件簿】「情诗」（永久） | 0 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/12/23/faba435917f41dfdce30440435a61cf6_5477568449308330917.jpg) |
 | 2023091912956 | 【未定事件簿】莫弈生贺头像挂件「沐光偕愿」（30天） | 0 | 1 | 1000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/09/20/192602f2d60df9eb1405deb95e2ba075_951298184266685014.jpg) |
 | 2023091912794 | 【未定事件簿】莫弈生贺头像挂件「岁许佳期」（30天） | 0 | 1 | 1000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/09/20/3c664303163539fa94e87f3377abdb9f_6381186680513547900.jpg) |
 | 2023091912890 | 【未定事件簿】莫弈生贺头像挂件「沐光偕愿」（永久） | 0 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/09/20/192602f2d60df9eb1405deb95e2ba075_951298184266685014.jpg) |
