@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》4.2前瞻特别节目延期通知  | https://ys.mihoyo.com/main/news/detail/29278 |
 | 旅行者，你终于来了，可算等到你了。 | https://ys.mihoyo.com/main/news/detail/29277 |
 | 《原神》4.2版本「罪人舞步旋」前瞻特别节目预告 | https://ys.mihoyo.com/main/news/detail/29237 |
 | 《原神》寻味之旅——「璃月食集」第五期 | https://ys.mihoyo.com/main/news/detail/29236 |
@@ -19,7 +20,6 @@
 | 「人生的波峰与波谷」活动：超高压冲击器测试 | https://ys.mihoyo.com/main/news/detail/29194 |
 | 「七圣召唤」热斗模式：全方位后援 | https://ys.mihoyo.com/main/news/detail/29193 |
 | 《原神》4.1版本表情包「派蒙的画作第27弹」现已上线 | https://ys.mihoyo.com/main/news/detail/29192 |
-| 《原神》「壁纸放送」 | https://ys.mihoyo.com/main/news/detail/29191 |
 
 
 ## 米游社商品
