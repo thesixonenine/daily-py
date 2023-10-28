@@ -10,6 +10,8 @@
 
 | title | url |
 |:---:|:---:|
+| 「精通移涌」活动：天赋培养素材双倍掉落 | https://ys.mihoyo.com/main/news/detail/29280 |
+| 「遐音逸奏」音乐礼包限时上架 | https://ys.mihoyo.com/main/news/detail/29279 |
 | 《原神》4.2前瞻特别节目延期通知  | https://ys.mihoyo.com/main/news/detail/29278 |
 | 旅行者，你终于来了，可算等到你了。 | https://ys.mihoyo.com/main/news/detail/29277 |
 | 《原神》4.2版本「罪人舞步旋」前瞻特别节目预告 | https://ys.mihoyo.com/main/news/detail/29237 |
@@ -18,8 +20,6 @@
 | 征讨领域快速开启挑战、传说任务解锁与接取分离…——10.25开发组座谈会 | https://ys.mihoyo.com/main/news/detail/29231 |
 | 「人生的波峰与波谷」玩法小贴士 | https://ys.mihoyo.com/main/news/detail/29195 |
 | 「人生的波峰与波谷」活动：超高压冲击器测试 | https://ys.mihoyo.com/main/news/detail/29194 |
-| 「七圣召唤」热斗模式：全方位后援 | https://ys.mihoyo.com/main/news/detail/29193 |
-| 《原神》4.1版本表情包「派蒙的画作第27弹」现已上线 | https://ys.mihoyo.com/main/news/detail/29192 |
 
 
 ## 米游社商品
