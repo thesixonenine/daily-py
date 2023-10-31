@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 4.2版本前瞻特别节目（调整后）预告 | https://ys.mihoyo.com/main/news/detail/29284 |
 | 自飘泊之日起，我也游览了不少名山奇景。 | https://ys.mihoyo.com/main/news/detail/29281 |
 | 「精通移涌」活动：天赋培养素材双倍掉落 | https://ys.mihoyo.com/main/news/detail/29280 |
 | 「遐音逸奏」音乐礼包限时上架 | https://ys.mihoyo.com/main/news/detail/29279 |
@@ -19,7 +20,6 @@
 | 《原神》寻味之旅——「璃月食集」第五期 | https://ys.mihoyo.com/main/news/detail/29236 |
 | 优菈生日快乐｜那么…干杯。 | https://ys.mihoyo.com/main/news/detail/29235 |
 | 征讨领域快速开启挑战、传说任务解锁与接取分离…——10.25开发组座谈会 | https://ys.mihoyo.com/main/news/detail/29231 |
-| 「人生的波峰与波谷」玩法小贴士 | https://ys.mihoyo.com/main/news/detail/29195 |
 
 
 ## 米游社商品
