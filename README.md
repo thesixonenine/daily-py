@@ -31,6 +31,9 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 2023092012218 | 大英雄的经验*5 | 0 | 1 | 1500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/468097d8c7fb608f3a23d057d871e48a_7303233958715687443.png) |
 | 2023092012398 | 摩拉*50000 | 0 | 1 | 1500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/d63798a398c18de7f3ce23b7e1dcd02f_3159879231696238340.png) |
+| 2023101711683 | 【派蒙美味料理】蒙德城主题系列 人物亚克力立牌-菲谢尔 | 0 | 1 | 11500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/11/04/2e265121db8cba826c4e11bd68da5f6c_3125963914042468386.jpg) |
+| 2023092012397 | 原石*150 | 0 | 1 | 4500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/dab394b1516c58a00b91f8dba9756110_8904801501338765557.png) |
+| 2023092012371 | 原石*60 | 0 | 1 | 1800 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/dab394b1516c58a00b91f8dba9756110_8904801501338765557.png) |
 | 2023092011466 | 2022miYoSummer Q版软胶磁贴 | 0 | 1 | 4400 | [图](https://bbs-static.miyoushe.com/static/2023/09/20/51b3a6826da8ba9026b1d7066e67d789_3456489672721689396.JPG) |
 | 2023092011940 | 2022miYoSummer Q版亚克力立牌 | 0 | 1 | 8800 | [图](https://bbs-static.miyoushe.com/static/2023/09/20/136e119909d657fb7e437829fbed71c6_6284916881064446377.JPG) |
 | 2023092011133 | 2022线上音乐会系列 明信片套组 | 0 | 1 | 5800 | [图](https://bbs-static.miyoushe.com/static/2023/09/20/5124bcdffd3b28c602ff67085b1eddb4_2673338017205544280.JPG) |
@@ -44,9 +47,6 @@
 | 2023092011167 | 旅行者主题系列 人物亚克力立牌 旅行者男-空 | 0 | 1 | 11500 | [图](https://webstatic.mihoyo.com/upload/shop/2023/02/23/6ec8560c632568587698213af089f733_8359159772963319706.jpg) |
 | 2023092011778 | 旅行者主题系列 人物亚克力立牌 旅行者女-荧 | 0 | 1 | 11500 | [图](https://webstatic.mihoyo.com/upload/shop/2023/02/23/247af27e6e2115d5a0fbbbbbb8f4b795_7475772646023177218.jpg) |
 | 2023092011707 | 旅行者主题系列 人物亚克力立牌-派蒙 | 0 | 1 | 11500 | [图](https://webstatic.mihoyo.com/upload/shop/2023/02/23/08649183ad904a87626ec0c4e325957c_6341825927693623369.jpg) |
-| 2023101711683 | 【派蒙美味料理】蒙德城主题系列 人物亚克力立牌-菲谢尔 | 0 | 1 | 11500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/11/04/2e265121db8cba826c4e11bd68da5f6c_3125963914042468386.jpg) |
-| 2023092012397 | 原石*150 | 0 | 1 | 4500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/dab394b1516c58a00b91f8dba9756110_8904801501338765557.png) |
-| 2023092012371 | 原石*60 | 0 | 1 | 1800 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/dab394b1516c58a00b91f8dba9756110_8904801501338765557.png) |
 | 2023091511414 | 【派蒙美味料理】神铸赋形系列 武器金属挂件-天空之翼 | 0 | 1 | 9000 | [图](https://bbs-static.miyoushe.com/static/2023/09/15/b52bd9e4e6cc250921772eec9ba939c1_4695128908931489113.jpg) |
 | 2023091511455 | 【派蒙美味料理】神铸赋形系列 武器金属挂件-狼的末路 | 0 | 1 | 9000 | [图](https://bbs-static.miyoushe.com/static/2023/09/15/e94788e91138167586d8ebf1fc19eb8d_1919547435419692100.jpg) |
 | 2023091511487 | 【派蒙美味料理】尘世闲游系列 仙祖法蜕 | 0 | 1 | 34000 | [图](https://bbs-static.miyoushe.com/static/2023/09/15/0f2ccaa69d3d3d39609f6519163ff80d_7400836915042286920.jpg) |
