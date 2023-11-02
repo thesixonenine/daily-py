@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 这回我做的可都是大家爱吃的菜！ | https://ys.mihoyo.com/main/news/detail/29294 |
 | 4.2版本前瞻特别节目（调整后）预告 | https://ys.mihoyo.com/main/news/detail/29284 |
 | 自飘泊之日起，我也游览了不少名山奇景。 | https://ys.mihoyo.com/main/news/detail/29281 |
 | 「精通移涌」活动：天赋培养素材双倍掉落 | https://ys.mihoyo.com/main/news/detail/29280 |
@@ -19,7 +20,6 @@
 | 《原神》4.2版本「罪人舞步旋」前瞻特别节目预告 | https://ys.mihoyo.com/main/news/detail/29237 |
 | 《原神》寻味之旅——「璃月食集」第五期 | https://ys.mihoyo.com/main/news/detail/29236 |
 | 优菈生日快乐｜那么…干杯。 | https://ys.mihoyo.com/main/news/detail/29235 |
-| 征讨领域快速开启挑战、传说任务解锁与接取分离…——10.25开发组座谈会 | https://ys.mihoyo.com/main/news/detail/29231 |
 
 
 ## 米游社商品
