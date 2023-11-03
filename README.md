@@ -10,6 +10,9 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》4.2版本「罪人舞步旋」前瞻特别节目回顾长图 | https://ys.mihoyo.com/main/news/detail/29304 |
+| 《原神》4.2版本「罪人舞步旋」前瞻特别节目 | https://ys.mihoyo.com/main/news/detail/29303 |
+| 《原神》4.2版本PV：「罪人舞步旋」 | https://ys.mihoyo.com/main/news/detail/29302 |
 | 这回我做的可都是大家爱吃的菜！ | https://ys.mihoyo.com/main/news/detail/29294 |
 | 4.2版本前瞻特别节目（调整后）预告 | https://ys.mihoyo.com/main/news/detail/29284 |
 | 自飘泊之日起，我也游览了不少名山奇景。 | https://ys.mihoyo.com/main/news/detail/29281 |
@@ -17,9 +20,6 @@
 | 「遐音逸奏」音乐礼包限时上架 | https://ys.mihoyo.com/main/news/detail/29279 |
 | 《原神》4.2前瞻特别节目延期通知  | https://ys.mihoyo.com/main/news/detail/29278 |
 | 旅行者，你终于来了，可算等到你了。 | https://ys.mihoyo.com/main/news/detail/29277 |
-| 《原神》4.2版本「罪人舞步旋」前瞻特别节目预告 | https://ys.mihoyo.com/main/news/detail/29237 |
-| 《原神》寻味之旅——「璃月食集」第五期 | https://ys.mihoyo.com/main/news/detail/29236 |
-| 优菈生日快乐｜那么…干杯。 | https://ys.mihoyo.com/main/news/detail/29235 |
 
 
 ## 米游社商品
