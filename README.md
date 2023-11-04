@@ -10,6 +10,9 @@
 
 | title | url |
 |:---:|:---:|
+| 4.2新版本「罪人舞步旋」先行展示页现已开启！ | https://ys.mihoyo.com/main/news/detail/29308 |
+| 「只要眼睛够尖，脑子够快，每天都能找到好新闻。」 | https://ys.mihoyo.com/main/news/detail/29307 |
+| 《原神》角色演示-「夏洛蒂：爆炸新闻！」 | https://ys.mihoyo.com/main/news/detail/29306 |
 | 《原神》4.2版本「七圣召唤」更新说明 | https://ys.mihoyo.com/main/news/detail/29305 |
 | 《原神》4.2版本「罪人舞步旋」前瞻特别节目回顾长图 | https://ys.mihoyo.com/main/news/detail/29304 |
 | 《原神》4.2版本「罪人舞步旋」前瞻特别节目 | https://ys.mihoyo.com/main/news/detail/29303 |
@@ -17,9 +20,6 @@
 | 这回我做的可都是大家爱吃的菜！ | https://ys.mihoyo.com/main/news/detail/29294 |
 | 4.2版本前瞻特别节目（调整后）预告 | https://ys.mihoyo.com/main/news/detail/29284 |
 | 自飘泊之日起，我也游览了不少名山奇景。 | https://ys.mihoyo.com/main/news/detail/29281 |
-| 「精通移涌」活动：天赋培养素材双倍掉落 | https://ys.mihoyo.com/main/news/detail/29280 |
-| 「遐音逸奏」音乐礼包限时上架 | https://ys.mihoyo.com/main/news/detail/29279 |
-| 《原神》4.2前瞻特别节目延期通知  | https://ys.mihoyo.com/main/news/detail/29278 |
 
 
 ## 米游社商品
