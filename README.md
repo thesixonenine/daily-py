@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》4.2版本「七圣召唤」更新说明 | https://ys.mihoyo.com/main/news/detail/29305 |
 | 《原神》4.2版本「罪人舞步旋」前瞻特别节目回顾长图 | https://ys.mihoyo.com/main/news/detail/29304 |
 | 《原神》4.2版本「罪人舞步旋」前瞻特别节目 | https://ys.mihoyo.com/main/news/detail/29303 |
 | 《原神》4.2版本PV：「罪人舞步旋」 | https://ys.mihoyo.com/main/news/detail/29302 |
@@ -19,7 +20,6 @@
 | 「精通移涌」活动：天赋培养素材双倍掉落 | https://ys.mihoyo.com/main/news/detail/29280 |
 | 「遐音逸奏」音乐礼包限时上架 | https://ys.mihoyo.com/main/news/detail/29279 |
 | 《原神》4.2前瞻特别节目延期通知  | https://ys.mihoyo.com/main/news/detail/29278 |
-| 旅行者，你终于来了，可算等到你了。 | https://ys.mihoyo.com/main/news/detail/29277 |
 
 
 ## 米游社商品
