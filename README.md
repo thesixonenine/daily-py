@@ -10,16 +10,16 @@
 
 | title | url |
 |:---:|:---:|
+| 【蒸汽鸟报特刊】4.2版本新区域展示页上线！ | https://ys.mihoyo.com/main/news/detail/29312 |
+| 4.2版本「罪人舞步旋」全新武器说明 | https://ys.mihoyo.com/main/news/detail/29311 |
+| 「不休独舞」·芙宁娜——「好无聊啊，没有什么更有趣的事吗？」 | https://ys.mihoyo.com/main/news/detail/29310 |
+| 《原神》芙宁娜角色PV——「戏中人」 | https://ys.mihoyo.com/main/news/detail/29309 |
 | 4.2新版本「罪人舞步旋」先行展示页现已开启！ | https://ys.mihoyo.com/main/news/detail/29308 |
 | 「只要眼睛够尖，脑子够快，每天都能找到好新闻。」 | https://ys.mihoyo.com/main/news/detail/29307 |
 | 《原神》角色演示-「夏洛蒂：爆炸新闻！」 | https://ys.mihoyo.com/main/news/detail/29306 |
 | 《原神》4.2版本「七圣召唤」更新说明 | https://ys.mihoyo.com/main/news/detail/29305 |
 | 《原神》4.2版本「罪人舞步旋」前瞻特别节目回顾长图 | https://ys.mihoyo.com/main/news/detail/29304 |
 | 《原神》4.2版本「罪人舞步旋」前瞻特别节目 | https://ys.mihoyo.com/main/news/detail/29303 |
-| 《原神》4.2版本PV：「罪人舞步旋」 | https://ys.mihoyo.com/main/news/detail/29302 |
-| 这回我做的可都是大家爱吃的菜！ | https://ys.mihoyo.com/main/news/detail/29294 |
-| 4.2版本前瞻特别节目（调整后）预告 | https://ys.mihoyo.com/main/news/detail/29284 |
-| 自飘泊之日起，我也游览了不少名山奇景。 | https://ys.mihoyo.com/main/news/detail/29281 |
 
 
 ## 米游社商品
