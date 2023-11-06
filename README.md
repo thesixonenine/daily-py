@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 永世领唱，无尽圆舞 | https://ys.mihoyo.com/main/news/detail/29313 |
 | 【蒸汽鸟报特刊】4.2版本新区域展示页上线！ | https://ys.mihoyo.com/main/news/detail/29312 |
 | 4.2版本「罪人舞步旋」全新武器说明 | https://ys.mihoyo.com/main/news/detail/29311 |
 | 「不休独舞」·芙宁娜——「好无聊啊，没有什么更有趣的事吗？」 | https://ys.mihoyo.com/main/news/detail/29310 |
@@ -19,7 +20,6 @@
 | 《原神》角色演示-「夏洛蒂：爆炸新闻！」 | https://ys.mihoyo.com/main/news/detail/29306 |
 | 《原神》4.2版本「七圣召唤」更新说明 | https://ys.mihoyo.com/main/news/detail/29305 |
 | 《原神》4.2版本「罪人舞步旋」前瞻特别节目回顾长图 | https://ys.mihoyo.com/main/news/detail/29304 |
-| 《原神》4.2版本「罪人舞步旋」前瞻特别节目 | https://ys.mihoyo.com/main/news/detail/29303 |
 
 
 ## 米游社商品
