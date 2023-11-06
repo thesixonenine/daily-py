@@ -10,16 +10,16 @@
 
 | title | url |
 |:---:|:---:|
-| 4.2版本更新维护预告 | https://ys.mihoyo.com/main/news/detail/29314 |
-| 永世领唱，无尽圆舞 | https://ys.mihoyo.com/main/news/detail/29313 |
-| 【蒸汽鸟报特刊】4.2版本新区域展示页上线！ | https://ys.mihoyo.com/main/news/detail/29312 |
-| 4.2版本「罪人舞步旋」全新武器说明 | https://ys.mihoyo.com/main/news/detail/29311 |
-| 「不休独舞」·芙宁娜——「好无聊啊，没有什么更有趣的事吗？」 | https://ys.mihoyo.com/main/news/detail/29310 |
-| 《原神》芙宁娜角色PV——「戏中人」 | https://ys.mihoyo.com/main/news/detail/29309 |
-| 4.2新版本「罪人舞步旋」先行展示页现已开启！ | https://ys.mihoyo.com/main/news/detail/29308 |
-| 「只要眼睛够尖，脑子够快，每天都能找到好新闻。」 | https://ys.mihoyo.com/main/news/detail/29307 |
-| 《原神》角色演示-「夏洛蒂：爆炸新闻！」 | https://ys.mihoyo.com/main/news/detail/29306 |
-| 《原神》4.2版本「七圣召唤」更新说明 | https://ys.mihoyo.com/main/news/detail/29305 |
+| 4.2版本 「罪人舞步旋」内容专题页上线！ | https://ys.mihoyo.com/main/news/detail/29326 |
+| 「罪人舞步旋」4.2版本活动速递第一期 | https://ys.mihoyo.com/main/news/detail/29325 |
+| 「旋舞纪行」活动说明 | https://ys.mihoyo.com/main/news/detail/29324 |
+| 「冒险助力礼包」第27期限时上架 | https://ys.mihoyo.com/main/news/detail/29323 |
+| 「司颂之章」传说任务说明 | https://ys.mihoyo.com/main/news/detail/29322 |
+| 新剧情开启：魔神任务第四章·第五幕  | https://ys.mihoyo.com/main/news/detail/29321 |
+| 「七圣召唤」铸境研炼：无量疾战 | https://ys.mihoyo.com/main/news/detail/29320 |
+| 「神铸赋形」祈愿：「单手剑·静水流涌之辉」「法器·碧落之珑」概率UP！ | https://ys.mihoyo.com/main/news/detail/29319 |
+| 「心珠循琅」祈愿：「遵生合和·白术(草)」概率UP！ | https://ys.mihoyo.com/main/news/detail/29318 |
+| 「众水的颂诗」祈愿：「不休独舞·芙宁娜(水)」概率UP！ | https://ys.mihoyo.com/main/news/detail/29317 |
 
 
 ## 米游社商品
