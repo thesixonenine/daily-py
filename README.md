@@ -10,6 +10,8 @@
 
 | title | url |
 |:---:|:---:|
+| 知刑执法，公义责罪 | https://ys.mihoyo.com/main/news/detail/29333 |
+| 《飞翔的黄玫瑰》 | https://ys.mihoyo.com/main/news/detail/29332 |
 | 4.2版本 「罪人舞步旋」内容专题页上线！ | https://ys.mihoyo.com/main/news/detail/29326 |
 | 「罪人舞步旋」4.2版本活动速递第一期 | https://ys.mihoyo.com/main/news/detail/29325 |
 | 「旋舞纪行」活动说明 | https://ys.mihoyo.com/main/news/detail/29324 |
@@ -18,8 +20,6 @@
 | 新剧情开启：魔神任务第四章·第五幕  | https://ys.mihoyo.com/main/news/detail/29321 |
 | 「七圣召唤」铸境研炼：无量疾战 | https://ys.mihoyo.com/main/news/detail/29320 |
 | 「神铸赋形」祈愿：「单手剑·静水流涌之辉」「法器·碧落之珑」概率UP！ | https://ys.mihoyo.com/main/news/detail/29319 |
-| 「心珠循琅」祈愿：「遵生合和·白术(草)」概率UP！ | https://ys.mihoyo.com/main/news/detail/29318 |
-| 「众水的颂诗」祈愿：「不休独舞·芙宁娜(水)」概率UP！ | https://ys.mihoyo.com/main/news/detail/29317 |
 
 
 ## 米游社商品
