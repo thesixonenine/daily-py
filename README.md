@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 原神4.2版本微博限时表情活动预告 | https://ys.mihoyo.com/main/news/detail/29371 |
 | QQ小世界《原神》4.2版本视频征集&amp;直播招募活动即将开启 | https://ys.mihoyo.com/main/news/detail/29370 |
 | 微信视频号《原神》4.2版本视频征集&amp;直播招募活动即将开启 | https://ys.mihoyo.com/main/news/detail/29369 |
 | 小红书《原神》4.2版本笔记征集活动即将开启 | https://ys.mihoyo.com/main/news/detail/29368 |
@@ -19,7 +20,6 @@
 | 抖音《原神》4.2版本创作者激励计划&amp;直播激励活动即将开启 | https://ys.mihoyo.com/main/news/detail/29364 |
 | B站《原神》4.2版本创作者激励计划即将开启 | https://ys.mihoyo.com/main/news/detail/29363 |
 | 「迷城战线·水境篇」活动：角色试用主题试炼 | https://ys.mihoyo.com/main/news/detail/29362 |
-| 《原神》角色演示-「芙宁娜：世界皆舞台」 | https://ys.mihoyo.com/main/news/detail/29361 |
 
 
 ## 米游社商品
