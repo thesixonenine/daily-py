@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 「罪人舞步旋」4.2版本更新说明 | https://ys.mihoyo.com/main/news/detail/29376 |
 | 原神4.2版本微博限时表情活动预告 | https://ys.mihoyo.com/main/news/detail/29371 |
 | QQ小世界《原神》4.2版本视频征集&amp;直播招募活动即将开启 | https://ys.mihoyo.com/main/news/detail/29370 |
 | 微信视频号《原神》4.2版本视频征集&amp;直播招募活动即将开启 | https://ys.mihoyo.com/main/news/detail/29369 |
@@ -19,7 +20,6 @@
 | 斗鱼直播《原神》4.2版本直播季活动即将开启 | https://ys.mihoyo.com/main/news/detail/29365 |
 | 抖音《原神》4.2版本创作者激励计划&amp;直播激励活动即将开启 | https://ys.mihoyo.com/main/news/detail/29364 |
 | B站《原神》4.2版本创作者激励计划即将开启 | https://ys.mihoyo.com/main/news/detail/29363 |
-| 「迷城战线·水境篇」活动：角色试用主题试炼 | https://ys.mihoyo.com/main/news/detail/29362 |
 
 
 ## 米游社商品
