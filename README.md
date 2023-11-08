@@ -10,16 +10,16 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》4.2版本QQ频道专属系列活动现已开启 | https://ys.mihoyo.com/main/news/detail/29428 |
+| 4.2版本超话签到活动第一期 | https://ys.mihoyo.com/main/news/detail/29403 |
+| 《原神》4.2版本微信游戏圈专属活动现已开启 | https://ys.mihoyo.com/main/news/detail/29402 |
+| 全新强敌——「吞星之鲸」 | https://ys.mihoyo.com/main/news/detail/29401 |
+| 《原神》拾枝杂谈-「芙宁娜：镜中影」 | https://ys.mihoyo.com/main/news/detail/29392 |
 | 「罪人舞步旋」4.2版本更新说明 | https://ys.mihoyo.com/main/news/detail/29376 |
 | 原神4.2版本微博限时表情活动预告 | https://ys.mihoyo.com/main/news/detail/29371 |
 | QQ小世界《原神》4.2版本视频征集&amp;直播招募活动即将开启 | https://ys.mihoyo.com/main/news/detail/29370 |
 | 微信视频号《原神》4.2版本视频征集&amp;直播招募活动即将开启 | https://ys.mihoyo.com/main/news/detail/29369 |
 | 小红书《原神》4.2版本笔记征集活动即将开启 | https://ys.mihoyo.com/main/news/detail/29368 |
-| 快手《原神》4.2版本视频征集&amp;直播招募活动即将开启 | https://ys.mihoyo.com/main/news/detail/29367 |
-| 虎牙直播《原神》4.2版本直播季活动即将开启 | https://ys.mihoyo.com/main/news/detail/29366 |
-| 斗鱼直播《原神》4.2版本直播季活动即将开启 | https://ys.mihoyo.com/main/news/detail/29365 |
-| 抖音《原神》4.2版本创作者激励计划&amp;直播激励活动即将开启 | https://ys.mihoyo.com/main/news/detail/29364 |
-| B站《原神》4.2版本创作者激励计划即将开启 | https://ys.mihoyo.com/main/news/detail/29363 |
 
 
 ## 米游社商品
