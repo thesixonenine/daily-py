@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》拾枝杂谈-「夏洛蒂：独家报道！」 | https://ys.mihoyo.com/main/news/detail/29451 |
 | 《原神》4.2版本QQ频道专属系列活动现已开启 | https://ys.mihoyo.com/main/news/detail/29428 |
 | 4.2版本超话签到活动第一期 | https://ys.mihoyo.com/main/news/detail/29403 |
 | 《原神》4.2版本微信游戏圈专属活动现已开启 | https://ys.mihoyo.com/main/news/detail/29402 |
@@ -19,7 +20,6 @@
 | 原神4.2版本微博限时表情活动预告 | https://ys.mihoyo.com/main/news/detail/29371 |
 | QQ小世界《原神》4.2版本视频征集&amp;直播招募活动即将开启 | https://ys.mihoyo.com/main/news/detail/29370 |
 | 微信视频号《原神》4.2版本视频征集&amp;直播招募活动即将开启 | https://ys.mihoyo.com/main/news/detail/29369 |
-| 小红书《原神》4.2版本笔记征集活动即将开启 | https://ys.mihoyo.com/main/news/detail/29368 |
 
 
 ## 米游社商品
