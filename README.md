@@ -10,6 +10,8 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》游戏原声EP专辑《轻涟 La vaguelette》即将上线 | https://ys.mihoyo.com/main/news/detail/29515 |
+| 《原神》游戏剧情EP「轻涟」MV  | https://ys.mihoyo.com/main/news/detail/29514 |
 | 《原神》剧情PV-「轻涟」 | https://ys.mihoyo.com/main/news/detail/29453 |
 | 《原神》拾枝杂谈-「夏洛蒂：独家报道！」 | https://ys.mihoyo.com/main/news/detail/29451 |
 | 《原神》4.2版本QQ频道专属系列活动现已开启 | https://ys.mihoyo.com/main/news/detail/29428 |
@@ -18,8 +20,6 @@
 | 全新强敌——「吞星之鲸」 | https://ys.mihoyo.com/main/news/detail/29401 |
 | 《原神》拾枝杂谈-「芙宁娜：镜中影」 | https://ys.mihoyo.com/main/news/detail/29392 |
 | 「罪人舞步旋」4.2版本更新说明 | https://ys.mihoyo.com/main/news/detail/29376 |
-| 原神4.2版本微博限时表情活动预告 | https://ys.mihoyo.com/main/news/detail/29371 |
-| QQ小世界《原神》4.2版本视频征集&amp;直播招募活动即将开启 | https://ys.mihoyo.com/main/news/detail/29370 |
 
 
 ## 米游社商品
