@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》「轻涟」QQ音乐专题活动正式上线 | https://ys.mihoyo.com/main/news/detail/29526 |
 | 《原神》「流光拾遗之旅」——尘世篇·麦秆画 | https://ys.mihoyo.com/main/news/detail/29518 |
 | 《原神》游戏原声EP专辑《轻涟 La vaguelette》现已正式上线 | https://ys.mihoyo.com/main/news/detail/29517 |
 | 《原神》游戏原声EP专辑《轻涟 La vaguelette》即将上线 | https://ys.mihoyo.com/main/news/detail/29515 |
@@ -19,7 +20,6 @@
 | 《原神》4.2版本QQ频道专属系列活动现已开启 | https://ys.mihoyo.com/main/news/detail/29428 |
 | 4.2版本超话签到活动第一期 | https://ys.mihoyo.com/main/news/detail/29403 |
 | 《原神》4.2版本微信游戏圈专属活动现已开启 | https://ys.mihoyo.com/main/news/detail/29402 |
-| 全新强敌——「吞星之鲸」 | https://ys.mihoyo.com/main/news/detail/29401 |
 
 
 ## 米游社商品
