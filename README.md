@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》过场动画-「吞星之鲸」 | https://ys.mihoyo.com/main/news/detail/29530 |
 | 「图形对抗实验录」活动：趣味留影挑战 | https://ys.mihoyo.com/main/news/detail/29527 |
 | 《原神》「轻涟」QQ音乐专题活动正式上线 | https://ys.mihoyo.com/main/news/detail/29526 |
 | 《原神》「流光拾遗之旅」——尘世篇·麦秆画 | https://ys.mihoyo.com/main/news/detail/29518 |
@@ -19,7 +20,6 @@
 | 《原神》剧情PV-「轻涟」 | https://ys.mihoyo.com/main/news/detail/29453 |
 | 《原神》拾枝杂谈-「夏洛蒂：独家报道！」 | https://ys.mihoyo.com/main/news/detail/29451 |
 | 《原神》4.2版本QQ频道专属系列活动现已开启 | https://ys.mihoyo.com/main/news/detail/29428 |
-| 4.2版本超话签到活动第一期 | https://ys.mihoyo.com/main/news/detail/29403 |
 
 
 ## 米游社商品
