@@ -10,6 +10,9 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》「派蒙的画作小红书篇」联动主题表情包即将上架 | https://ys.mihoyo.com/main/news/detail/29535 |
+| 「珊海绮书」——小红书×原神 联动分享活动现已上线 | https://ys.mihoyo.com/main/news/detail/29534 |
+| 小红书x原神「珊海绮遇」主题联动现已开启 | https://ys.mihoyo.com/main/news/detail/29533 |
 | 《原神》过场动画-「吞星之鲸」 | https://ys.mihoyo.com/main/news/detail/29530 |
 | 「图形对抗实验录」活动：趣味留影挑战 | https://ys.mihoyo.com/main/news/detail/29527 |
 | 《原神》「轻涟」QQ音乐专题活动正式上线 | https://ys.mihoyo.com/main/news/detail/29526 |
@@ -17,9 +20,6 @@
 | 《原神》游戏原声EP专辑《轻涟 La vaguelette》现已正式上线 | https://ys.mihoyo.com/main/news/detail/29517 |
 | 《原神》游戏原声EP专辑《轻涟 La vaguelette》即将上线 | https://ys.mihoyo.com/main/news/detail/29515 |
 | 《原神》游戏剧情EP「轻涟」MV  | https://ys.mihoyo.com/main/news/detail/29514 |
-| 《原神》剧情PV-「轻涟」 | https://ys.mihoyo.com/main/news/detail/29453 |
-| 《原神》拾枝杂谈-「夏洛蒂：独家报道！」 | https://ys.mihoyo.com/main/news/detail/29451 |
-| 《原神》4.2版本QQ频道专属系列活动现已开启 | https://ys.mihoyo.com/main/news/detail/29428 |
 
 
 ## 米游社商品
@@ -75,8 +75,18 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| 2023111412361 | 星琼*60 | 3000 | 1 | 1800 | [图](https://bbs-static.miyoushe.com/static/2023/04/17/4bfddac07bede076d69b6332f5e55882_543536464151551139.jpg) |
 | 2023101112838 | 信用点*50000 | 0 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/04/18/1486da72d8a3de6082168439a0034bc7_8695790455774052628.jpg) |
+| 2023111412419 | 信用点*50000 | 3000 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/04/18/1486da72d8a3de6082168439a0034bc7_8695790455774052628.jpg) |
 | 2023101112122 | 漫游指南*5 | 0 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/04/18/e2f396d2c8d71b9a35cd00d39073a4e0_3488777836284613284.jpg) |
+| 2023111412929 | 漫游指南*5 | 3000 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/04/18/e2f396d2c8d71b9a35cd00d39073a4e0_3488777836284613284.jpg) |
+| 2023111411897 | 帕姆毛绒玩偶 | 10 | 1 | 20500 | [图](https://bbs-static.miyoushe.com/static/2023/11/14/744e96deff55ab32d4adaa05acca580c_7871430435178689322.JPG) |
+| 2023111411313 | 角色立绘系列 立牌-玲可 | 10 | 1 | 13400 | [图](https://bbs-static.miyoushe.com/static/2023/10/09/3ff8fdc135976191f79bdcb6e7b0d540_4280368198131386465.jpg) |
+| 2023111411637 | 发车倒计时系列 流沙挂件 三月七 | 10 | 1 | 8800 | [图](https://bbs-static.miyoushe.com/static/2023/11/14/e59b440f29d00fc395f4a3a405aebf8d_6204850378175175343.JPG) |
+| 2023111411747 | 发车倒计时系列 流沙挂件 丹恒 | 10 | 1 | 8800 | [图](https://bbs-static.miyoushe.com/static/2023/11/14/1c1d88ea3828d4de1a5d30f8b602a788_3892298647207395910.JPG) |
+| 2023111411933 | 发车倒计时系列 流沙挂件 姬子 | 10 | 1 | 8800 | [图](https://bbs-static.miyoushe.com/static/2023/11/14/18b384052bc7790827168aa0586508d2_1962061119948059336.JPG) |
+| 2023111411861 | 光锥系列 亚克力流沙立牌 制胜的瞬间 | 10 | 1 | 15700 | [图](https://bbs-static.miyoushe.com/static/2023/11/15/f92431bb58d0aa1c9c425870d4a2375b_5423378801812093812.JPG) |
+| 2023111411386 | 光锥系列 厚亚克力挂件-如泥酣眠 | 10 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/23/edf896b9d170ab7fd7947810b5e47335_8693397011790545243.jpg) |
 | 2023101112957 | 星琼*60 | 0 | 1 | 1800 | [图](https://bbs-static.miyoushe.com/static/2023/04/17/4bfddac07bede076d69b6332f5e55882_543536464151551139.jpg) |
 | 2023100911764 | 角色立绘系列 亚克力挂件-玲可 | 0 | 1 | 7400 | [图](https://bbs-static.miyoushe.com/static/2023/10/09/07076bee9d3632a1cb64c693d140e1e2_4523983202050803649.jpg) |
 | 2023100911996 | 角色立绘系列 亚克力挂件-符玄 | 0 | 1 | 7400 | [图](https://bbs-static.miyoushe.com/static/2023/10/09/065d9cd581006e58aaa17261f0d6729d_5468497424235928402.jpg) |
@@ -100,6 +110,12 @@
 | 21579179504316812467643946757 | 体力药水*1 | 0 | 2 | 370 | [图](https://webstatic.mihoyo.com/upload/shop/2021/04/09/9ccf0f785763dad642281e90b1a925c7_1345306158854300132.png) |
 | 215791797313419356364222347148 | 逆熵·虚数核心*5 | 0 | 2 | 1200 | [图](https://webstatic.mihoyo.com/upload/shop/2021/04/09/714c64b6547f2a1274b1524fddc7febb_2808239829919819812.png) |
 | 2021040912146 | 高级技能材料*5 | 0 | 1 | 1800 | [图](https://webstatic.mihoyo.com/upload/shop/2021/04/09/48752dc5ab70c818b6b72a6513c95f2f_5640911369522514077.png) |
+| 2023111511800 | 排排跑系列 亚克力挂饰摆件-德丽莎 | 20 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2023/11/15/44ca4ed7f28b2a1b578e906594c51991_2564905170780342529.JPG) |
+| 2023111511915 | 排排跑系列 亚克力挂饰摆件-丽塔 | 20 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2023/11/15/ba5b4d345b4774e03cd79ca204f52158_3308293388731988867.JPG) |
+| 2023111511230 | 排排跑系列 亚克力挂饰摆件-八重樱 | 20 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2023/11/15/19e1842f682ab54343e20927c7497e56_4272713925713868406.JPG) |
+| 2023111511863 | 女武神游戏台词软胶挂件-希儿·魇夜星渊 | 60 | 1 | 7400 | [图](https://bbs-static.miyoushe.com/static/2023/11/15/54f66fb18a58d4c865552567a0d773e0_3925145366767636280.JPG) |
+| 2023111511647 | 女武神游戏台词软胶挂件-爱莉希雅 真我·人之律者 | 60 | 1 | 7400 | [图](https://bbs-static.miyoushe.com/static/2023/11/15/a904ad2418ca7764f8112be127ee5f6e_8578816537786084421.JPG) |
+| 2023111511774 | 女武神游戏台词软胶挂件-伊甸 黄金·璀耀之歌 | 60 | 1 | 7400 | [图](https://bbs-static.miyoushe.com/static/2023/11/15/b2ed35f1eb6e4e930bc79b19ae18914a_3552841943212877007.JPG) |
 | 2023092711115 | 文字梗系列 主题折扇-北斗诛邪除凶去殃 | 0 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/09/27/e1a6fb8e44a2ea50963ead71c947470d_6300636358421863609.jpg) |
 | 2023092711399 | 桂月迎秋系列 立牌-布洛妮娅 | 0 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/09/27/c6ef8c28c4bf6d0a3fb59b97585d64e3_7033123569223939532.jpg) |
 | 2023092711153 | 桂月迎秋系列 立牌-芽衣 | 0 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/09/27/3c456a2c751a5068869a2c47774767dd_2736558051653870535.jpg) |
