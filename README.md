@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》入围 TGA 2023「最佳持续运营游戏」 | https://ys.mihoyo.com/main/news/detail/29536 |
 | 《原神》「派蒙的画作小红书篇」联动主题表情包即将上架 | https://ys.mihoyo.com/main/news/detail/29535 |
 | 「珊海绮书」——小红书×原神 联动分享活动现已上线 | https://ys.mihoyo.com/main/news/detail/29534 |
 | 小红书x原神「珊海绮遇」主题联动现已开启 | https://ys.mihoyo.com/main/news/detail/29533 |
@@ -19,7 +20,6 @@
 | 《原神》「流光拾遗之旅」——尘世篇·麦秆画 | https://ys.mihoyo.com/main/news/detail/29518 |
 | 《原神》游戏原声EP专辑《轻涟 La vaguelette》现已正式上线 | https://ys.mihoyo.com/main/news/detail/29517 |
 | 《原神》游戏原声EP专辑《轻涟 La vaguelette》即将上线 | https://ys.mihoyo.com/main/news/detail/29515 |
-| 《原神》游戏剧情EP「轻涟」MV  | https://ys.mihoyo.com/main/news/detail/29514 |
 
 
 ## 米游社商品
