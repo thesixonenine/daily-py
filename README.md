@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》4.2版本表情包「派蒙的画作第28弹」现已上线 | https://ys.mihoyo.com/main/news/detail/29540 |
 | 《原神》过场动画-「罪人的终幕」 | https://ys.mihoyo.com/main/news/detail/29538 |
 | 《原神》入围 TGA 2023「最佳持续运营游戏」 | https://ys.mihoyo.com/main/news/detail/29536 |
 | 《原神》「派蒙的画作小红书篇」联动主题表情包即将上架 | https://ys.mihoyo.com/main/news/detail/29535 |
@@ -19,7 +20,6 @@
 | 「图形对抗实验录」活动：趣味留影挑战 | https://ys.mihoyo.com/main/news/detail/29527 |
 | 《原神》「轻涟」QQ音乐专题活动正式上线 | https://ys.mihoyo.com/main/news/detail/29526 |
 | 《原神》「流光拾遗之旅」——尘世篇·麦秆画 | https://ys.mihoyo.com/main/news/detail/29518 |
-| 《原神》游戏原声EP专辑《轻涟 La vaguelette》现已正式上线 | https://ys.mihoyo.com/main/news/detail/29517 |
 
 
 ## 米游社商品
