@@ -76,7 +76,6 @@
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 2023111412361 | 星琼*60 | 3000 | 1 | 1800 | [图](https://bbs-static.miyoushe.com/static/2023/04/17/4bfddac07bede076d69b6332f5e55882_543536464151551139.jpg) |
-| 2023101112838 | 信用点*50000 | 0 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/04/18/1486da72d8a3de6082168439a0034bc7_8695790455774052628.jpg) |
 | 2023111412419 | 信用点*50000 | 3000 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/04/18/1486da72d8a3de6082168439a0034bc7_8695790455774052628.jpg) |
 | 2023111412929 | 漫游指南*5 | 3000 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/04/18/e2f396d2c8d71b9a35cd00d39073a4e0_3488777836284613284.jpg) |
 | 2023111411897 | 帕姆毛绒玩偶 | 10 | 1 | 20500 | [图](https://bbs-static.miyoushe.com/static/2023/11/14/744e96deff55ab32d4adaa05acca580c_7871430435178689322.JPG) |
@@ -86,6 +85,7 @@
 | 2023111411933 | 发车倒计时系列 流沙挂件 姬子 | 10 | 1 | 8800 | [图](https://bbs-static.miyoushe.com/static/2023/11/14/18b384052bc7790827168aa0586508d2_1962061119948059336.JPG) |
 | 2023111411861 | 光锥系列 亚克力流沙立牌 制胜的瞬间 | 10 | 1 | 15700 | [图](https://bbs-static.miyoushe.com/static/2023/11/15/f92431bb58d0aa1c9c425870d4a2375b_5423378801812093812.JPG) |
 | 2023111411386 | 光锥系列 厚亚克力挂件-如泥酣眠 | 10 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/23/edf896b9d170ab7fd7947810b5e47335_8693397011790545243.jpg) |
+| 2023101112838 | 信用点*50000 | 0 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/04/18/1486da72d8a3de6082168439a0034bc7_8695790455774052628.jpg) |
 | 2023101112122 | 漫游指南*5 | 0 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/04/18/e2f396d2c8d71b9a35cd00d39073a4e0_3488777836284613284.jpg) |
 | 2023101112957 | 星琼*60 | 0 | 1 | 1800 | [图](https://bbs-static.miyoushe.com/static/2023/04/17/4bfddac07bede076d69b6332f5e55882_543536464151551139.jpg) |
 | 2023100911764 | 角色立绘系列 亚克力挂件-玲可 | 0 | 1 | 7400 | [图](https://bbs-static.miyoushe.com/static/2023/10/09/07076bee9d3632a1cb64c693d140e1e2_4523983202050803649.jpg) |
