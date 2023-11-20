@@ -183,9 +183,6 @@
 | 215857984577762787521044579719 | 金币*50000 | 0 | 6 | 325 | [图](https://webstatic.mihoyo.com/upload/shop/2020/04/02/2472b1bfffbf8035ff5f6e99d5929b3a_6822720649602252359.png) |
 | 21584685935740063573345650057 | 水晶*100 | 0 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2020/04/02/4bd2da5339a845dbed190fd24b8536b4_27683776169691285.png) |
 | 215846858267933661503355954163 | 水晶*50 | 0 | 2 | 1050 | [图](https://webstatic.mihoyo.com/upload/shop/2020/04/02/b14b4cb4dd7e69ff5f807e0ce47378b0_6039668935445695207.png) |
-| 2023101311509 | 琪亚娜星光乐耀镭射立牌 | 0 | 1 | 11000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/12/26/2debcdedca53f8689f7439a42b2f46f5_4159131083373789447.jpg) |
-| 2023101311370 | CG大鼠标垫-冬日信函 | 0 | 1 | 13800 | [图](https://bbs-static.miyoushe.com/static/2023/06/27/1d88e108f10b715b262b4e9c56cfcdda_3435684959973850584.jpg) |
-| 2023101311759 | 梦想通路抱枕 | 0 | 1 | 13800 | [图](https://webstatic.mihoyo.com/upload/shop/2021/09/09/05a477cd855efd1894e0985231082054_2844981478307861184.png) |
 
 
 
