@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 「特尔克西的奇幻历险」活动：参与邀请「潜怀遐梦·菲米尼(冰)」 | https://ys.mihoyo.com/main/news/detail/29543 |
 | 刻晴生日快乐｜呼——果然毛茸茸的小动物最能让人放松呢。 | https://ys.mihoyo.com/main/news/detail/29541 |
 | 《原神》4.2版本表情包「派蒙的画作第28弹」现已上线 | https://ys.mihoyo.com/main/news/detail/29540 |
 | 《原神》过场动画-「罪人的终幕」 | https://ys.mihoyo.com/main/news/detail/29538 |
@@ -19,7 +20,6 @@
 | 小红书x原神「珊海绮遇」主题联动现已开启 | https://ys.mihoyo.com/main/news/detail/29533 |
 | 《原神》过场动画-「吞星之鲸」 | https://ys.mihoyo.com/main/news/detail/29530 |
 | 「图形对抗实验录」活动：趣味留影挑战 | https://ys.mihoyo.com/main/news/detail/29527 |
-| 《原神》「轻涟」QQ音乐专题活动正式上线 | https://ys.mihoyo.com/main/news/detail/29526 |
 
 
 ## 米游社商品
