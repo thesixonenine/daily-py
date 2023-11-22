@@ -10,6 +10,8 @@
 
 | title | url |
 |:---:|:---:|
+| 「磐祭叶守」神里绫人同人绘画作品征集开启 | https://ys.mihoyo.com/main/news/detail/29561 |
+| 「缄秘的裁遣」赛诺同人绘画作品征集开启 | https://ys.mihoyo.com/main/news/detail/29560 |
 | 「特尔克西的奇幻历险」玩法说明 | https://ys.mihoyo.com/main/news/detail/29557 |
 | 「特尔克西的奇幻历险」活动：参与邀请「潜怀遐梦·菲米尼(冰)」 | https://ys.mihoyo.com/main/news/detail/29543 |
 | 刻晴生日快乐｜呼——果然毛茸茸的小动物最能让人放松呢。 | https://ys.mihoyo.com/main/news/detail/29541 |
@@ -18,8 +20,6 @@
 | 《原神》入围 TGA 2023「最佳持续运营游戏」 | https://ys.mihoyo.com/main/news/detail/29536 |
 | 《原神》「派蒙的画作小红书篇」联动主题表情包即将上架 | https://ys.mihoyo.com/main/news/detail/29535 |
 | 「珊海绮书」——小红书×原神 联动分享活动现已上线 | https://ys.mihoyo.com/main/news/detail/29534 |
-| 小红书x原神「珊海绮遇」主题联动现已开启 | https://ys.mihoyo.com/main/news/detail/29533 |
-| 《原神》过场动画-「吞星之鲸」 | https://ys.mihoyo.com/main/news/detail/29530 |
 
 
 ## 米游社商品
