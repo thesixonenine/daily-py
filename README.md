@@ -10,6 +10,8 @@
 
 | title | url |
 |:---:|:---:|
+| 「七圣召唤」热斗模式：列阵斗巧 | https://ys.mihoyo.com/main/news/detail/29563 |
+|  莱欧斯利生日快乐｜好久不见，旅行还顺利吗？ | https://ys.mihoyo.com/main/news/detail/29562 |
 | 「磐祭叶守」神里绫人同人绘画作品征集开启 | https://ys.mihoyo.com/main/news/detail/29561 |
 | 「缄秘的裁遣」赛诺同人绘画作品征集开启 | https://ys.mihoyo.com/main/news/detail/29560 |
 | 「特尔克西的奇幻历险」玩法说明 | https://ys.mihoyo.com/main/news/detail/29557 |
@@ -18,8 +20,6 @@
 | 《原神》4.2版本表情包「派蒙的画作第28弹」现已上线 | https://ys.mihoyo.com/main/news/detail/29540 |
 | 《原神》过场动画-「罪人的终幕」 | https://ys.mihoyo.com/main/news/detail/29538 |
 | 《原神》入围 TGA 2023「最佳持续运营游戏」 | https://ys.mihoyo.com/main/news/detail/29536 |
-| 《原神》「派蒙的画作小红书篇」联动主题表情包即将上架 | https://ys.mihoyo.com/main/news/detail/29535 |
-| 「珊海绮书」——小红书×原神 联动分享活动现已上线 | https://ys.mihoyo.com/main/news/detail/29534 |
 
 
 ## 米游社商品
@@ -210,11 +210,11 @@
 | 2023110912663 | 【原神】同人头像-班尼特点赞（永久） | 0 | 1 | 1000 | [图](https://bbs-static.miyoushe.com/static/2023/11/09/300e82cea9fceb229a4476225dc1c043_3487516536828399775.gif) |
 | 2023110912397 | 【原神】同人头像-荧吃球（永久） | 0 | 1 | 1000 | [图](https://bbs-static.miyoushe.com/static/2023/11/09/683c78fafdc770a328093c112fad43ad_3393129002666296349.gif) |
 | 2023110912904 | 【原神】同人头像-森林之心（永久） | 0 | 1 | 1000 | [图](https://bbs-static.miyoushe.com/static/2023/11/09/249f696fdb0d2accf5e5d80011a87abf_5097548406776484226.gif) |
-| 2023110214357 | 【米游社】小米磁吸无线充电宝 | 10 | 1 | 41200 | [图](https://bbs-static.miyoushe.com/static/2023/11/02/b4e3b4b363a417e610062f222bcfc161_1999515757159612680.JPG) |
-| 2023110214496 | 【米游社】小熊多功能电煮锅 1.6L | 10 | 1 | 16000 | [图](https://bbs-static.miyoushe.com/static/2023/03/23/97b280318f2692f3d97981ef411c3a91_3933141198573339909.jpg) |
-| 2023110211442 | 【米游社】心动滋味系列亚克力装饰画 | 15 | 1 | 11100 | [图](https://bbs-static.miyoushe.com/static/2023/10/09/7c5a2eb186bb763967e9826c75e30e89_5914644860665893098.JPG) |
-| 2023110211496 | 【米游社】米游鸽姬毛绒按摩捶 | 15 | 1 | 11100 | [图](https://bbs-static.miyoushe.com/static/2023/10/09/a2c1c52552408632c8aff0f7b9c2810e_4205274625589240208.JPG) |
-| 2023110211679 | 【米游社】miYoSummer 都市重构系列 Q版抱枕 | 15 | 1 | 13800 | [图](https://bbs-static.miyoushe.com/static/2023/06/27/163e51aa6507a53d983b751031852e2b_1687644664360006160.jpg) |
+| 2023110214357 | 【米游社】小米磁吸无线充电宝 | 0 | 1 | 41200 | [图](https://bbs-static.miyoushe.com/static/2023/11/02/b4e3b4b363a417e610062f222bcfc161_1999515757159612680.JPG) |
+| 2023110214496 | 【米游社】小熊多功能电煮锅 1.6L | 0 | 1 | 16000 | [图](https://bbs-static.miyoushe.com/static/2023/03/23/97b280318f2692f3d97981ef411c3a91_3933141198573339909.jpg) |
+| 2023110211442 | 【米游社】心动滋味系列亚克力装饰画 | 0 | 1 | 11100 | [图](https://bbs-static.miyoushe.com/static/2023/10/09/7c5a2eb186bb763967e9826c75e30e89_5914644860665893098.JPG) |
+| 2023110211496 | 【米游社】米游鸽姬毛绒按摩捶 | 0 | 1 | 11100 | [图](https://bbs-static.miyoushe.com/static/2023/10/09/a2c1c52552408632c8aff0f7b9c2810e_4205274625589240208.JPG) |
+| 2023110211679 | 【米游社】miYoSummer 都市重构系列 Q版抱枕 | 0 | 1 | 13800 | [图](https://bbs-static.miyoushe.com/static/2023/06/27/163e51aa6507a53d983b751031852e2b_1687644664360006160.jpg) |
 | 2023080315602 | 【创小摊】运费减7元优惠券 | 5000 | 0 | 1750 | [图](https://bbs-static.miyoushe.com/static/2023/08/03/a2a92f3c6b2014b123e54f953a0cea96_6783669599338469346.png) |
 | 2023080315882 | 【创小摊】运费减3元优惠券 | 12000 | 0 | 750 | [图](https://bbs-static.miyoushe.com/static/2023/08/03/1bf2e3c6083c432a4c9c5ca1e13a367b_4551099986920077267.png) |
 | 2023080315274 | 【创小摊】实物周边满60元减8元优惠券 | 2000 | 0 | 2000 | [图](https://bbs-static.miyoushe.com/static/2023/08/03/1ea4d31877f87df19ab2faa2f5f8c795_7334063888172602390.png) |
