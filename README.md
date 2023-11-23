@@ -10,16 +10,16 @@
 
 | title | url |
 |:---:|:---:|
+| 「罪人舞步旋」4.2版本活动速递第二期 | https://ys.mihoyo.com/main/news/detail/29627 |
+| 「神铸赋形」祈愿：「长柄武器·赤沙之杖」「单手剑·波乱月白经津」概率UP！ | https://ys.mihoyo.com/main/news/detail/29626 |
+| 「苍流踏花」祈愿：「磐祭叶守·神里绫人(水)」概率UP！ | https://ys.mihoyo.com/main/news/detail/29625 |
+| 「雳裁冥昭」祈愿：「缄秘的裁遣·赛诺(雷)」概率UP！ | https://ys.mihoyo.com/main/news/detail/29624 |
 | 「七圣召唤」热斗模式：列阵斗巧 | https://ys.mihoyo.com/main/news/detail/29563 |
 |  莱欧斯利生日快乐｜好久不见，旅行还顺利吗？ | https://ys.mihoyo.com/main/news/detail/29562 |
 | 「磐祭叶守」神里绫人同人绘画作品征集开启 | https://ys.mihoyo.com/main/news/detail/29561 |
 | 「缄秘的裁遣」赛诺同人绘画作品征集开启 | https://ys.mihoyo.com/main/news/detail/29560 |
 | 「特尔克西的奇幻历险」玩法说明 | https://ys.mihoyo.com/main/news/detail/29557 |
 | 「特尔克西的奇幻历险」活动：参与邀请「潜怀遐梦·菲米尼(冰)」 | https://ys.mihoyo.com/main/news/detail/29543 |
-| 刻晴生日快乐｜呼——果然毛茸茸的小动物最能让人放松呢。 | https://ys.mihoyo.com/main/news/detail/29541 |
-| 《原神》4.2版本表情包「派蒙的画作第28弹」现已上线 | https://ys.mihoyo.com/main/news/detail/29540 |
-| 《原神》过场动画-「罪人的终幕」 | https://ys.mihoyo.com/main/news/detail/29538 |
-| 《原神》入围 TGA 2023「最佳持续运营游戏」 | https://ys.mihoyo.com/main/news/detail/29536 |
 
 
 ## 米游社商品
