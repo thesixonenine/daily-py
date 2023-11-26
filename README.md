@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+|  砂糖生日快乐｜微风徐徐，真是个适合出游的好天气呢。 | https://ys.mihoyo.com/main/news/detail/29628 |
 | 「罪人舞步旋」4.2版本活动速递第二期 | https://ys.mihoyo.com/main/news/detail/29627 |
 | 「神铸赋形」祈愿：「长柄武器·赤沙之杖」「单手剑·波乱月白经津」概率UP！ | https://ys.mihoyo.com/main/news/detail/29626 |
 | 「苍流踏花」祈愿：「磐祭叶守·神里绫人(水)」概率UP！ | https://ys.mihoyo.com/main/news/detail/29625 |
@@ -19,7 +20,6 @@
 | 「磐祭叶守」神里绫人同人绘画作品征集开启 | https://ys.mihoyo.com/main/news/detail/29561 |
 | 「缄秘的裁遣」赛诺同人绘画作品征集开启 | https://ys.mihoyo.com/main/news/detail/29560 |
 | 「特尔克西的奇幻历险」玩法说明 | https://ys.mihoyo.com/main/news/detail/29557 |
-| 「特尔克西的奇幻历险」活动：参与邀请「潜怀遐梦·菲米尼(冰)」 | https://ys.mihoyo.com/main/news/detail/29543 |
 
 
 ## 米游社商品
