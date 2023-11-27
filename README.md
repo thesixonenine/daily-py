@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》「壁纸放送」 | https://ys.mihoyo.com/main/news/detail/29645 |
 |  砂糖生日快乐｜微风徐徐，真是个适合出游的好天气呢。 | https://ys.mihoyo.com/main/news/detail/29628 |
 | 「罪人舞步旋」4.2版本活动速递第二期 | https://ys.mihoyo.com/main/news/detail/29627 |
 | 「神铸赋形」祈愿：「长柄武器·赤沙之杖」「单手剑·波乱月白经津」概率UP！ | https://ys.mihoyo.com/main/news/detail/29626 |
@@ -19,7 +20,6 @@
 |  莱欧斯利生日快乐｜好久不见，旅行还顺利吗？ | https://ys.mihoyo.com/main/news/detail/29562 |
 | 「磐祭叶守」神里绫人同人绘画作品征集开启 | https://ys.mihoyo.com/main/news/detail/29561 |
 | 「缄秘的裁遣」赛诺同人绘画作品征集开启 | https://ys.mihoyo.com/main/news/detail/29560 |
-| 「特尔克西的奇幻历险」玩法说明 | https://ys.mihoyo.com/main/news/detail/29557 |
 
 
 ## 米游社商品
