@@ -92,7 +92,7 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 2023042712873 | 水晶*100 | 0 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2020/06/18/ccf130fa959888e48af399799ac91458_2459754489211937281.png) |
+| 2023042712873 | 水晶*100 | 11250 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2020/06/18/ccf130fa959888e48af399799ac91458_2459754489211937281.png) |
 | 21579179504316812467643946757 | 体力药水*1 | 0 | 2 | 370 | [图](https://webstatic.mihoyo.com/upload/shop/2021/04/09/9ccf0f785763dad642281e90b1a925c7_1345306158854300132.png) |
 | 215791797313419356364222347148 | 逆熵·虚数核心*5 | 0 | 2 | 1200 | [图](https://webstatic.mihoyo.com/upload/shop/2021/04/09/714c64b6547f2a1274b1524fddc7febb_2808239829919819812.png) |
 | 2021040912146 | 高级技能材料*5 | 0 | 1 | 1800 | [图](https://webstatic.mihoyo.com/upload/shop/2021/04/09/48752dc5ab70c818b6b72a6513c95f2f_5640911369522514077.png) |
@@ -116,6 +116,14 @@
 <details><summary>Details</summary>
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| 2023112711200 | 情迷贝克伦系列亚克力装饰画-陆景和 | 15 | 1 | 11100 | [图](https://bbs-static.miyoushe.com/static/2023/11/27/c08f6e32eb527a35eb210ea7a00b8637_3056451570887930121.JPG) |
+| 2023112711191 | 情迷贝克伦系列亚克力装饰画-莫弈 | 15 | 1 | 11100 | [图](https://bbs-static.miyoushe.com/static/2023/11/27/562f898197c863c37fdcbdd2ce8f7f2f_1159990989748720747.JPG) |
+| 2023112711138 | 情迷贝克伦系列亚克力装饰画-左然 | 15 | 1 | 11100 | [图](https://bbs-static.miyoushe.com/static/2023/11/27/2f5c7f5c9f4050943bc64a5957fe2ff0_8240802447725782864.JPG) |
+| 2023112711403 | 情迷贝克伦系列亚克力装饰画-夏彦 | 15 | 1 | 11100 | [图](https://bbs-static.miyoushe.com/static/2023/11/27/9b1915f082be932d1aa1e7f595530e41_35655758198681920.JPG) |
+| 2023112711530 | 甜宠萌心系列装饰色纸-陆景和 | 15 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2023/11/27/9a95278db550b15a3023f5a38d3eb38f_2138489148850084235.JPG) |
+| 2023112711883 | 甜宠萌心系列装饰色纸-莫弈 | 15 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2023/11/27/91aca81a7e1a2f61ba246c09b82bfd60_4927038816622375771.JPG) |
+| 2023112711342 | 甜宠萌心系列装饰色纸-左然 | 15 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2023/11/27/68c197de307c9eb41c2b58b90c1ef7f3_4926073641508256918.JPG) |
+| 2023112711962 | 甜宠萌心系列装饰色纸-夏彦 | 15 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2023/11/27/8ac6ddd37955c4931c4e2f0d3ffdccf1_6224049720570958207.JPG) |
 | 2023102411191 | 日常系列 Q版PU挂件-夏彦 | 0 | 1 | 7400 | [图](https://bbs-static.miyoushe.com/static/2023/10/24/6d3b3ba999c6f7d122e911deb386fd62_2015594456673318493.JPG) |
 | 2023102411431 | 日常系列 Q版PU挂件-左然 | 0 | 1 | 7400 | [图](https://bbs-static.miyoushe.com/static/2023/10/24/f7763856cf677ae32cd9b387ece96cc2_7666934597560794694.JPG) |
 | 2023102411528 | 日常系列 Q版PU挂件-莫弈 | 0 | 1 | 7400 | [图](https://bbs-static.miyoushe.com/static/2023/10/24/a3677d52827d9f9106fd2320b80f6290_2955788768126697085.JPG) |
@@ -144,7 +152,7 @@
 | 2023092711228 | 冬恋晴歌系列 亚克力装饰画-莫弈 | 0 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/09/27/6d38c15071400e95909bae61be3b72c7_5431797682524437276.jpg) |
 | 2023092711374 | 冬恋晴歌系列 亚克力装饰画-左然 | 0 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/09/27/327c4f0abb1249927e59f5d1da094eda_301337414976848700.jpg) |
 | 2023092711917 | 冬恋晴歌系列 亚克力装饰画-夏彦 | 0 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/09/27/3c545d0a12f14ff4e654172a4b89ba3b_7582303541380083932.jpg) |
-| 2020091012247 | 未名晶片×100 | 0 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2020/09/10/3ec51e35f50fb60eda4705778177c24b_3871479849056199956.png) |
+| 2020091012247 | 未名晶片×100 | 300 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2020/09/10/3ec51e35f50fb60eda4705778177c24b_3871479849056199956.png) |
 
 </details>
 
