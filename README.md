@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 凯亚生日快乐｜好啦好啦，知道你已经等不及要和大家一起玩了。 | https://ys.mihoyo.com/main/news/detail/29675 |
 | 水的轻语——《原神》「轻涟」系列创作的幕后 | https://ys.mihoyo.com/main/news/detail/29670 |
 | 4.2版本超话签到活动第二期 | https://ys.mihoyo.com/main/news/detail/29665 |
 | 《原神》「壁纸放送」 | https://ys.mihoyo.com/main/news/detail/29645 |
@@ -19,7 +20,6 @@
 | 「苍流踏花」祈愿：「磐祭叶守·神里绫人(水)」概率UP！ | https://ys.mihoyo.com/main/news/detail/29625 |
 | 「雳裁冥昭」祈愿：「缄秘的裁遣·赛诺(雷)」概率UP！ | https://ys.mihoyo.com/main/news/detail/29624 |
 | 「七圣召唤」热斗模式：列阵斗巧 | https://ys.mihoyo.com/main/news/detail/29563 |
-|  莱欧斯利生日快乐｜好久不见，旅行还顺利吗？ | https://ys.mihoyo.com/main/news/detail/29562 |
 
 
 ## 米游社商品
