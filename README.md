@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 致旅行者的答谢信 | https://ys.mihoyo.com/main/news/detail/29678 |
 | 「云端畅游，同玩有礼」 | https://ys.mihoyo.com/main/news/detail/29676 |
 | 凯亚生日快乐｜好啦好啦，知道你已经等不及要和大家一起玩了。 | https://ys.mihoyo.com/main/news/detail/29675 |
 | 水的轻语——《原神》「轻涟」系列创作的幕后 | https://ys.mihoyo.com/main/news/detail/29670 |
@@ -19,7 +20,6 @@
 | 「罪人舞步旋」4.2版本活动速递第二期 | https://ys.mihoyo.com/main/news/detail/29627 |
 | 「神铸赋形」祈愿：「长柄武器·赤沙之杖」「单手剑·波乱月白经津」概率UP！ | https://ys.mihoyo.com/main/news/detail/29626 |
 | 「苍流踏花」祈愿：「磐祭叶守·神里绫人(水)」概率UP！ | https://ys.mihoyo.com/main/news/detail/29625 |
-| 「雳裁冥昭」祈愿：「缄秘的裁遣·赛诺(雷)」概率UP！ | https://ys.mihoyo.com/main/news/detail/29624 |
 
 
 ## 米游社商品
@@ -70,7 +70,7 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 2023042712873 | 水晶*100 | 11250 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2020/06/18/ccf130fa959888e48af399799ac91458_2459754489211937281.png) |
+| 2023042712873 | 水晶*100 | 10000 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2020/06/18/ccf130fa959888e48af399799ac91458_2459754489211937281.png) |
 | 21579179504316812467643946757 | 体力药水*1 | 0 | 2 | 370 | [图](https://webstatic.mihoyo.com/upload/shop/2021/04/09/9ccf0f785763dad642281e90b1a925c7_1345306158854300132.png) |
 | 215791797313419356364222347148 | 逆熵·虚数核心*5 | 0 | 2 | 1200 | [图](https://webstatic.mihoyo.com/upload/shop/2021/04/09/714c64b6547f2a1274b1524fddc7febb_2808239829919819812.png) |
 | 2021040912146 | 高级技能材料*5 | 0 | 1 | 1800 | [图](https://webstatic.mihoyo.com/upload/shop/2021/04/09/48752dc5ab70c818b6b72a6513c95f2f_5640911369522514077.png) |
