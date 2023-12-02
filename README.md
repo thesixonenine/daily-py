@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 甘雨生日快乐｜啊！我、我又睡着了吗，真是抱歉… | https://ys.mihoyo.com/main/news/detail/29680 |
 | 致旅行者的答谢信 | https://ys.mihoyo.com/main/news/detail/29678 |
 | 「云端畅游，同玩有礼」 | https://ys.mihoyo.com/main/news/detail/29676 |
 | 凯亚生日快乐｜好啦好啦，知道你已经等不及要和大家一起玩了。 | https://ys.mihoyo.com/main/news/detail/29675 |
@@ -19,7 +20,6 @@
 |  砂糖生日快乐｜微风徐徐，真是个适合出游的好天气呢。 | https://ys.mihoyo.com/main/news/detail/29628 |
 | 「罪人舞步旋」4.2版本活动速递第二期 | https://ys.mihoyo.com/main/news/detail/29627 |
 | 「神铸赋形」祈愿：「长柄武器·赤沙之杖」「单手剑·波乱月白经津」概率UP！ | https://ys.mihoyo.com/main/news/detail/29626 |
-| 「苍流踏花」祈愿：「磐祭叶守·神里绫人(水)」概率UP！ | https://ys.mihoyo.com/main/news/detail/29625 |
 
 
 ## 米游社商品
