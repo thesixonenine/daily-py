@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 「小小灵蕈大幻戏」活动：蕈兽棋阵挑战 | https://ys.mihoyo.com/main/news/detail/29682 |
 | 妮露生日快乐｜当当，是我编的花环，要戴上看看吗？ | https://ys.mihoyo.com/main/news/detail/29681 |
 | 甘雨生日快乐｜啊！我、我又睡着了吗，真是抱歉… | https://ys.mihoyo.com/main/news/detail/29680 |
 | 致旅行者的答谢信 | https://ys.mihoyo.com/main/news/detail/29678 |
@@ -19,7 +20,6 @@
 | 4.2版本超话签到活动第二期 | https://ys.mihoyo.com/main/news/detail/29665 |
 | 《原神》「壁纸放送」 | https://ys.mihoyo.com/main/news/detail/29645 |
 |  砂糖生日快乐｜微风徐徐，真是个适合出游的好天气呢。 | https://ys.mihoyo.com/main/news/detail/29628 |
-| 「罪人舞步旋」4.2版本活动速递第二期 | https://ys.mihoyo.com/main/news/detail/29627 |
 
 
 ## 米游社商品
