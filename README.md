@@ -87,7 +87,6 @@
 <details><summary>Details</summary>
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 2023112911906 | 夏彦生日新品组合（生日特价） | 0 | 1 | 520 | [图](https://bbs-static.miyoushe.com/static/2023/11/29/08b99382a4d3465d2368550b4a459599_509271107090517025.jpg) |
 | 2023112711200 | 情迷贝克伦系列亚克力装饰画-陆景和 | 15 | 1 | 11100 | [图](https://bbs-static.miyoushe.com/static/2023/11/27/c08f6e32eb527a35eb210ea7a00b8637_3056451570887930121.JPG) |
 | 2023112711191 | 情迷贝克伦系列亚克力装饰画-莫弈 | 15 | 1 | 11100 | [图](https://bbs-static.miyoushe.com/static/2023/11/27/562f898197c863c37fdcbdd2ce8f7f2f_1159990989748720747.JPG) |
 | 2023112711138 | 情迷贝克伦系列亚克力装饰画-左然 | 15 | 1 | 11100 | [图](https://bbs-static.miyoushe.com/static/2023/11/27/2f5c7f5c9f4050943bc64a5957fe2ff0_8240802447725782864.JPG) |
