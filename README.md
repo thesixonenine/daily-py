@@ -87,6 +87,7 @@
 <details><summary>Details</summary>
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| 2023112911906 | 夏彦生日新品组合（生日特价） | 0 | 1 | 520 | [图](https://bbs-static.miyoushe.com/static/2023/11/29/08b99382a4d3465d2368550b4a459599_509271107090517025.jpg) |
 | 2023112911658 | 珍藏系列 纪念金属徽章第四弹-狂沙回响 | 0 | 1 | 8800 | [图](https://bbs-static.miyoushe.com/static/2023/11/29/612c2dacb1d2e73a7f80801000358c5c_7996188584545294156.JPG) |
 | 2023112911840 | 珍藏系列 纪念金属徽章第四弹-鹊桥佳偶 | 0 | 1 | 8800 | [图](https://bbs-static.miyoushe.com/static/2023/11/29/d567ea2134fde90ffab31459b7c2d545_5634076508010459479.JPG) |
 | 2023112911107 | 珍藏系列 纪念金属徽章第四弹-相依流年 | 0 | 1 | 8800 | [图](https://bbs-static.miyoushe.com/static/2023/11/29/f2aa70d863af6d867f7178a045f45062_7948764498340712055.JPG) |
@@ -147,6 +148,11 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| 2023113011206 | 【米游社】日常系列Q版挂钩-C（来了来了&amp;撒花 ） | 40 | 1 | 3500 | [图](https://bbs-static.miyoushe.com/static/2023/12/04/1dd01f022ce74ec569d15eced0246b3f_3311776409437466792.png) |
+| 2023113011782 | 【米游社】日常系列Q版挂钩-B（打Call&amp;哼） | 40 | 1 | 3500 | [图](https://bbs-static.miyoushe.com/static/2023/12/04/a055b12af864242a45c4624dfcc5c6a9_8498872042409516725.png) |
+| 2023113011378 | 【米游社】日常系列Q版挂钩-A（点赞&amp;乖巧） | 40 | 1 | 3500 | [图](https://bbs-static.miyoushe.com/static/2023/11/30/f1a8cf2e6067d12c6fa108ea26d7df77_4283933405379785047.JPG) |
+| 2023113014539 | 【米游社】小米磁吸无线充电宝 | 5 | 1 | 41200 | [图](https://bbs-static.miyoushe.com/static/2023/11/02/b4e3b4b363a417e610062f222bcfc161_1999515757159612680.JPG) |
+| 2023113014807 | 【米游社】米家 显示器挂灯1S | 5 | 1 | 50000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/10/28/c786497c75b544541c5f6479067d8b2b_5168265641324298303.jpg) |
 | 2023112912153 | 【未定事件簿】夏彦生贺头像挂件「灼年情记」（30天） | 0 | 1 | 1000 | [图](https://webstatic.mihoyo.com/upload/shop/2021/12/03/50a1c1324aa22b877d5a6681f48823ae_7884832200406437976.png) |
 | 2023112912606 | 【未定事件簿】夏彦生贺头像挂件「灼年情记」（永久） | 0 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2021/12/03/50a1c1324aa22b877d5a6681f48823ae_7884832200406437976.png) |
 | 2023112912575 | 【未定事件簿】夏彦生贺头像挂件「恋满韶荫」（30天） | 0 | 1 | 1000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/12/01/d596fa7e433ea3a652a68865e7c39418_2492250721176995706.jpg) |
