@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 圣遗物管理优化和养成界面优化来了~—— 12月6日开发组座谈会 | https://ys.mihoyo.com/main/news/detail/29689 |
 | 「小小灵蕈大幻戏」活动：蕈兽棋阵挑战 | https://ys.mihoyo.com/main/news/detail/29682 |
 | 妮露生日快乐｜当当，是我编的花环，要戴上看看吗？ | https://ys.mihoyo.com/main/news/detail/29681 |
 | 甘雨生日快乐｜啊！我、我又睡着了吗，真是抱歉… | https://ys.mihoyo.com/main/news/detail/29680 |
@@ -19,7 +20,6 @@
 | 水的轻语——《原神》「轻涟」系列创作的幕后 | https://ys.mihoyo.com/main/news/detail/29670 |
 | 4.2版本超话签到活动第二期 | https://ys.mihoyo.com/main/news/detail/29665 |
 | 《原神》「壁纸放送」 | https://ys.mihoyo.com/main/news/detail/29645 |
-|  砂糖生日快乐｜微风徐徐，真是个适合出游的好天气呢。 | https://ys.mihoyo.com/main/news/detail/29628 |
 
 
 ## 米游社商品
