@@ -29,8 +29,6 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 2023110512992 | 原石*60 | 0 | 1 | 1800 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/dab394b1516c58a00b91f8dba9756110_8904801501338765557.png) |
-| 2023110512506 | 原石*150 | 0 | 1 | 4500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/dab394b1516c58a00b91f8dba9756110_8904801501338765557.png) |
 | 2023110512245 | 摩拉*50000 | 4000 | 1 | 1500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/d63798a398c18de7f3ce23b7e1dcd02f_3159879231696238340.png) |
 | 2023110512676 | 大英雄的经验*5 | 4000 | 1 | 1500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/468097d8c7fb608f3a23d057d871e48a_7303233958715687443.png) |
 | 2023110511679 | 逸闻轶事系列 角色亚克力流沙小摆件-迪希雅款 | 10 | 1 | 9200 | [图](https://bbs-static.miyoushe.com/static/2023/11/05/ee72dc5285555978848fabf1e32e3161_8393448315470206150.JPG) |
@@ -46,6 +44,8 @@
 | 2023110511251 | 旅行者主题系列 人物亚克力立牌 旅行者男-空 | 10 | 1 | 11500 | [图](https://webstatic.mihoyo.com/upload/shop/2023/02/23/6ec8560c632568587698213af089f733_8359159772963319706.jpg) |
 | 2023110511932 | 旅行者主题系列 人物亚克力立牌 旅行者女-荧 | 10 | 1 | 11500 | [图](https://webstatic.mihoyo.com/upload/shop/2023/02/23/247af27e6e2115d5a0fbbbbbb8f4b795_7475772646023177218.jpg) |
 | 2023110511122 | 旅行者主题系列 人物亚克力立牌-派蒙 | 10 | 1 | 11500 | [图](https://webstatic.mihoyo.com/upload/shop/2023/02/23/08649183ad904a87626ec0c4e325957c_6341825927693623369.jpg) |
+| 2023110512506 | 原石*150 | 0 | 1 | 4500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/dab394b1516c58a00b91f8dba9756110_8904801501338765557.png) |
+| 2023110512992 | 原石*60 | 0 | 1 | 1800 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/dab394b1516c58a00b91f8dba9756110_8904801501338765557.png) |
 
 
 
