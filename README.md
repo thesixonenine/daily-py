@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》4.3版本「蔷薇与铳枪」前瞻特别节目预告 | https://ys.mihoyo.com/main/news/detail/29691 |
 | 圣遗物管理优化和养成界面优化来了~—— 12月6日开发组座谈会 | https://ys.mihoyo.com/main/news/detail/29689 |
 | 「小小灵蕈大幻戏」活动：蕈兽棋阵挑战 | https://ys.mihoyo.com/main/news/detail/29682 |
 | 妮露生日快乐｜当当，是我编的花环，要戴上看看吗？ | https://ys.mihoyo.com/main/news/detail/29681 |
@@ -19,7 +20,6 @@
 | 凯亚生日快乐｜好啦好啦，知道你已经等不及要和大家一起玩了。 | https://ys.mihoyo.com/main/news/detail/29675 |
 | 水的轻语——《原神》「轻涟」系列创作的幕后 | https://ys.mihoyo.com/main/news/detail/29670 |
 | 4.2版本超话签到活动第二期 | https://ys.mihoyo.com/main/news/detail/29665 |
-| 《原神》「壁纸放送」 | https://ys.mihoyo.com/main/news/detail/29645 |
 
 
 ## 米游社商品
