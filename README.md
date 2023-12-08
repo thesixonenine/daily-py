@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 致旅行者的答谢信 | https://ys.mihoyo.com/main/news/detail/29694 |
 | 《原神》「流光拾遗之旅」——尘世篇·蛋雕 | https://ys.mihoyo.com/main/news/detail/29693 |
 | 《原神》4.3版本「蔷薇与铳枪」前瞻特别节目预告 | https://ys.mihoyo.com/main/news/detail/29691 |
 | 圣遗物管理优化和养成界面优化来了~—— 12月6日开发组座谈会 | https://ys.mihoyo.com/main/news/detail/29689 |
@@ -19,7 +20,6 @@
 | 致旅行者的答谢信 | https://ys.mihoyo.com/main/news/detail/29678 |
 | 「云端畅游，同玩有礼」 | https://ys.mihoyo.com/main/news/detail/29676 |
 | 凯亚生日快乐｜好啦好啦，知道你已经等不及要和大家一起玩了。 | https://ys.mihoyo.com/main/news/detail/29675 |
-| 水的轻语——《原神》「轻涟」系列创作的幕后 | https://ys.mihoyo.com/main/news/detail/29670 |
 
 
 ## 米游社商品
