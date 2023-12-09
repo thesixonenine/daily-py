@@ -11,6 +11,8 @@
 | title | url |
 |:---:|:---:|
 | 原神音乐会2023 - 无际之旅的旋律（预告片） | https://ys.mihoyo.com/main/news/detail/29704 |
+| 「地脉移涌」活动：「藏金之花」「启示之花」双倍掉落！ | https://ys.mihoyo.com/main/news/detail/29703 |
+| 4.3新版本「蔷薇与铳枪」先行展示页现已开启！ | https://ys.mihoyo.com/main/news/detail/29702 |
 | 2023原神线上音乐会节目信息公开！ | https://ys.mihoyo.com/main/news/detail/29701 |
 | 《原神》4.3版本「蔷薇与铳枪」前瞻特别节目回顾长图 | https://ys.mihoyo.com/main/news/detail/29700 |
 | 《原神》4.3版本「蔷薇与铳枪」前瞻特别节目回顾 | https://ys.mihoyo.com/main/news/detail/29699 |
@@ -18,8 +20,6 @@
 | 《云·原神》动画短片——第二篇 | https://ys.mihoyo.com/main/news/detail/29697 |
 | 《云·原神》动画短片——第一篇 | https://ys.mihoyo.com/main/news/detail/29696 |
 | 《原神》4.3版本PV：「蔷薇与铳枪」 | https://ys.mihoyo.com/main/news/detail/29695 |
-| 致旅行者的答谢信 | https://ys.mihoyo.com/main/news/detail/29694 |
-| 《原神》「流光拾遗之旅」——尘世篇·蛋雕 | https://ys.mihoyo.com/main/news/detail/29693 |
 
 
 ## 米游社商品
