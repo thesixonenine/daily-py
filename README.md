@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》「派蒙的画作网易天成联动篇」联动主题表情包即将上架 | https://ys.mihoyo.com/main/news/detail/29705 |
 | 原神音乐会2023 - 无际之旅的旋律（预告片） | https://ys.mihoyo.com/main/news/detail/29704 |
 | 「地脉移涌」活动：「藏金之花」「启示之花」双倍掉落！ | https://ys.mihoyo.com/main/news/detail/29703 |
 | 4.3新版本「蔷薇与铳枪」先行展示页现已开启！ | https://ys.mihoyo.com/main/news/detail/29702 |
@@ -19,7 +20,6 @@
 | 三星堆博物馆×原神「仰观千秋，俯察万象」联动即将开启 | https://ys.mihoyo.com/main/news/detail/29698 |
 | 《云·原神》动画短片——第二篇 | https://ys.mihoyo.com/main/news/detail/29697 |
 | 《云·原神》动画短片——第一篇 | https://ys.mihoyo.com/main/news/detail/29696 |
-| 《原神》4.3版本PV：「蔷薇与铳枪」 | https://ys.mihoyo.com/main/news/detail/29695 |
 
 
 ## 米游社商品
