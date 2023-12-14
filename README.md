@@ -10,6 +10,8 @@
 
 | title | url |
 |:---:|:---:|
+| 「玫瑰礼花！刺玫会特别定制版。」——「明花蔓舵」·娜维娅 | https://ys.mihoyo.com/main/news/detail/29747 |
+| 《原神》娜维娅角色PV——「特邀嘉宾」 | https://ys.mihoyo.com/main/news/detail/29745 |
 | 4.3版本圣遗物自动锁定、筛选功能更新速递 | https://ys.mihoyo.com/main/news/detail/29709 |
 | 《原神》「派蒙的画作网易天成联动篇」联动主题表情包即将上架 | https://ys.mihoyo.com/main/news/detail/29705 |
 | 原神音乐会2023 - 无际之旅的旋律（预告片） | https://ys.mihoyo.com/main/news/detail/29704 |
@@ -18,8 +20,6 @@
 | 2023原神线上音乐会节目信息公开！ | https://ys.mihoyo.com/main/news/detail/29701 |
 | 《原神》4.3版本「蔷薇与铳枪」前瞻特别节目回顾长图 | https://ys.mihoyo.com/main/news/detail/29700 |
 | 《原神》4.3版本「蔷薇与铳枪」前瞻特别节目回顾 | https://ys.mihoyo.com/main/news/detail/29699 |
-| 三星堆博物馆×原神「仰观千秋，俯察万象」联动即将开启 | https://ys.mihoyo.com/main/news/detail/29698 |
-| 《云·原神》动画短片——第二篇 | https://ys.mihoyo.com/main/news/detail/29697 |
 
 
 ## 米游社商品
