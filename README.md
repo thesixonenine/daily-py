@@ -150,6 +150,12 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| 2023121412496 | 【原神】「派蒙的晚餐」（永久） | 0 | 1 | 3000 | [图](https://bbs-static.miyoushe.com/static/2023/12/14/68e39606712a73cbd8233daeb4bf5bd7_9163479592273410270.JPG) |
+| 2023111012157 | 【崩坏：星穹铁道】「谛听」（永久） | 0 | 1 | 3000 | [图](https://bbs-static.miyoushe.com/static/2023/11/10/0f712ae8efbb2b9508fdd517fe9d11b2_7764032084901863890.JPG) |
+| 2023121412564 | 【绝区零】兑换中心限定（永久） | 0 | 1 | 3000 | [图](https://bbs-static.miyoushe.com/static/2023/12/14/b9f89c88deca0f959cf6bf53604a62da_105025548955261412.JPG) |
+| 2023111012370 | 【崩坏3】吼姆头像挂件（永久） | 0 | 1 | 3000 | [图](https://bbs-static.miyoushe.com/static/2023/11/10/65b60ae9e7ba51688ffca631912b6a32_3383157087802125861.JPG) |
+| 2023111312980 | 【崩坏学园2】「崩坏娘本体」头像挂件 | 0 | 1 | 3000 | [图](https://bbs-static.miyoushe.com/static/2023/11/13/43be4a336e534e3e166c89a84d3a41bd_7093818662758735240.jpg) |
+| 2023111012901 | 【未定事件簿】「NXX徽记」头像挂件（永久） | 0 | 1 | 3000 | [图](https://bbs-static.miyoushe.com/static/2023/11/10/d9125878c3f33d7c32c2c5898b302d59_1128590908682509664.JPG) |
 | 2023113011206 | 【米游社】日常系列Q版挂钩-C（来了来了&amp;撒花 ） | 40 | 1 | 3500 | [图](https://bbs-static.miyoushe.com/static/2023/12/04/1dd01f022ce74ec569d15eced0246b3f_3311776409437466792.png) |
 | 2023113011782 | 【米游社】日常系列Q版挂钩-B（打Call&amp;哼） | 40 | 1 | 3500 | [图](https://bbs-static.miyoushe.com/static/2023/12/04/a055b12af864242a45c4624dfcc5c6a9_8498872042409516725.png) |
 | 2023113011378 | 【米游社】日常系列Q版挂钩-A（点赞&amp;乖巧） | 40 | 1 | 3500 | [图](https://bbs-static.miyoushe.com/static/2023/11/30/f1a8cf2e6067d12c6fa108ea26d7df77_4283933405379785047.JPG) |
@@ -158,10 +164,6 @@
 | 2023112912153 | 【未定事件簿】夏彦生贺头像挂件「灼年情记」（30天） | 0 | 1 | 1000 | [图](https://webstatic.mihoyo.com/upload/shop/2021/12/03/50a1c1324aa22b877d5a6681f48823ae_7884832200406437976.png) |
 | 2023112912606 | 【未定事件簿】夏彦生贺头像挂件「灼年情记」（永久） | 0 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2021/12/03/50a1c1324aa22b877d5a6681f48823ae_7884832200406437976.png) |
 | 2023112912575 | 【未定事件簿】夏彦生贺头像挂件「恋满韶荫」（30天） | 0 | 1 | 1000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/12/01/d596fa7e433ea3a652a68865e7c39418_2492250721176995706.jpg) |
-| 2023111312980 | 【崩坏学园2】「崩坏娘本体」头像挂件 | 0 | 1 | 3000 | [图](https://bbs-static.miyoushe.com/static/2023/11/13/43be4a336e534e3e166c89a84d3a41bd_7093818662758735240.jpg) |
-| 2023111012370 | 【崩坏3】吼姆头像挂件（永久） | 0 | 1 | 3000 | [图](https://bbs-static.miyoushe.com/static/2023/11/10/65b60ae9e7ba51688ffca631912b6a32_3383157087802125861.JPG) |
-| 2023111012901 | 【未定事件簿】「NXX徽记」头像挂件（永久） | 0 | 1 | 3000 | [图](https://bbs-static.miyoushe.com/static/2023/11/10/d9125878c3f33d7c32c2c5898b302d59_1128590908682509664.JPG) |
-| 2023111012157 | 【崩坏：星穹铁道】「谛听」（永久） | 0 | 1 | 3000 | [图](https://bbs-static.miyoushe.com/static/2023/11/10/0f712ae8efbb2b9508fdd517fe9d11b2_7764032084901863890.JPG) |
 | 2023080315602 | 【创小摊】运费减7元优惠券 | 0 | 0 | 1750 | [图](https://bbs-static.miyoushe.com/static/2023/08/03/a2a92f3c6b2014b123e54f953a0cea96_6783669599338469346.png) |
 | 2023080315882 | 【创小摊】运费减3元优惠券 | 0 | 0 | 750 | [图](https://bbs-static.miyoushe.com/static/2023/08/03/1bf2e3c6083c432a4c9c5ca1e13a367b_4551099986920077267.png) |
 | 2023080315274 | 【创小摊】实物周边满60元减8元优惠券 | 0 | 0 | 2000 | [图](https://bbs-static.miyoushe.com/static/2023/08/03/1ea4d31877f87df19ab2faa2f5f8c795_7334063888172602390.png) |
