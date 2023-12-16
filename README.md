@@ -10,6 +10,9 @@
 
 | title | url |
 |:---:|:---:|
+| 4.3版本「蔷薇与铳枪」全新圣遗物说明 | https://ys.mihoyo.com/main/news/detail/29776 |
+| 4.3版本「蔷薇与铳枪」全新武器说明 | https://ys.mihoyo.com/main/news/detail/29775 |
+| 《原神交响音乐会2023》上海场官方录播正式上线 | https://ys.mihoyo.com/main/news/detail/29774 |
 | 4.3版本七圣召唤新内容展示页上线！ | https://ys.mihoyo.com/main/news/detail/29750 |
 | 「马卡龙作战」——《原神》新角色：娜维娅分享H5正式上线。 | https://ys.mihoyo.com/main/news/detail/29749 |
 | 「玫瑰礼花！刺玫会特别定制版。」——「明花蔓舵」·娜维娅 | https://ys.mihoyo.com/main/news/detail/29747 |
@@ -17,9 +20,6 @@
 | 4.3版本圣遗物自动锁定、筛选功能更新速递 | https://ys.mihoyo.com/main/news/detail/29709 |
 | 《原神》「派蒙的画作网易天成联动篇」联动主题表情包即将上架 | https://ys.mihoyo.com/main/news/detail/29705 |
 | 原神音乐会2023 - 无际之旅的旋律（预告片） | https://ys.mihoyo.com/main/news/detail/29704 |
-| 「地脉移涌」活动：「藏金之花」「启示之花」双倍掉落！ | https://ys.mihoyo.com/main/news/detail/29703 |
-| 4.3新版本「蔷薇与铳枪」先行展示页现已开启！ | https://ys.mihoyo.com/main/news/detail/29702 |
-| 2023原神线上音乐会节目信息公开！ | https://ys.mihoyo.com/main/news/detail/29701 |
 
 
 ## 米游社商品
@@ -30,7 +30,6 @@
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 2023110512245 | 摩拉*50000 | 0 | 1 | 1500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/d63798a398c18de7f3ce23b7e1dcd02f_3159879231696238340.png) |
-| 2023110512676 | 大英雄的经验*5 | 0 | 1 | 1500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/468097d8c7fb608f3a23d057d871e48a_7303233958715687443.png) |
 | 2023110511679 | 逸闻轶事系列 角色亚克力流沙小摆件-迪希雅款 | 0 | 1 | 9200 | [图](https://bbs-static.miyoushe.com/static/2023/11/05/ee72dc5285555978848fabf1e32e3161_8393448315470206150.JPG) |
 | 2023110511632 | 逸闻轶事系列 角色亚克力流沙小摆件-艾尔海森款 | 0 | 1 | 9200 | [图](https://bbs-static.miyoushe.com/static/2023/11/05/a63702a68206d9f4c9d7a946dfee4285_6192866045301729272.JPG) |
 | 2023110511467 | 逸闻轶事系列 角色亚克力流沙小摆件-八重神子款 | 0 | 1 | 9200 | [图](https://bbs-static.miyoushe.com/static/2023/11/05/463c093242aa9a226915ddaae2d05e79_3760324660428396708.JPG) |
@@ -44,6 +43,7 @@
 | 2023110511251 | 旅行者主题系列 人物亚克力立牌 旅行者男-空 | 0 | 1 | 11500 | [图](https://webstatic.mihoyo.com/upload/shop/2023/02/23/6ec8560c632568587698213af089f733_8359159772963319706.jpg) |
 | 2023110511932 | 旅行者主题系列 人物亚克力立牌 旅行者女-荧 | 0 | 1 | 11500 | [图](https://webstatic.mihoyo.com/upload/shop/2023/02/23/247af27e6e2115d5a0fbbbbbb8f4b795_7475772646023177218.jpg) |
 | 2023110511122 | 旅行者主题系列 人物亚克力立牌-派蒙 | 0 | 1 | 11500 | [图](https://webstatic.mihoyo.com/upload/shop/2023/02/23/08649183ad904a87626ec0c4e325957c_6341825927693623369.jpg) |
+| 2023110512676 | 大英雄的经验*5 | 0 | 1 | 1500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/468097d8c7fb608f3a23d057d871e48a_7303233958715687443.png) |
 | 2023110512506 | 原石*150 | 0 | 1 | 4500 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/dab394b1516c58a00b91f8dba9756110_8904801501338765557.png) |
 | 2023110512992 | 原石*60 | 0 | 1 | 1800 | [图](https://webstatic.mihoyo.com/upload/shop/2021/10/20/dab394b1516c58a00b91f8dba9756110_8904801501338765557.png) |
 
