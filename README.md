@@ -10,6 +10,8 @@
 
 | title | url |
 |:---:|:---:|
+| 威姿劲步，踔厉猛进 | https://ys.mihoyo.com/main/news/detail/29792 |
+| 侠中影，云里客 | https://ys.mihoyo.com/main/news/detail/29791 |
 | 4.3版本 「蔷薇与铳枪」内容专题页上线！ | https://ys.mihoyo.com/main/news/detail/29789 |
 | 「蔷薇与铳枪」4.3版本活动速递第一期 | https://ys.mihoyo.com/main/news/detail/29788 |
 | 「七圣召唤」铸境研炼：奕思巧战 | https://ys.mihoyo.com/main/news/detail/29787 |
@@ -18,8 +20,6 @@
 | 「仰观千秋，俯察万象」活动：参与获得摆设「奇景铜像-『 悠古金面』」 | https://ys.mihoyo.com/main/news/detail/29784 |
 | 「野蔷薇之章」传说任务说明 | https://ys.mihoyo.com/main/news/detail/29783 |
 | 「神铸赋形」祈愿：「双手剑·裁断」「单手剑·雾切之回光」概率UP！ | https://ys.mihoyo.com/main/news/detail/29782 |
-| 「白鹭之庭」祈愿：「白鹭霜华·神里绫华(冰)」概率UP！ | https://ys.mihoyo.com/main/news/detail/29781 |
-| 「刺玫的铭誓」祈愿：「明花蔓舵·娜维娅(岩)」概率UP！ | https://ys.mihoyo.com/main/news/detail/29780 |
 
 
 ## 米游社商品
