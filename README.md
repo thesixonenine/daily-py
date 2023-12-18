@@ -10,16 +10,16 @@
 
 | title | url |
 |:---:|:---:|
-| 4.3版本更新维护预告 | https://ys.mihoyo.com/main/news/detail/29777 |
-| 4.3版本「蔷薇与铳枪」全新圣遗物说明 | https://ys.mihoyo.com/main/news/detail/29776 |
-| 4.3版本「蔷薇与铳枪」全新武器说明 | https://ys.mihoyo.com/main/news/detail/29775 |
-| 《原神交响音乐会2023》上海场官方录播正式上线 | https://ys.mihoyo.com/main/news/detail/29774 |
-| 4.3版本七圣召唤新内容展示页上线！ | https://ys.mihoyo.com/main/news/detail/29750 |
-| 「马卡龙作战」——《原神》新角色：娜维娅分享H5正式上线。 | https://ys.mihoyo.com/main/news/detail/29749 |
-| 「玫瑰礼花！刺玫会特别定制版。」——「明花蔓舵」·娜维娅 | https://ys.mihoyo.com/main/news/detail/29747 |
-| 《原神》娜维娅角色PV——「特邀嘉宾」 | https://ys.mihoyo.com/main/news/detail/29745 |
-| 4.3版本圣遗物自动锁定、筛选功能更新速递 | https://ys.mihoyo.com/main/news/detail/29709 |
-| 《原神》「派蒙的画作网易天成联动篇」联动主题表情包即将上架 | https://ys.mihoyo.com/main/news/detail/29705 |
+| 4.3版本 「蔷薇与铳枪」内容专题页上线！ | https://ys.mihoyo.com/main/news/detail/29789 |
+| 「蔷薇与铳枪」4.3版本活动速递第一期 | https://ys.mihoyo.com/main/news/detail/29788 |
+| 「七圣召唤」铸境研炼：奕思巧战 | https://ys.mihoyo.com/main/news/detail/29787 |
+| 「千灵纪行」活动说明 | https://ys.mihoyo.com/main/news/detail/29786 |
+| 「冒险助力礼包」第28期限时上架 | https://ys.mihoyo.com/main/news/detail/29785 |
+| 「仰观千秋，俯察万象」活动：参与获得摆设「奇景铜像-『 悠古金面』」 | https://ys.mihoyo.com/main/news/detail/29784 |
+| 「野蔷薇之章」传说任务说明 | https://ys.mihoyo.com/main/news/detail/29783 |
+| 「神铸赋形」祈愿：「双手剑·裁断」「单手剑·雾切之回光」概率UP！ | https://ys.mihoyo.com/main/news/detail/29782 |
+| 「白鹭之庭」祈愿：「白鹭霜华·神里绫华(冰)」概率UP！ | https://ys.mihoyo.com/main/news/detail/29781 |
+| 「刺玫的铭誓」祈愿：「明花蔓舵·娜维娅(岩)」概率UP！ | https://ys.mihoyo.com/main/news/detail/29780 |
 
 
 ## 米游社商品
