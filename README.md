@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 4.3版本更新维护预告 | https://ys.mihoyo.com/main/news/detail/29777 |
 | 4.3版本「蔷薇与铳枪」全新圣遗物说明 | https://ys.mihoyo.com/main/news/detail/29776 |
 | 4.3版本「蔷薇与铳枪」全新武器说明 | https://ys.mihoyo.com/main/news/detail/29775 |
 | 《原神交响音乐会2023》上海场官方录播正式上线 | https://ys.mihoyo.com/main/news/detail/29774 |
@@ -19,7 +20,6 @@
 | 《原神》娜维娅角色PV——「特邀嘉宾」 | https://ys.mihoyo.com/main/news/detail/29745 |
 | 4.3版本圣遗物自动锁定、筛选功能更新速递 | https://ys.mihoyo.com/main/news/detail/29709 |
 | 《原神》「派蒙的画作网易天成联动篇」联动主题表情包即将上架 | https://ys.mihoyo.com/main/news/detail/29705 |
-| 原神音乐会2023 - 无际之旅的旋律（预告片） | https://ys.mihoyo.com/main/news/detail/29704 |
 
 
 ## 米游社商品
