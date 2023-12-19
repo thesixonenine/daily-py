@@ -10,16 +10,16 @@
 
 | title | url |
 |:---:|:---:|
-| 威姿劲步，踔厉猛进 | https://ys.mihoyo.com/main/news/detail/29792 |
-| 侠中影，云里客 | https://ys.mihoyo.com/main/news/detail/29791 |
-| 4.3版本 「蔷薇与铳枪」内容专题页上线！ | https://ys.mihoyo.com/main/news/detail/29789 |
-| 「蔷薇与铳枪」4.3版本活动速递第一期 | https://ys.mihoyo.com/main/news/detail/29788 |
-| 「七圣召唤」铸境研炼：奕思巧战 | https://ys.mihoyo.com/main/news/detail/29787 |
-| 「千灵纪行」活动说明 | https://ys.mihoyo.com/main/news/detail/29786 |
-| 「冒险助力礼包」第28期限时上架 | https://ys.mihoyo.com/main/news/detail/29785 |
-| 「仰观千秋，俯察万象」活动：参与获得摆设「奇景铜像-『 悠古金面』」 | https://ys.mihoyo.com/main/news/detail/29784 |
-| 「野蔷薇之章」传说任务说明 | https://ys.mihoyo.com/main/news/detail/29783 |
-| 「神铸赋形」祈愿：「双手剑·裁断」「单手剑·雾切之回光」概率UP！ | https://ys.mihoyo.com/main/news/detail/29782 |
+| QQ小世界《原神》4.3版本视频征集&amp;直播招募活动即将开启 | https://ys.mihoyo.com/main/news/detail/29811 |
+| 微信视频号《原神》4.3版本直播激励活动即将开启 | https://ys.mihoyo.com/main/news/detail/29810 |
+| 小红书《原神》4.3版本笔记征集活动即将开启 | https://ys.mihoyo.com/main/news/detail/29809 |
+| 快手《原神》4.3版本视频征集&amp;直播招募活动即将开启 | https://ys.mihoyo.com/main/news/detail/29808 |
+| 虎牙直播《原神》4.3版本直播季活动即将开启 | https://ys.mihoyo.com/main/news/detail/29807 |
+| 斗鱼直播《原神》4.3版本直播季活动即将开启 | https://ys.mihoyo.com/main/news/detail/29806 |
+| 抖音《原神》4.3版本创作者激励计划&amp;直播激励活动即将开启 | https://ys.mihoyo.com/main/news/detail/29805 |
+| B站《原神》4.3版本创作者激励计划即将开启  | https://ys.mihoyo.com/main/news/detail/29803 |
+| 「蔷薇与铳枪」活动：参与获得活动专属武器「双手剑·『究极霸王超级魔剑』」 | https://ys.mihoyo.com/main/news/detail/29802 |
+| 《原神》角色演示-「娜维娅：非官方追缉」 | https://ys.mihoyo.com/main/news/detail/29801 |
 
 
 ## 米游社商品
