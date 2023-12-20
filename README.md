@@ -10,7 +10,9 @@
 
 | title | url |
 |:---:|:---:|
+| 「蔷薇与铳枪」玩法说明 | https://ys.mihoyo.com/main/news/detail/29815 |
 | 「蔷薇与铳枪」4.3版本更新说明 | https://ys.mihoyo.com/main/news/detail/29814 |
+| 原神4.3版本微博限时表情活动预告 | https://ys.mihoyo.com/main/news/detail/29813 |
 | QQ小世界《原神》4.3版本视频征集&amp;直播招募活动即将开启 | https://ys.mihoyo.com/main/news/detail/29811 |
 | 微信视频号《原神》4.3版本直播激励活动即将开启 | https://ys.mihoyo.com/main/news/detail/29810 |
 | 小红书《原神》4.3版本笔记征集活动即将开启 | https://ys.mihoyo.com/main/news/detail/29809 |
@@ -18,8 +20,6 @@
 | 虎牙直播《原神》4.3版本直播季活动即将开启 | https://ys.mihoyo.com/main/news/detail/29807 |
 | 斗鱼直播《原神》4.3版本直播季活动即将开启 | https://ys.mihoyo.com/main/news/detail/29806 |
 | 抖音《原神》4.3版本创作者激励计划&amp;直播激励活动即将开启 | https://ys.mihoyo.com/main/news/detail/29805 |
-| B站《原神》4.3版本创作者激励计划即将开启  | https://ys.mihoyo.com/main/news/detail/29803 |
-| 「蔷薇与铳枪」活动：参与获得活动专属武器「双手剑·『究极霸王超级魔剑』」 | https://ys.mihoyo.com/main/news/detail/29802 |
 
 
 ## 米游社商品
