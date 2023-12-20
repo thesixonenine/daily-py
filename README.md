@@ -10,16 +10,16 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》「派蒙的画作三星堆联动篇」联动主题表情包即将上线 | https://ys.mihoyo.com/main/news/detail/29829 |
+| 原神×三星堆博物馆联动H5「开山览物」已上线 | https://ys.mihoyo.com/main/news/detail/29828 |
+| 原神×三星堆博物馆联动短片-「古物见闻」· 专家篇 | https://ys.mihoyo.com/main/news/detail/29827 |
+| 原神×三星堆博物馆联动短片-「古物见闻」 | https://ys.mihoyo.com/main/news/detail/29826 |
 | 00 | https://ys.mihoyo.com/main/news/detail/29822 |
 | 4.3版本超话签到活动第一期 | https://ys.mihoyo.com/main/news/detail/29820 |
 | 4.3版本QQ频道专属福利活动现已开启 | https://ys.mihoyo.com/main/news/detail/29819 |
 | 《原神》4.3版本微信游戏圈专属福利活动现已开启 | https://ys.mihoyo.com/main/news/detail/29818 |
 | 「仰观千秋，俯察万象」活动已开启 | https://ys.mihoyo.com/main/news/detail/29817 |
 | 《原神》拾枝杂谈-「娜维娅：新航的启幕」 | https://ys.mihoyo.com/main/news/detail/29816 |
-| 「蔷薇与铳枪」玩法说明 | https://ys.mihoyo.com/main/news/detail/29815 |
-| 「蔷薇与铳枪」4.3版本更新说明 | https://ys.mihoyo.com/main/news/detail/29814 |
-| 原神4.3版本微博限时表情活动预告 | https://ys.mihoyo.com/main/news/detail/29813 |
-| QQ小世界《原神》4.3版本视频征集&amp;直播招募活动即将开启 | https://ys.mihoyo.com/main/news/detail/29811 |
 
 
 ## 米游社商品
