@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 00 | https://ys.mihoyo.com/main/news/detail/29822 |
 | 4.3版本超话签到活动第一期 | https://ys.mihoyo.com/main/news/detail/29820 |
 | 4.3版本QQ频道专属福利活动现已开启 | https://ys.mihoyo.com/main/news/detail/29819 |
 | 《原神》4.3版本微信游戏圈专属福利活动现已开启 | https://ys.mihoyo.com/main/news/detail/29818 |
@@ -19,7 +20,6 @@
 | 「蔷薇与铳枪」4.3版本更新说明 | https://ys.mihoyo.com/main/news/detail/29814 |
 | 原神4.3版本微博限时表情活动预告 | https://ys.mihoyo.com/main/news/detail/29813 |
 | QQ小世界《原神》4.3版本视频征集&amp;直播招募活动即将开启 | https://ys.mihoyo.com/main/news/detail/29811 |
-| 微信视频号《原神》4.3版本直播激励活动即将开启 | https://ys.mihoyo.com/main/news/detail/29810 |
 
 
 ## 米游社商品
