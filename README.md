@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 原神×三星堆博物馆线下活动即将开启 | https://ys.mihoyo.com/main/news/detail/29885 |
 | 《原神》线上音乐会2023 - 无际之旅的旋律 | https://ys.mihoyo.com/main/news/detail/29883 |
 | 多莉生日快乐｜嘿嘿，只要你有亮闪闪金灿灿的… | https://ys.mihoyo.com/main/news/detail/29879 |
 | 《原神》「派蒙的画作三星堆联动篇」联动主题表情包即将上线 | https://ys.mihoyo.com/main/news/detail/29829 |
@@ -19,7 +20,6 @@
 | 00 | https://ys.mihoyo.com/main/news/detail/29822 |
 | 4.3版本超话签到活动第一期 | https://ys.mihoyo.com/main/news/detail/29820 |
 | 4.3版本QQ频道专属福利活动现已开启 | https://ys.mihoyo.com/main/news/detail/29819 |
-| 《原神》4.3版本微信游戏圈专属福利活动现已开启 | https://ys.mihoyo.com/main/news/detail/29818 |
 
 
 ## 米游社商品
