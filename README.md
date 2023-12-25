@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 「美露莘的调查问卷」网页活动上线 | https://ys.mihoyo.com/main/news/detail/29908 |
 | 原神×三星堆博物馆线下活动即将开启 | https://ys.mihoyo.com/main/news/detail/29885 |
 | 《原神》线上音乐会2023 - 无际之旅的旋律 | https://ys.mihoyo.com/main/news/detail/29883 |
 | 多莉生日快乐｜嘿嘿，只要你有亮闪闪金灿灿的… | https://ys.mihoyo.com/main/news/detail/29879 |
@@ -19,7 +20,6 @@
 | 原神×三星堆博物馆联动短片-「古物见闻」 | https://ys.mihoyo.com/main/news/detail/29826 |
 | 00 | https://ys.mihoyo.com/main/news/detail/29822 |
 | 4.3版本超话签到活动第一期 | https://ys.mihoyo.com/main/news/detail/29820 |
-| 4.3版本QQ频道专属福利活动现已开启 | https://ys.mihoyo.com/main/news/detail/29819 |
 
 
 ## 米游社商品
