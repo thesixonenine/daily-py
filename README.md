@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》蔷薇与铳枪活动过场动画-「两个铳枪手」 | https://ys.mihoyo.com/main/news/detail/29920 |
 | 「小小幕后」网页活动上线，参与可得原石等游戏内奖励 | https://ys.mihoyo.com/main/news/detail/29916 |
 | 「美露莘的调查问卷」网页活动上线 | https://ys.mihoyo.com/main/news/detail/29908 |
 | 原神×三星堆博物馆线下活动即将开启 | https://ys.mihoyo.com/main/news/detail/29885 |
@@ -19,7 +20,6 @@
 | 原神×三星堆博物馆联动H5「开山览物」已上线 | https://ys.mihoyo.com/main/news/detail/29828 |
 | 原神×三星堆博物馆联动短片-「古物见闻」· 专家篇 | https://ys.mihoyo.com/main/news/detail/29827 |
 | 原神×三星堆博物馆联动短片-「古物见闻」 | https://ys.mihoyo.com/main/news/detail/29826 |
-| 00 | https://ys.mihoyo.com/main/news/detail/29822 |
 
 
 ## 米游社商品
