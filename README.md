@@ -84,7 +84,7 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 2023042712873 | 水晶*100 | 0 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2020/06/18/ccf130fa959888e48af399799ac91458_2459754489211937281.png) |
+| 2023042712873 | 水晶*100 | 12000 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2020/06/18/ccf130fa959888e48af399799ac91458_2459754489211937281.png) |
 | 21579179504316812467643946757 | 体力药水*1 | 0 | 2 | 370 | [图](https://webstatic.mihoyo.com/upload/shop/2021/04/09/9ccf0f785763dad642281e90b1a925c7_1345306158854300132.png) |
 | 215791797313419356364222347148 | 逆熵·虚数核心*5 | 0 | 2 | 1200 | [图](https://webstatic.mihoyo.com/upload/shop/2021/04/09/714c64b6547f2a1274b1524fddc7febb_2808239829919819812.png) |
 | 2021040912146 | 高级技能材料*5 | 0 | 1 | 1800 | [图](https://webstatic.mihoyo.com/upload/shop/2021/04/09/48752dc5ab70c818b6b72a6513c95f2f_5640911369522514077.png) |
@@ -117,7 +117,7 @@
 | 2023112711883 | 甜宠萌心系列装饰色纸-莫弈 | 0 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2023/11/27/91aca81a7e1a2f61ba246c09b82bfd60_4927038816622375771.JPG) |
 | 2023112711342 | 甜宠萌心系列装饰色纸-左然 | 0 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2023/11/27/68c197de307c9eb41c2b58b90c1ef7f3_4926073641508256918.JPG) |
 | 2023112711962 | 甜宠萌心系列装饰色纸-夏彦 | 0 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2023/11/27/8ac6ddd37955c4931c4e2f0d3ffdccf1_6224049720570958207.JPG) |
-| 2020091012247 | 未名晶片×100 | 0 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2020/09/10/3ec51e35f50fb60eda4705778177c24b_3871479849056199956.png) |
+| 2020091012247 | 未名晶片×100 | 300 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2020/09/10/3ec51e35f50fb60eda4705778177c24b_3871479849056199956.png) |
 
 </details>
 
