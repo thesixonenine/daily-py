@@ -10,6 +10,8 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》「壁纸放送」 | https://ys.mihoyo.com/main/news/detail/29923 |
+| 提纳里生日快乐｜即使躲在花藤后面，也逃不过巡林官的眼睛哦。 | https://ys.mihoyo.com/main/news/detail/29922 |
 | 《原神》4.3版本表情包「派蒙的画作第29弹」现已上线 | https://ys.mihoyo.com/main/news/detail/29921 |
 | 《原神》蔷薇与铳枪活动过场动画-「两个铳枪手」 | https://ys.mihoyo.com/main/news/detail/29920 |
 | 「小小幕后」网页活动上线，参与可得原石等游戏内奖励 | https://ys.mihoyo.com/main/news/detail/29916 |
@@ -18,8 +20,6 @@
 | 《原神》线上音乐会2023 - 无际之旅的旋律 | https://ys.mihoyo.com/main/news/detail/29883 |
 | 多莉生日快乐｜嘿嘿，只要你有亮闪闪金灿灿的… | https://ys.mihoyo.com/main/news/detail/29879 |
 | 《原神》「派蒙的画作三星堆联动篇」联动主题表情包即将上线 | https://ys.mihoyo.com/main/news/detail/29829 |
-| 原神×三星堆博物馆联动H5「开山览物」已上线 | https://ys.mihoyo.com/main/news/detail/29828 |
-| 原神×三星堆博物馆联动短片-「古物见闻」· 专家篇 | https://ys.mihoyo.com/main/news/detail/29827 |
 
 
 ## 米游社商品
