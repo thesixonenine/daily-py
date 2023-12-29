@@ -106,6 +106,14 @@
 | 21579179504316812467643946757 | 体力药水*1 | 0 | 2 | 370 | [图](https://webstatic.mihoyo.com/upload/shop/2021/04/09/9ccf0f785763dad642281e90b1a925c7_1345306158854300132.png) |
 | 215791797313419356364222347148 | 逆熵·虚数核心*5 | 0 | 2 | 1200 | [图](https://webstatic.mihoyo.com/upload/shop/2021/04/09/714c64b6547f2a1274b1524fddc7febb_2808239829919819812.png) |
 | 2021040912146 | 高级技能材料*5 | 0 | 1 | 1800 | [图](https://webstatic.mihoyo.com/upload/shop/2021/04/09/48752dc5ab70c818b6b72a6513c95f2f_5640911369522514077.png) |
+| 2023122611590 | 夏日嘉年华系列立牌-希儿 | 10 | 1 | 11500 | [图](https://bbs-static.miyoushe.com/static/2023/12/26/19f9ac05182db8895c2cd75d36dcc087_926181528002148431.JPG) |
+| 2023122611384 | 夏日嘉年华系列立牌-布洛妮娅 | 10 | 1 | 11500 | [图](https://bbs-static.miyoushe.com/static/2023/12/26/b9c7126ba3f6d09784e979675b1b8bda_6625484918578352544.JPG) |
+| 2023122611357 | 夏日嘉年华系列立牌-芽衣 | 10 | 1 | 11500 | [图](https://bbs-static.miyoushe.com/static/2023/12/26/9d73317c57ca318c9d857011352b8e95_6892838149344910942.JPG) |
+| 2023122611203 | 夏日嘉年华系列立牌-琪亚娜 | 10 | 1 | 11500 | [图](https://bbs-static.miyoushe.com/static/2023/12/26/322585b070d5b7eada59fcecae30e839_5208002889627873411.JPG) |
+| 2023122611362 | 夏日嘉年华系列拍立得挂件合影卡-希儿 | 20 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2023/12/26/72ed97206bde861ab1f73921398cb172_3534351290309743265.JPG) |
+| 2023122611207 | 夏日嘉年华系列拍立得挂件合影卡-布洛妮娅 | 20 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2023/12/26/59f866a13704644022444fb417390689_3846317521612094696.JPG) |
+| 2023122611229 | 夏日嘉年华系列拍立得挂件合影卡-芽衣 | 20 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2023/12/26/0e6feb2797ffdca5aab4a54dbafa6c65_2583648986819603874.JPG) |
+| 2023122611847 | 夏日嘉年华系列拍立得挂件合影卡-琪亚娜 | 20 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2023/12/26/fd3a7081fd4b330735c7a99e532613da_1887664009377655358.JPG) |
 | 2023122411947 | 英桀立绘系列徽章-伊甸 | 0 | 1 | 3500 | [图](https://bbs-static.miyoushe.com/static/2023/12/24/13c81ce2fda4f24022f96ea780b48a27_4682951697373916702.JPG) |
 | 2023122411431 | 英桀立绘系列徽章-阿波尼亚 | 0 | 1 | 3500 | [图](https://bbs-static.miyoushe.com/static/2023/12/24/7ccb493bfd7268b5561dbba7dd9a55f1_5975930775391517651.JPG) |
 | 2023122411159 | 英桀立绘系列徽章-爱莉希雅 | 0 | 1 | 3500 | [图](https://bbs-static.miyoushe.com/static/2023/12/24/7b3b187ee465d7d2d8d351ce47adcbd3_6225461408387490409.JPG) |
@@ -123,6 +131,18 @@
 <details><summary>Details</summary>
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| 2023122711822 | 故城黎明的回响系列 亚克力装饰画-陆景和 | 5 | 1 | 11500 | [图](https://bbs-static.miyoushe.com/static/2023/12/27/d278f3674c434a515e2db9ec6a46844f_86245170398001292.JPG) |
+| 2023122711135 | 故城黎明的回响系列 亚克力装饰画-莫弈 | 5 | 1 | 11500 | [图](https://bbs-static.miyoushe.com/static/2023/12/27/141577bdff29b15f1380f1b97d986ea1_1964415488395056731.JPG) |
+| 2023122711800 | 故城黎明的回响系列 亚克力装饰画-左然 | 5 | 1 | 11500 | [图](https://bbs-static.miyoushe.com/static/2023/12/27/f66557f0e8382f90e90fcb4902739847_2844244661695582511.JPG) |
+| 2023122711540 | 故城黎明的回响系列 亚克力装饰画-夏彦 | 5 | 1 | 11500 | [图](https://bbs-static.miyoushe.com/static/2023/12/27/d30add48f14ffe8d35a685a1a9ddd47a_9005946621195559686.JPG) |
+| 2023122711818 | 空际相约系列 方形徽章-陆景和 | 20 | 1 | 3500 | [图](https://bbs-static.miyoushe.com/static/2023/12/27/5f726e791558a55a58d990ec34818454_3710678919255145642.JPG) |
+| 2023122711444 | 空际相约系列 方形徽章-莫弈 | 20 | 1 | 3500 | [图](https://bbs-static.miyoushe.com/static/2023/12/27/81926653860b54c97cd184d56a888fe7_3335649021474061745.JPG) |
+| 2023122711602 | 空际相约系列 方形徽章-左然 | 20 | 1 | 3500 | [图](https://bbs-static.miyoushe.com/static/2023/12/27/cab85cd7d46995e48ae416734e5f8671_6224183653727461779.JPG) |
+| 2023122711919 | 空际相约系列 方形徽章-夏彦 | 20 | 1 | 3500 | [图](https://bbs-static.miyoushe.com/static/2023/12/27/44a02ba0ff7e1059112844d5e925cb64_7762290369210754136.JPG) |
+| 2023122711669 | 冬恋晴歌系列 亚克力色纸-陆景和 | 25 | 1 | 8800 | [图](https://bbs-static.miyoushe.com/static/2023/12/27/7e0b2b56dd749aa4914de1bf7a39b8bc_7883086574300297703.JPG) |
+| 2023122711220 | 冬恋晴歌系列 亚克力色纸-莫弈 | 25 | 1 | 8800 | [图](https://bbs-static.miyoushe.com/static/2023/12/27/cde212f42a8cce69890f924228946d57_2998600993463769226.JPG) |
+| 2023122711799 | 冬恋晴歌系列 亚克力色纸-左然 | 25 | 1 | 8800 | [图](https://bbs-static.miyoushe.com/static/2023/12/27/e9317b3418c435f93f931025a53e2158_6135795556899427973.JPG) |
+| 2023122711283 | 冬恋晴歌系列 亚克力色纸-夏彦 | 25 | 1 | 8800 | [图](https://bbs-static.miyoushe.com/static/2023/12/27/520b5c52230ee66393f42cc7dccc183c_1398037134642899641.JPG) |
 | 2023122411927 | 雨意系列 Q版盒蛋 | 0 | 1 | 53400 | [图](https://bbs-static.miyoushe.com/static/2023/11/29/984c204f14f1392e8af3354900a6cd7a_7326461348035056556.JPG) |
 | 2023122411190 | 祈慕誓吻系列 异形徽章-陆景和 | 0 | 1 | 3500 | [图](https://bbs-static.miyoushe.com/static/2023/12/24/c65f016062b5f87ce944c0aa001cd2cd_2029953376776680996.JPG) |
 | 2023122411934 | 祈慕誓吻系列 异形徽章-莫弈 | 0 | 1 | 3500 | [图](https://bbs-static.miyoushe.com/static/2023/12/24/37bb1e16a68e55f6a75afa915786f397_2236219030322706433.JPG) |
