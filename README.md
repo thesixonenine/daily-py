@@ -10,6 +10,9 @@
 
 | title | url |
 |:---:|:---:|
+| 「秘宝迷踪」活动：寻宝兑换小道具「迷你仙灵」 | https://ys.mihoyo.com/main/news/detail/29933 |
+| 原神×三星堆博物馆联动推广曲目即将上线 | https://ys.mihoyo.com/main/news/detail/29932 |
+|  钟离生日快乐｜一袭好衣胜过黄金。 | https://ys.mihoyo.com/main/news/detail/29931 |
 | 《原神》「壁纸放送」 | https://ys.mihoyo.com/main/news/detail/29923 |
 | 提纳里生日快乐｜即使躲在花藤后面，也逃不过巡林官的眼睛哦。 | https://ys.mihoyo.com/main/news/detail/29922 |
 | 《原神》4.3版本表情包「派蒙的画作第29弹」现已上线 | https://ys.mihoyo.com/main/news/detail/29921 |
@@ -17,9 +20,6 @@
 | 「小小幕后」网页活动上线，参与可得原石等游戏内奖励 | https://ys.mihoyo.com/main/news/detail/29916 |
 | 「美露莘的调查问卷」网页活动上线 | https://ys.mihoyo.com/main/news/detail/29908 |
 | 原神×三星堆博物馆线下活动即将开启 | https://ys.mihoyo.com/main/news/detail/29885 |
-| 《原神》线上音乐会2023 - 无际之旅的旋律 | https://ys.mihoyo.com/main/news/detail/29883 |
-| 多莉生日快乐｜嘿嘿，只要你有亮闪闪金灿灿的… | https://ys.mihoyo.com/main/news/detail/29879 |
-| 《原神》「派蒙的画作三星堆联动篇」联动主题表情包即将上线 | https://ys.mihoyo.com/main/news/detail/29829 |
 
 
 ## 米游社商品
