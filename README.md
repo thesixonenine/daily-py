@@ -10,6 +10,8 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》寻味之旅——「璃月食集」第六期 | https://ys.mihoyo.com/main/news/detail/29959 |
+| 流浪者生日快乐｜没有被人跟踪吧？…哼，姑且信你。 | https://ys.mihoyo.com/main/news/detail/29958 |
 | 元旦快乐｜练习枪法可不能饿着肚子。先来吃饭吧。 | https://ys.mihoyo.com/main/news/detail/29934 |
 | 「秘宝迷踪」活动：寻宝兑换小道具「迷你仙灵」 | https://ys.mihoyo.com/main/news/detail/29933 |
 | 原神×三星堆博物馆联动推广曲目即将上线 | https://ys.mihoyo.com/main/news/detail/29932 |
@@ -18,8 +20,6 @@
 | 提纳里生日快乐｜即使躲在花藤后面，也逃不过巡林官的眼睛哦。 | https://ys.mihoyo.com/main/news/detail/29922 |
 | 《原神》4.3版本表情包「派蒙的画作第29弹」现已上线 | https://ys.mihoyo.com/main/news/detail/29921 |
 | 《原神》蔷薇与铳枪活动过场动画-「两个铳枪手」 | https://ys.mihoyo.com/main/news/detail/29920 |
-| 「小小幕后」网页活动上线，参与可得原石等游戏内奖励 | https://ys.mihoyo.com/main/news/detail/29916 |
-| 「美露莘的调查问卷」网页活动上线 | https://ys.mihoyo.com/main/news/detail/29908 |
 
 
 ## 米游社商品
