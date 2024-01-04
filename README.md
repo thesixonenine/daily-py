@@ -10,16 +10,16 @@
 
 | title | url |
 |:---:|:---:|
+| 「蔷薇与铳枪」4.3版本活动速递第二期 | https://ys.mihoyo.com/main/news/detail/29982 |
+| 「神铸赋形」祈愿：「长柄武器·薙草之稻光」「弓·飞雷之弦振」概率UP！ | https://ys.mihoyo.com/main/news/detail/29981 |
+| 「焰色天河」祈愿：「琉焰华舞·宵宫(火)」概率UP！ | https://ys.mihoyo.com/main/news/detail/29980 |
+| 「影寂天下人」祈愿：「一心净土·雷电将军(雷)」概率UP！ | https://ys.mihoyo.com/main/news/detail/29979 |
 | 「七圣召唤」热斗模式：奇策竞驰 | https://ys.mihoyo.com/main/news/detail/29978 |
 | 《原神》寻味之旅——「璃月食集」第六期 | https://ys.mihoyo.com/main/news/detail/29959 |
 | 流浪者生日快乐｜没有被人跟踪吧？…哼，姑且信你。 | https://ys.mihoyo.com/main/news/detail/29958 |
 | 元旦快乐｜练习枪法可不能饿着肚子。先来吃饭吧。 | https://ys.mihoyo.com/main/news/detail/29934 |
 | 「秘宝迷踪」活动：寻宝兑换小道具「迷你仙灵」 | https://ys.mihoyo.com/main/news/detail/29933 |
 | 原神×三星堆博物馆联动推广曲目即将上线 | https://ys.mihoyo.com/main/news/detail/29932 |
-|  钟离生日快乐｜一袭好衣胜过黄金。 | https://ys.mihoyo.com/main/news/detail/29931 |
-| 《原神》「壁纸放送」 | https://ys.mihoyo.com/main/news/detail/29923 |
-| 提纳里生日快乐｜即使躲在花藤后面，也逃不过巡林官的眼睛哦。 | https://ys.mihoyo.com/main/news/detail/29922 |
-| 《原神》4.3版本表情包「派蒙的画作第29弹」现已上线 | https://ys.mihoyo.com/main/news/detail/29921 |
 
 
 ## 米游社商品
