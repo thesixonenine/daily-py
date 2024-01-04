@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 「七圣召唤」热斗模式：奇策竞驰 | https://ys.mihoyo.com/main/news/detail/29978 |
 | 《原神》寻味之旅——「璃月食集」第六期 | https://ys.mihoyo.com/main/news/detail/29959 |
 | 流浪者生日快乐｜没有被人跟踪吧？…哼，姑且信你。 | https://ys.mihoyo.com/main/news/detail/29958 |
 | 元旦快乐｜练习枪法可不能饿着肚子。先来吃饭吧。 | https://ys.mihoyo.com/main/news/detail/29934 |
@@ -19,7 +20,6 @@
 | 《原神》「壁纸放送」 | https://ys.mihoyo.com/main/news/detail/29923 |
 | 提纳里生日快乐｜即使躲在花藤后面，也逃不过巡林官的眼睛哦。 | https://ys.mihoyo.com/main/news/detail/29922 |
 | 《原神》4.3版本表情包「派蒙的画作第29弹」现已上线 | https://ys.mihoyo.com/main/news/detail/29921 |
-| 《原神》蔷薇与铳枪活动过场动画-「两个铳枪手」 | https://ys.mihoyo.com/main/news/detail/29920 |
 
 
 ## 米游社商品
