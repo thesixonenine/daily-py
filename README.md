@@ -10,6 +10,8 @@
 
 | title | url |
 |:---:|:---:|
+| 「放心，即使是在雨里，我的铳枪依旧能够正常开火。」——「明律决罚」·夏沃蕾 | https://ys.mihoyo.com/main/news/detail/29985 |
+| 《原神》角色演示-「夏沃蕾：弹无虚发」 | https://ys.mihoyo.com/main/news/detail/29984 |
 | 「蔷薇与铳枪」4.3版本活动速递第二期 | https://ys.mihoyo.com/main/news/detail/29982 |
 | 「神铸赋形」祈愿：「长柄武器·薙草之稻光」「弓·飞雷之弦振」概率UP！ | https://ys.mihoyo.com/main/news/detail/29981 |
 | 「焰色天河」祈愿：「琉焰华舞·宵宫(火)」概率UP！ | https://ys.mihoyo.com/main/news/detail/29980 |
@@ -18,8 +20,6 @@
 | 《原神》寻味之旅——「璃月食集」第六期 | https://ys.mihoyo.com/main/news/detail/29959 |
 | 流浪者生日快乐｜没有被人跟踪吧？…哼，姑且信你。 | https://ys.mihoyo.com/main/news/detail/29958 |
 | 元旦快乐｜练习枪法可不能饿着肚子。先来吃饭吧。 | https://ys.mihoyo.com/main/news/detail/29934 |
-| 「秘宝迷踪」活动：寻宝兑换小道具「迷你仙灵」 | https://ys.mihoyo.com/main/news/detail/29933 |
-| 原神×三星堆博物馆联动推广曲目即将上线 | https://ys.mihoyo.com/main/news/detail/29932 |
 
 
 ## 米游社商品
