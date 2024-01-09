@@ -10,6 +10,8 @@
 
 | title | url |
 |:---:|:---:|
+| 【刘欢】原神×三星堆博物馆联动推广曲《青铜》 | https://ys.mihoyo.com/main/news/detail/29992 |
+| 托马生日快乐｜让我猜猜，是你送的吧？ | https://ys.mihoyo.com/main/news/detail/29991 |
 | 4.3版本超话签到活动第二期 | https://ys.mihoyo.com/main/news/detail/29990 |
 | 「深念锐意旋步舞」活动：寻找最为华丽的战斗舞姿 | https://ys.mihoyo.com/main/news/detail/29986 |
 | 「放心，即使是在雨里，我的铳枪依旧能够正常开火。」——「明律决罚」·夏沃蕾 | https://ys.mihoyo.com/main/news/detail/29985 |
@@ -18,8 +20,6 @@
 | 「神铸赋形」祈愿：「长柄武器·薙草之稻光」「弓·飞雷之弦振」概率UP！ | https://ys.mihoyo.com/main/news/detail/29981 |
 | 「焰色天河」祈愿：「琉焰华舞·宵宫(火)」概率UP！ | https://ys.mihoyo.com/main/news/detail/29980 |
 | 「影寂天下人」祈愿：「一心净土·雷电将军(雷)」概率UP！ | https://ys.mihoyo.com/main/news/detail/29979 |
-| 「七圣召唤」热斗模式：奇策竞驰 | https://ys.mihoyo.com/main/news/detail/29978 |
-| 《原神》寻味之旅——「璃月食集」第六期 | https://ys.mihoyo.com/main/news/detail/29959 |
 
 
 ## 米游社商品
