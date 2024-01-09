@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 《原神》拾枝杂谈-「夏沃蕾：遵行为要」 | https://ys.mihoyo.com/main/news/detail/29994 |
 | 【刘欢】原神×三星堆博物馆联动推广曲《青铜》 | https://ys.mihoyo.com/main/news/detail/29992 |
 | 托马生日快乐｜让我猜猜，是你送的吧？ | https://ys.mihoyo.com/main/news/detail/29991 |
 | 4.3版本超话签到活动第二期 | https://ys.mihoyo.com/main/news/detail/29990 |
@@ -19,7 +20,6 @@
 | 「蔷薇与铳枪」4.3版本活动速递第二期 | https://ys.mihoyo.com/main/news/detail/29982 |
 | 「神铸赋形」祈愿：「长柄武器·薙草之稻光」「弓·飞雷之弦振」概率UP！ | https://ys.mihoyo.com/main/news/detail/29981 |
 | 「焰色天河」祈愿：「琉焰华舞·宵宫(火)」概率UP！ | https://ys.mihoyo.com/main/news/detail/29980 |
-| 「影寂天下人」祈愿：「一心净土·雷电将军(雷)」概率UP！ | https://ys.mihoyo.com/main/news/detail/29979 |
 
 
 ## 米游社商品
