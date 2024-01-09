@@ -10,6 +10,7 @@
 
 | title | url |
 |:---:|:---:|
+| 4.3版本超话签到活动第二期 | https://ys.mihoyo.com/main/news/detail/29990 |
 | 「深念锐意旋步舞」活动：寻找最为华丽的战斗舞姿 | https://ys.mihoyo.com/main/news/detail/29986 |
 | 「放心，即使是在雨里，我的铳枪依旧能够正常开火。」——「明律决罚」·夏沃蕾 | https://ys.mihoyo.com/main/news/detail/29985 |
 | 《原神》角色演示-「夏沃蕾：弹无虚发」 | https://ys.mihoyo.com/main/news/detail/29984 |
@@ -19,7 +20,6 @@
 | 「影寂天下人」祈愿：「一心净土·雷电将军(雷)」概率UP！ | https://ys.mihoyo.com/main/news/detail/29979 |
 | 「七圣召唤」热斗模式：奇策竞驰 | https://ys.mihoyo.com/main/news/detail/29978 |
 | 《原神》寻味之旅——「璃月食集」第六期 | https://ys.mihoyo.com/main/news/detail/29959 |
-| 流浪者生日快乐｜没有被人跟踪吧？…哼，姑且信你。 | https://ys.mihoyo.com/main/news/detail/29958 |
 
 
 ## 米游社商品
