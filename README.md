@@ -129,14 +129,6 @@
 | 2023122411289 | 祈慕誓吻系列 亚克力色纸-莫弈 | 0 | 1 | 8800 | [图](https://bbs-static.miyoushe.com/static/2023/12/24/664a18b4e2d69252cfebeb490178e8e6_9002334857078213897.JPG) |
 | 2023122411239 | 祈慕誓吻系列 亚克力色纸-左然 | 0 | 1 | 8800 | [图](https://bbs-static.miyoushe.com/static/2023/12/24/d7682ac5be2929b2e8c2d2b319f4efc2_4421483659985961351.JPG) |
 | 2023122411828 | 祈慕誓吻系列 亚克力色纸-夏彦 | 0 | 1 | 8800 | [图](https://bbs-static.miyoushe.com/static/2023/12/24/f377f2b21f2a948133d53bdb9f73cae6_5964825127558380087.JPG) |
-| 2023112711200 | 情迷贝克伦系列亚克力装饰画-陆景和 | 0 | 1 | 11100 | [图](https://bbs-static.miyoushe.com/static/2023/11/27/c08f6e32eb527a35eb210ea7a00b8637_3056451570887930121.JPG) |
-| 2023112711191 | 情迷贝克伦系列亚克力装饰画-莫弈 | 0 | 1 | 11100 | [图](https://bbs-static.miyoushe.com/static/2023/11/27/562f898197c863c37fdcbdd2ce8f7f2f_1159990989748720747.JPG) |
-| 2023112711138 | 情迷贝克伦系列亚克力装饰画-左然 | 0 | 1 | 11100 | [图](https://bbs-static.miyoushe.com/static/2023/11/27/2f5c7f5c9f4050943bc64a5957fe2ff0_8240802447725782864.JPG) |
-| 2023112711403 | 情迷贝克伦系列亚克力装饰画-夏彦 | 0 | 1 | 11100 | [图](https://bbs-static.miyoushe.com/static/2023/11/27/9b1915f082be932d1aa1e7f595530e41_35655758198681920.JPG) |
-| 2023112711530 | 甜宠萌心系列装饰色纸-陆景和 | 0 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2023/11/27/9a95278db550b15a3023f5a38d3eb38f_2138489148850084235.JPG) |
-| 2023112711883 | 甜宠萌心系列装饰色纸-莫弈 | 0 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2023/11/27/91aca81a7e1a2f61ba246c09b82bfd60_4927038816622375771.JPG) |
-| 2023112711342 | 甜宠萌心系列装饰色纸-左然 | 0 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2023/11/27/68c197de307c9eb41c2b58b90c1ef7f3_4926073641508256918.JPG) |
-| 2023112711962 | 甜宠萌心系列装饰色纸-夏彦 | 0 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2023/11/27/8ac6ddd37955c4931c4e2f0d3ffdccf1_6224049720570958207.JPG) |
 | 2020091012247 | 未名晶片×100 | 0 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2020/09/10/3ec51e35f50fb60eda4705778177c24b_3871479849056199956.png) |
 
 </details>
