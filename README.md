@@ -29,8 +29,6 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 2023121512822 | 原石*150 | 0 | 1 | 4500 | [图](https://bbs-static.miyoushe.com/static/2023/12/15/dab394b1516c58a00b91f8dba9756110_221982035053578980.png) |
-| 2023121512324 | 原石*60 | 0 | 1 | 1800 | [图](https://bbs-static.miyoushe.com/static/2023/12/15/dab394b1516c58a00b91f8dba9756110_221982035053578980.png) |
 | 2023121512801 | 摩拉*50000 | 4000 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/12/15/d63798a398c18de7f3ce23b7e1dcd02f_4185741274520876424.png) |
 | 2023121512302 | 大英雄的经验*5 | 4000 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/12/15/468097d8c7fb608f3a23d057d871e48a_8999314989171398387.png) |
 | 2023121411626 | 原神主题系列 色纸-仿若无因飘落的轻雨 | 10 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2023/12/14/d5fb979f60e083cdfa8424a85bb8cfca_2796091578989120076.JPG) |
@@ -47,6 +45,8 @@
 | 2023122411862 | 兰那罗系列 小毛绒挂件-兰利遮 | 0 | 1 | 11300 | [图](https://bbs-static.miyoushe.com/static/2023/12/24/c62d303c93c17f520e92871b7a1fed6b_5386794898663547919.JPG) |
 | 2023122411471 | 兰那罗系列 小毛绒挂件-兰百梨迦 | 0 | 1 | 11300 | [图](https://bbs-static.miyoushe.com/static/2023/12/24/c679dcea2626619e21b46d9ffcde6d6a_9040329077218052834.JPG) |
 | 2023122411816 | 兰那罗系列 小毛绒挂件-兰罗摩 | 0 | 1 | 11300 | [图](https://bbs-static.miyoushe.com/static/2023/12/24/391ce84c5319aaa25bc7e67a66b810c8_2883358060079977014.JPG) |
+| 2023121512822 | 原石*150 | 0 | 1 | 4500 | [图](https://bbs-static.miyoushe.com/static/2023/12/15/dab394b1516c58a00b91f8dba9756110_221982035053578980.png) |
+| 2023121512324 | 原石*60 | 0 | 1 | 1800 | [图](https://bbs-static.miyoushe.com/static/2023/12/15/dab394b1516c58a00b91f8dba9756110_221982035053578980.png) |
 
 
 
