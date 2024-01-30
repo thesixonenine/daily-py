@@ -29,6 +29,13 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| 2024012912836 | 摩拉*50000 | 4000 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/12/15/d63798a398c18de7f3ce23b7e1dcd02f_4185741274520876424.png) |
+| 2024012912303 | 大英雄的经验*5 | 4000 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/12/15/468097d8c7fb608f3a23d057d871e48a_8999314989171398387.png) |
+| 2024012912545 | 原石*150 | 1200 | 1 | 4500 | [图](https://bbs-static.miyoushe.com/static/2024/01/29/dab394b1516c58a00b91f8dba9756110_1770165622685022265.png) |
+| 2024012912872 | 原石*60 | 3000 | 1 | 1800 | [图](https://bbs-static.miyoushe.com/static/2024/01/29/dab394b1516c58a00b91f8dba9756110_2657592678281976534.png) |
+| 2024012911298 | 无相系列 指尖积木玩具-无相之岩 基末尔 | 10 | 1 | 13600 | [图](https://bbs-static.miyoushe.com/static/2024/01/29/4c7a39a5d329fa1a0b61851010eee941_6298393225006741463.JPG) |
+| 2024012911277 | 无相系列 指尖积木玩具-无相之雷 阿莱夫 | 10 | 1 | 13600 | [图](https://bbs-static.miyoushe.com/static/2024/01/29/d3787cf48d6c177be5ddd539d9544068_3184422704128781605.JPG) |
+| 2024012911103 | 无相系列 指尖积木玩具-无相之风 贝特 | 10 | 1 | 13600 | [图](https://bbs-static.miyoushe.com/static/2024/01/29/441907a37be180578abff1ba3e500841_1099451653199058244.JPG) |
 | 2023121512801 | 摩拉*50000 | 0 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/12/15/d63798a398c18de7f3ce23b7e1dcd02f_4185741274520876424.png) |
 | 2023121512302 | 大英雄的经验*5 | 0 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/12/15/468097d8c7fb608f3a23d057d871e48a_8999314989171398387.png) |
 | 2023121512822 | 原石*150 | 0 | 1 | 4500 | [图](https://bbs-static.miyoushe.com/static/2023/12/15/dab394b1516c58a00b91f8dba9756110_221982035053578980.png) |
@@ -140,6 +147,8 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| 2024013012111 | 【未定事件簿】头像挂件「红尘共长生」（30天） | 0 | 1 | 1000 | [图](https://bbs-static.miyoushe.com/static/2024/01/30/1abfefe2a1201f157cb298fd1b599d53_1680073845136273144.jpg) |
+| 2024013012893 | 【未定事件簿】头像挂件「红尘共长生」（永久） | 0 | 1 | 3000 | [图](https://bbs-static.miyoushe.com/static/2024/01/30/1abfefe2a1201f157cb298fd1b599d53_2481082433641334878.jpg) |
 | 2023121412496 | 【原神】「派蒙的晚餐」（永久） | 0 | 1 | 3000 | [图](https://bbs-static.miyoushe.com/static/2023/12/14/68e39606712a73cbd8233daeb4bf5bd7_9163479592273410270.JPG) |
 | 2023121412564 | 【绝区零】兑换中心限定（永久） | 0 | 1 | 3000 | [图](https://bbs-static.miyoushe.com/static/2023/12/14/b9f89c88deca0f959cf6bf53604a62da_105025548955261412.JPG) |
 | 2023111312980 | 【崩坏学园2】「崩坏娘本体」头像挂件 | 0 | 1 | 3000 | [图](https://bbs-static.miyoushe.com/static/2023/11/13/43be4a336e534e3e166c89a84d3a41bd_7093818662758735240.jpg) |
