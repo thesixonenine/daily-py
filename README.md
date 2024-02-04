@@ -92,7 +92,7 @@
 | 2024012314337 | 2024新春微信红包封面-莫弈 | 10 | 1 | 1 | [图](https://bbs-static.miyoushe.com/static/2024/01/23/bb90dff38b0e5957031114f27991572b_4706462960769934928.JPG) |
 | 2024012314580 | 2024新春微信红包封面-左然 | 10 | 1 | 1 | [图](https://bbs-static.miyoushe.com/static/2024/01/23/d7af9503d7a06f72fb71a61428f71f3d_6765271140282879053.JPG) |
 | 2024012314320 | 2024新春微信红包封面-夏彦 | 10 | 1 | 1 | [图](https://bbs-static.miyoushe.com/static/2024/01/23/41369c2675ae350e40caca016f5f641f_4122977045864187282.JPG) |
-| 2020091012247 | 未名晶片×100 | 300 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2020/09/10/3ec51e35f50fb60eda4705778177c24b_3871479849056199956.png) |
+| 2020091012247 | 未名晶片×100 | 0 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2020/09/10/3ec51e35f50fb60eda4705778177c24b_3871479849056199956.png) |
 
 </details>
 
