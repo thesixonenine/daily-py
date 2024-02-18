@@ -89,10 +89,10 @@
 <details><summary>Details</summary>
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 2024012311408 | 狂沙的呼唤系列 亚克力装饰画-陆景和 | 5 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/bac3906051ab53be9c9f002fe0f186b2_5441276485454427882.jpg) |
-| 2024012311389 | 狂沙的呼唤系列 亚克力装饰画-莫弈 | 5 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/f295bc25c402eee960efa07510bd24e7_183110895693410832.jpg) |
-| 2024012311736 | 狂沙的呼唤系列 亚克力装饰画-左然 | 5 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/752d24f60baf8cc19e6a73171051ec9d_1974984383789867230.jpg) |
-| 2024012311909 | 狂沙的呼唤系列 亚克力装饰画-夏彦 | 5 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/cb1f59858b1d90ce8fa03a2c44338db7_7926428735542929574.jpg) |
+| 2024012311408 | 狂沙的呼唤系列 亚克力装饰画-陆景和 | 0 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/bac3906051ab53be9c9f002fe0f186b2_5441276485454427882.jpg) |
+| 2024012311389 | 狂沙的呼唤系列 亚克力装饰画-莫弈 | 0 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/f295bc25c402eee960efa07510bd24e7_183110895693410832.jpg) |
+| 2024012311736 | 狂沙的呼唤系列 亚克力装饰画-左然 | 0 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/752d24f60baf8cc19e6a73171051ec9d_1974984383789867230.jpg) |
+| 2024012311909 | 狂沙的呼唤系列 亚克力装饰画-夏彦 | 0 | 1 | 11000 | [图](https://bbs-static.miyoushe.com/static/2023/08/22/cb1f59858b1d90ce8fa03a2c44338db7_7926428735542929574.jpg) |
 | 2024012314839 | 2024新春微信红包封面-陆景和 | 0 | 1 | 1 | [图](https://bbs-static.miyoushe.com/static/2024/01/23/05e334265bd7e5c74aa28933ccbabd05_5904377728049671011.JPG) |
 | 2024012314337 | 2024新春微信红包封面-莫弈 | 0 | 1 | 1 | [图](https://bbs-static.miyoushe.com/static/2024/01/23/bb90dff38b0e5957031114f27991572b_4706462960769934928.JPG) |
 | 2024012314580 | 2024新春微信红包封面-左然 | 0 | 1 | 1 | [图](https://bbs-static.miyoushe.com/static/2024/01/23/d7af9503d7a06f72fb71a61428f71f3d_6765271140282879053.JPG) |
