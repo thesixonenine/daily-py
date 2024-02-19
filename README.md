@@ -126,8 +126,6 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 2024013012111 | 【未定事件簿】头像挂件「红尘共长生」（30天） | 0 | 1 | 1000 | [图](https://bbs-static.miyoushe.com/static/2024/01/30/1abfefe2a1201f157cb298fd1b599d53_1680073845136273144.jpg) |
-| 2024013012893 | 【未定事件簿】头像挂件「红尘共长生」（永久） | 0 | 1 | 3000 | [图](https://bbs-static.miyoushe.com/static/2024/01/30/1abfefe2a1201f157cb298fd1b599d53_2481082433641334878.jpg) |
 | 2023121412496 | 【原神】「派蒙的晚餐」（永久） | 0 | 1 | 3000 | [图](https://bbs-static.miyoushe.com/static/2023/12/14/68e39606712a73cbd8233daeb4bf5bd7_9163479592273410270.JPG) |
 | 2023121412564 | 【绝区零】兑换中心限定（永久） | 0 | 1 | 3000 | [图](https://bbs-static.miyoushe.com/static/2023/12/14/b9f89c88deca0f959cf6bf53604a62da_105025548955261412.JPG) |
 | 2023111312980 | 【崩坏学园2】「崩坏娘本体」头像挂件 | 0 | 1 | 3000 | [图](https://bbs-static.miyoushe.com/static/2023/11/13/43be4a336e534e3e166c89a84d3a41bd_7093818662758735240.jpg) |
