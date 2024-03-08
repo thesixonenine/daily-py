@@ -74,6 +74,7 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| 2024030111814 | 异形抱枕-琪亚娜 | 5 | 1 | 13800 | [图](https://webstatic.mihoyo.com/upload/shop/2022/12/26/4eed4e7ad986fa31b269d1783f55ea03_6650741779283073770.jpg) |
 | 2024022812173 | 碎裂莲叶心*1 | 0 | 10 | 1620 | [图](https://bbs-static.miyoushe.com/static/2024/02/28/7cebb4fdcc26d952e8548c48b434cf0b_2696606498875419462.JPG) |
 | 2024022812766 | 碎裂日月夜*1 | 0 | 10 | 1620 | [图](https://bbs-static.miyoushe.com/static/2024/02/28/374fa7ccc932791c798695c13cb61db8_420490504064542258.JPG) |
 | 2021063012515 | 源初虹石*1 | 0 | 2 | 2160 | [图](https://webstatic.mihoyo.com/upload/shop/2021/06/30/969ba1a37464eeccf2b8ca2b61c9c594_7589959260977616587.png) |
