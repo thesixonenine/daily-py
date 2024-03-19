@@ -75,7 +75,6 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 2024030111814 | 异形抱枕-琪亚娜 | 0 | 1 | 13800 | [图](https://webstatic.mihoyo.com/upload/shop/2022/12/26/4eed4e7ad986fa31b269d1783f55ea03_6650741779283073770.jpg) |
 | 2024022812173 | 碎裂莲叶心*1 | 0 | 10 | 1620 | [图](https://bbs-static.miyoushe.com/static/2024/02/28/7cebb4fdcc26d952e8548c48b434cf0b_2696606498875419462.JPG) |
 | 2024022812766 | 碎裂日月夜*1 | 0 | 10 | 1620 | [图](https://bbs-static.miyoushe.com/static/2024/02/28/374fa7ccc932791c798695c13cb61db8_420490504064542258.JPG) |
 | 2021063012515 | 源初虹石*1 | 0 | 2 | 2160 | [图](https://webstatic.mihoyo.com/upload/shop/2021/06/30/969ba1a37464eeccf2b8ca2b61c9c594_7589959260977616587.png) |
@@ -90,6 +89,7 @@
 | 215857984577762787521044579719 | 金币*50000 | 0 | 6 | 325 | [图](https://webstatic.mihoyo.com/upload/shop/2020/04/02/2472b1bfffbf8035ff5f6e99d5929b3a_6822720649602252359.png) |
 | 21584685935740063573345650057 | 水晶*100 | 0 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2020/04/02/4bd2da5339a845dbed190fd24b8536b4_27683776169691285.png) |
 | 215846858267933661503355954163 | 水晶*50 | 0 | 2 | 1050 | [图](https://webstatic.mihoyo.com/upload/shop/2020/04/02/b14b4cb4dd7e69ff5f807e0ce47378b0_6039668935445695207.png) |
+| 2024030111814 | 异形抱枕-琪亚娜 | 0 | 1 | 13800 | [图](https://webstatic.mihoyo.com/upload/shop/2022/12/26/4eed4e7ad986fa31b269d1783f55ea03_6650741779283073770.jpg) |
 
 
 
