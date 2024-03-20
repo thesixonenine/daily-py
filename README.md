@@ -40,17 +40,6 @@
 
 
 
-#### hkrpg
-
-| goods_id | goods_name | next_num | account_cycle_limit | price | icon |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 2024020412706 | 信用点*50000 | 0 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/04/18/1486da72d8a3de6082168439a0034bc7_8695790455774052628.jpg) |
-| 2024020412727 | 漫游指南*5 | 0 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/04/18/e2f396d2c8d71b9a35cd00d39073a4e0_3488777836284613284.jpg) |
-| 2024020412243 | 星琼*60 | 0 | 1 | 1800 | [图](https://bbs-static.miyoushe.com/static/2023/04/17/4bfddac07bede076d69b6332f5e55882_543536464151551139.jpg) |
-| 2024020411124 | 列车迎新茶会主题盒蛋-丹恒 | 0 | 1 | 19600 | [图](https://bbs-static.miyoushe.com/static/2024/02/04/69f50bc7610b480ac8582bc7304434fd_386963475866976313.jpg) |
-
-
-
 #### bh3
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
