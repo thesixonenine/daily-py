@@ -40,6 +40,15 @@
 
 
 
+#### hkrpg
+
+| goods_id | goods_name | next_num | account_cycle_limit | price | icon |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 2024032011668 | 光锥系列 亚克力色纸-片刻，留在眼底 | 10 | 1 | 11100 | [图](https://bbs-static.miyoushe.com/static/2024/03/20/929b2248eb409163dbb2354d62a0af97_826206156491013854.JPG) |
+| 2024032011423 | 光锥系列 亚克力色纸-惊魂夜 | 10 | 1 | 11100 | [图](https://bbs-static.miyoushe.com/static/2024/03/20/71ca1d0d01cf8c0b456394274bb35c77_8782430894729285756.JPG) |
+
+
+
 #### bh3
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
