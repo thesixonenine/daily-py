@@ -44,6 +44,7 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| 2024032712598 | 星琼*120 | 1000 | 1 | 3600 | [图](https://bbs-static.miyoushe.com/static/2024/03/27/4bfddac07bede076d69b6332f5e55882_1270099574710446816.jpg) |
 | 2024032012726 | 信用点*50000 | 3000 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/04/18/1486da72d8a3de6082168439a0034bc7_8695790455774052628.jpg) |
 | 2024032012848 | 漫游指南*5 | 3000 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/04/18/e2f396d2c8d71b9a35cd00d39073a4e0_3488777836284613284.jpg) |
 | 2024032012705 | 星琼*60 | 3000 | 1 | 1800 | [图](https://bbs-static.miyoushe.com/static/2023/04/17/4bfddac07bede076d69b6332f5e55882_543536464151551139.jpg) |
