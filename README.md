@@ -57,6 +57,8 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| 2024032711958 | 银冬雪趣系列流沙挂件-芽衣 | 5 | 1 | 8800 | [图](https://bbs-static.miyoushe.com/static/2024/03/27/f61cfbf747d3aee09fbc66c428d827fa_1973241555709661555.JPG) |
+| 2024032711923 | 银冬雪趣系列流沙挂件-琪亚娜 | 5 | 1 | 8800 | [图](https://bbs-static.miyoushe.com/static/2024/03/27/8dc494f3ac9e2bb24474baa9d13ff7ea_8839905586031753673.JPG) |
 | 2023042712873 | 水晶*100 | 8125 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2020/06/18/ccf130fa959888e48af399799ac91458_2459754489211937281.png) |
 | 2021040912146 | 高级技能材料*5 | 0 | 1 | 1800 | [图](https://webstatic.mihoyo.com/upload/shop/2021/04/09/48752dc5ab70c818b6b72a6513c95f2f_5640911369522514077.png) |
 | 215791797313419356364222347148 | 逆熵·虚数核心*5 | 0 | 2 | 1200 | [图](https://webstatic.mihoyo.com/upload/shop/2021/04/09/714c64b6547f2a1274b1524fddc7febb_2808239829919819812.png) |
