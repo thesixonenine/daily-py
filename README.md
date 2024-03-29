@@ -70,6 +70,8 @@
 <details><summary>Details</summary>
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| 2024032812961 | 未名币×10000 | 0 | 3 | 500 | [图](https://bbs-static.miyoushe.com/static/2024/03/28/128a0c66b8b19a0f8e5f4e75942b5a79_1660267102004153790.JPG) |
+| 2024032812747 | 法理之谕III×5 | 0 | 3 | 1000 | [图](https://bbs-static.miyoushe.com/static/2024/03/28/b05835f904e634c6d0908ab7a9f792b4_2339111299338644701.JPG) |
 | 2020091012247 | 未名晶片×100 | 300 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2020/09/10/3ec51e35f50fb60eda4705778177c24b_3871479849056199956.png) |
 
 </details>
