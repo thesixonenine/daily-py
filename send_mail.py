@@ -47,14 +47,14 @@ def send_message(message, subject):
 
 def send_mail(sub: str, content: str):
     # 主题
-    subject = 'Github Action - ' + sub
+    subject = 'GitHub Action - ' + sub
     message = MIMEText(content, 'plain', 'utf-8')
     send_message(message, subject)
 
 
 def send_mail_html(sub: str, content: str):
     # 主题
-    subject = 'Github Action - ' + sub
+    subject = 'GitHub Action - ' + sub
     message = MIMEText(content, 'html', 'utf-8')
     send_message(message, subject)
 
