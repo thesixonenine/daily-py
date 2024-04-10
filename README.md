@@ -29,8 +29,8 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 2024030512788 | 原石*150 | 1200 | 1 | 4500 | [图](https://bbs-static.miyoushe.com/static/2024/03/05/dab394b1516c58a00b91f8dba9756110_7122093995032797065.png) |
-| 2024030512491 | 原石*60 | 3000 | 1 | 1800 | [图](https://bbs-static.miyoushe.com/static/2024/03/05/dab394b1516c58a00b91f8dba9756110_997421912069450575.png) |
+| 2024030512788 | 原石*150 | 0 | 1 | 4500 | [图](https://bbs-static.miyoushe.com/static/2024/03/05/dab394b1516c58a00b91f8dba9756110_7122093995032797065.png) |
+| 2024030512491 | 原石*60 | 0 | 1 | 1800 | [图](https://bbs-static.miyoushe.com/static/2024/03/05/dab394b1516c58a00b91f8dba9756110_997421912069450575.png) |
 | 2024030511350 | 枫丹廷主题系列 人物亚克力立牌-芙宁娜 | 15 | 1 | 11300 | [图](https://bbs-static.miyoushe.com/static/2024/03/05/fc8e1dcae79175ff8a3c8f7e308ae8b0_4801585755985706990.JPG) |
 | 2024030511716 | 枫丹廷主题系列 人物亚克力立牌-夏洛蒂 | 15 | 1 | 11300 | [图](https://bbs-static.miyoushe.com/static/2024/03/05/d89b978a70806b5d737a823202e323cf_6553360825079078450.JPG) |
 | 2024030511338 | 枫丹廷主题系列 人物徽章-娜维娅 | 15 | 1 | 2800 | [图](https://bbs-static.miyoushe.com/static/2024/03/05/85252f77796eec4fee24f1367459374c_868223527348651275.JPG) |
