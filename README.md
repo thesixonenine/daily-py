@@ -44,6 +44,12 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| 2024042612246 | 信用点*50000 | 3000 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/04/18/1486da72d8a3de6082168439a0034bc7_8695790455774052628.jpg) |
+| 2024042612775 | 漫游指南*5 | 3000 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/04/18/e2f396d2c8d71b9a35cd00d39073a4e0_3488777836284613284.jpg) |
+| 2024042612953 | 星琼*60 | 3000 | 1 | 1800 | [图](https://bbs-static.miyoushe.com/static/2023/04/17/4bfddac07bede076d69b6332f5e55882_543536464151551139.jpg) |
+| 2024042611886 | 角色立绘系列 亚克力挂件-桂乃芬 | 10 | 1 | 7400 | [图](https://bbs-static.miyoushe.com/static/2024/04/26/d9371d4043747f27a1df91f54fd160b2_7669899225032179500.JPG) |
+| 2024042611749 | 角色立绘系列 亚克力挂件-镜流 | 10 | 1 | 7400 | [图](https://bbs-static.miyoushe.com/static/2024/04/26/13dc34dfe7f258d2901a504f1b3b9139_5172260523956603963.JPG) |
+| 2024042611277 | 角色立绘系列 亚克力挂件-托帕 | 10 | 1 | 7400 | [图](https://bbs-static.miyoushe.com/static/2024/04/26/655dc228050e9017586530ba06e8b196_3156974655039875241.JPG) |
 | 2024032012726 | 信用点*50000 | 0 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/04/18/1486da72d8a3de6082168439a0034bc7_8695790455774052628.jpg) |
 | 2024032012848 | 漫游指南*5 | 0 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/04/18/e2f396d2c8d71b9a35cd00d39073a4e0_3488777836284613284.jpg) |
 | 2024032712598 | 星琼*120 | 0 | 1 | 3600 | [图](https://bbs-static.miyoushe.com/static/2024/03/27/4bfddac07bede076d69b6332f5e55882_1270099574710446816.jpg) |
