@@ -57,6 +57,8 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| 2024050911650 | 小不点英桀系列立牌-凯文 | 5 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2024/05/09/955aad33a8a5b449beb5914474a24eed_8974112454820372301.JPG) |
+| 2024050911582 | 小不点英桀系列立牌-爱莉希雅 | 5 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2024/05/09/496ae74d59cf5cd736153d3b7fd26179_7398604751852541719.JPG) |
 | 2023042712873 | 水晶*100 | 8750 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2020/06/18/ccf130fa959888e48af399799ac91458_2459754489211937281.png) |
 | 2021040912146 | 高级技能材料*5 | 0 | 1 | 1800 | [图](https://webstatic.mihoyo.com/upload/shop/2021/04/09/48752dc5ab70c818b6b72a6513c95f2f_5640911369522514077.png) |
 | 215791797313419356364222347148 | 逆熵·虚数核心*5 | 0 | 2 | 1200 | [图](https://webstatic.mihoyo.com/upload/shop/2021/04/09/714c64b6547f2a1274b1524fddc7febb_2808239829919819812.png) |
