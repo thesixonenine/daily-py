@@ -112,8 +112,6 @@
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 2024042512275 | 【崩坏：星穹铁道】「周年庆典」（永久） | 0 | 1 | 1 | [图](https://bbs-static.miyoushe.com/static/2024/04/23/656576a0b47196a32cdb83d1b5ab4843_6983350694157137265.jpg) |
-| 2024042512418 | 【未定事件簿】头像挂件「少年如你」（永久） | 0 | 1 | 3000 | [图](https://bbs-static.miyoushe.com/static/2024/04/25/f82c0669ec3094eb23659e5f4d4251b2_7493628929355781286.jpg) |
-| 2024042512394 | 【未定事件簿】头像挂件「少年如你」（30天） | 0 | 1 | 1000 | [图](https://bbs-static.miyoushe.com/static/2024/04/25/f82c0669ec3094eb23659e5f4d4251b2_7493628929355781286.jpg) |
 | 2023121412496 | 【原神】「派蒙的晚餐」（永久） | 0 | 1 | 3000 | [图](https://bbs-static.miyoushe.com/static/2023/12/14/68e39606712a73cbd8233daeb4bf5bd7_9163479592273410270.JPG) |
 | 2023121412564 | 【绝区零】兑换中心限定（永久） | 0 | 1 | 3000 | [图](https://bbs-static.miyoushe.com/static/2023/12/14/b9f89c88deca0f959cf6bf53604a62da_105025548955261412.JPG) |
 | 2023021012469 | 【未定事件簿】「情诗」（永久） | 0 | 1 | 3000 | [图](https://webstatic.mihoyo.com/upload/shop/2022/12/23/faba435917f41dfdce30440435a61cf6_5477568449308330917.jpg) |
