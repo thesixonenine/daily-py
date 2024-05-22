@@ -35,8 +35,8 @@
 | 2024041811511 | 须弥城主题系列 人物亚克力立牌-纳西妲 | 10 | 1 | 11300 | [图](https://bbs-static.miyoushe.com/static/2024/04/18/742074d1f5b4f565bd46bd894654dc2f_7120170732534571270.JPG) |
 | 2024041712114 | 摩拉*50000 | 4000 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/12/15/d63798a398c18de7f3ce23b7e1dcd02f_4185741274520876424.png) |
 | 2024041712714 | 大英雄的经验*5 | 4000 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/12/15/468097d8c7fb608f3a23d057d871e48a_8999314989171398387.png) |
-| 2024041712262 | 原石*60 | 3000 | 1 | 1800 | [图](https://bbs-static.miyoushe.com/static/2024/04/17/dab394b1516c58a00b91f8dba9756110_9101614104413804942.png) |
-| 2024041712910 | 原石*150 | 1200 | 1 | 4500 | [图](https://bbs-static.miyoushe.com/static/2024/04/17/dab394b1516c58a00b91f8dba9756110_5312378753285048713.png) |
+| 2024041712262 | 原石*60 | 0 | 1 | 1800 | [图](https://bbs-static.miyoushe.com/static/2024/04/17/dab394b1516c58a00b91f8dba9756110_9101614104413804942.png) |
+| 2024041712910 | 原石*150 | 0 | 1 | 4500 | [图](https://bbs-static.miyoushe.com/static/2024/04/17/dab394b1516c58a00b91f8dba9756110_5312378753285048713.png) |
 
 
 
