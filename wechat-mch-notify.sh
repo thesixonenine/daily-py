@@ -6,7 +6,7 @@ strings=$(curl -s "https://mp.weixin.qq.com/cgi-bin/announce?action=getannouncem
 # 固定字符串
 fixed_string="https://mp.weixin.qq.com/cgi-bin/announce?action=getannouncement&announce_id="
 
-days_ago=133
+days_ago=1
 day_start=$(date "+%s" -d "$(date -d "${days_ago} days ago" "+%Y-%m-%d") 00:00:00")
 day_end=$(date "+%s" -d "$(date -d "${days_ago} days ago" "+%Y-%m-%d") 23:59:59")
 
