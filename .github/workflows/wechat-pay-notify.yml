@@ -37,4 +37,5 @@ jobs:
         EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
         EMAIL_TO: ${{ secrets.EMAIL_TO }}
       run: |
+        chmod +x ./wechat-pay-notify.sh
         ./wechat-pay-notify.sh
