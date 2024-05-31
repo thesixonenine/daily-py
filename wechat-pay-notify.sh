@@ -6,6 +6,7 @@ response=$(curl -s "https://pay.weixin.qq.com/index.php/public/cms/get_contents?
 # 解析JSON数据，提取contentId和contentTitle
 data=$(echo "$response" | jq --compact-output -r '.data.contentlist[]')
 
+P="https://pay.weixin.qq.com/index.php/public/cms/content_detail?platformType=0&lang=zh&id="
 # 初始化最终字符串Z
 Z=""
 # 当前Unix时间戳
@@ -25,7 +26,7 @@ for row in $data; do
 	if [ $specified_time -ge $yesterday_start ] && [ $specified_time -le $yesterday_end ]; then
 	    # 将字符串Y追加到最终字符串Z
 	    echo "News: $row"
-        Z="${Z}${row}"
+        Z="${Z}${contentTitle}: ${P}${contentId} "
 	fi
 done
 echo $Z
