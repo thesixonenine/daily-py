@@ -29,6 +29,15 @@
 
 | goods_id | goods_name | next_num | account_cycle_limit | price | icon |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| 2024052311247 | 命定之日系列 套装礼盒-八重神子 | 10 | 1 | 13500 | [图](https://bbs-static.miyoushe.com/static/2024/05/23/6acafa78c1a65a7cc18aafc16c9f2f90_7560640635795231805.JPG) |
+| 2024052311942 | 命定之日系列 套装礼盒-珊瑚宫心海 | 10 | 1 | 13500 | [图](https://bbs-static.miyoushe.com/static/2024/05/23/6d410103d6bef5c4c4a6f30b7c4a8f46_7360961994805685102.JPG) |
+| 2024052311297 | 2022线上音乐会系列 主题徽章-枫原万叶 | 10 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2024/05/23/f9259ba096b1cb6cd510ab3bfb6ce41a_6222305094233156198.JPG) |
+| 2024052311431 | 2022线上音乐会系列 主题徽章-八重神子 | 10 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2024/05/23/9f8742c421d8850f424347ddab871935_670345643280959836.JPG) |
+| 2024052311807 | 2022线上音乐会系列 主题徽章-申鹤 | 10 | 1 | 6500 | [图](https://bbs-static.miyoushe.com/static/2024/05/23/b7e3b44cd7d49006164e1f651888d0ae_3089410136178061741.JPG) |
+| 2024052312630 | 摩拉*50000 | 4000 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/12/15/d63798a398c18de7f3ce23b7e1dcd02f_4185741274520876424.png) |
+| 2024052312623 | 大英雄的经验*5 | 4000 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/12/15/468097d8c7fb608f3a23d057d871e48a_8999314989171398387.png) |
+| 2024052312636 | 原石*150 | 1200 | 1 | 4500 | [图](https://bbs-static.miyoushe.com/static/2024/05/23/dab394b1516c58a00b91f8dba9756110_679454054292256566.png) |
+| 2024052312694 | 原石*60 | 3000 | 1 | 1800 | [图](https://bbs-static.miyoushe.com/static/2024/05/23/dab394b1516c58a00b91f8dba9756110_6212871335819020632.png) |
 | 2024041712114 | 摩拉*50000 | 0 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/12/15/d63798a398c18de7f3ce23b7e1dcd02f_4185741274520876424.png) |
 | 2024041712714 | 大英雄的经验*5 | 0 | 1 | 1500 | [图](https://bbs-static.miyoushe.com/static/2023/12/15/468097d8c7fb608f3a23d057d871e48a_8999314989171398387.png) |
 | 2024041811534 | 须弥城主题系列 人物亚克力立牌-提纳里 | 0 | 1 | 11300 | [图](https://bbs-static.miyoushe.com/static/2024/04/18/b058a4f5d5981184b6a003651da6428a_4428947293424851728.JPG) |
