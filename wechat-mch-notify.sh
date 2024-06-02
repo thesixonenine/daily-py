@@ -22,4 +22,6 @@ do
 	fi
 done
 
-python send_mail.py WeChat-Mch-Notify "$Z"
+if [ "$Z" = '' ]; then
+    python send_mail.py WeChat-Mch-Notify "$Z"
+fi
