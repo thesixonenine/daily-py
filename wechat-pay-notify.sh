@@ -29,5 +29,7 @@ for row in $data; do
         Z="${Z}${contentTitle}: ${P}${contentId} "
 	fi
 done
-echo $Z
-python send_mail.py WeChat-Pay-Notify "${Z}"
+
+if [ "$Z" = '' ]; then
+    python send_mail.py WeChat-Pay-Notify "${Z}"
+fi
