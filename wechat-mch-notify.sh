@@ -23,5 +23,5 @@ do
 done
 
 if [ "$Z" != '' ]; then
-    # python send_mail.py WeChat-Mch-Notify "$Z"
+    python send_mail.py WeChat-Mch-Notify "$Z"
 fi
