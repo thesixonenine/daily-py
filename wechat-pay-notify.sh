@@ -30,6 +30,6 @@ for row in $data; do
 	fi
 done
 
-if [ "$Z" = '' ]; then
+if [ "$Z" != '' ]; then
     python send_mail.py WeChat-Pay-Notify "${Z}"
 fi
